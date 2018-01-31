@@ -1,0 +1,1000 @@
+2017-11-22 17:19:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:22:16-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:22:23-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 17:22:23-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 17:22:23-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 17:22:23-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 17:22:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 17:22:25-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 17:22:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 17:22:25-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 17:22:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 17:22:26-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 17:22:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 17:22:29-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 17:22:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 17:22:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type 	Important Notification
+2017-11-22 17:22:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 17:22:31-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 17:22:33-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 17:22:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 17:22:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	ATQ
+2017-11-22 17:22:35-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 17:22:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-22 17:23:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	BLR
+2017-11-22 17:23:23-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-22 17:23:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-22 17:23:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-22 17:23:26-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_Startime()
+2017-11-22 17:23:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Start Time
+2017-11-22 17:24:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:25:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 17:25:00-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 17:25:00-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 17:25:01-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 17:25:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 17:25:02-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 17:25:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 17:25:02-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 17:25:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 17:25:03-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 17:25:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 17:25:07-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 17:25:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 17:25:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type 	Important Notification
+2017-11-22 17:25:17-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 17:26:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:26:46-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-22 17:26:46-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 17:26:47-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 17:26:47-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 17:26:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 17:26:49-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 17:26:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 17:26:49-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 17:26:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 17:26:49-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 17:26:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-22 17:26:52-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 17:26:54-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 17:26:55-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-22 17:26:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 17:33:19-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:33:27-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 17:33:27-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 17:33:28-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 17:33:28-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 17:33:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 17:33:29-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 17:33:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 17:33:29-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 17:33:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 17:33:30-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 17:33:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 17:33:33-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 17:33:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 17:33:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type 	Important Notification
+2017-11-22 17:33:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 17:33:35-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 17:33:36-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 17:33:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 17:33:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	ATQ
+2017-11-22 17:33:48-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 17:33:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-22 17:34:17-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:34:22-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 17:34:22-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 17:34:22-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 17:34:22-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 17:34:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 17:34:24-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 17:34:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 17:34:25-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 17:34:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 17:34:25-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 17:34:27-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 17:34:27-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 17:34:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 17:34:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type 	Important Notification
+2017-11-22 17:34:28-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 17:34:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 17:34:31-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 17:34:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 17:34:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	ATQ
+2017-11-22 17:34:47-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 17:36:25-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:36:31-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 17:36:31-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 17:36:32-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 17:36:32-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 17:36:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 17:36:33-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 17:36:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 17:36:34-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 17:36:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 17:36:34-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 17:36:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 17:36:36-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 17:36:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 17:36:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type 	Important Notification
+2017-11-22 17:36:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 17:36:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 17:36:40-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 17:37:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 17:37:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	ATQ
+2017-11-22 17:37:10-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 17:39:35-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:39:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 17:39:40-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 17:39:40-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 17:39:40-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 17:39:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 17:39:41-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 17:39:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 17:39:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 17:39:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 17:39:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 17:39:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 17:39:44-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 17:39:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 17:39:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type 	Important Notification
+2017-11-22 17:39:45-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 17:39:46-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 17:39:48-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 17:40:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 17:40:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	ATQ
+2017-11-22 17:40:45-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 17:40:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-22 17:40:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	BLR
+2017-11-22 17:40:47-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-22 17:40:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-22 17:40:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-22 17:40:51-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_Startime()
+2017-11-22 17:40:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Start Time
+2017-11-22 17:43:50-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:43:56-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 17:43:56-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 17:43:56-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 17:43:57-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 17:43:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 17:43:58-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 17:43:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 17:43:58-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 17:43:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 17:43:59-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 17:44:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 17:44:02-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 17:44:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 17:44:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type 	Important Notification
+2017-11-22 17:44:02-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 17:44:04-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 17:44:06-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 17:44:06-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-22 17:44:54-main--INFO -com.ctaf.accelerators.TestEngine: Unable to get TscreenShot
+2017-11-22 17:47:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:47:59-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-22 17:47:59-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 17:47:59-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 17:47:59-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 17:48:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 17:48:01-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 17:48:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 17:48:01-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 17:48:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 17:48:01-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 17:48:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-22 17:48:04-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 17:48:05-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 17:48:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-22 17:48:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 17:48:21-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:48:26-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 17:48:26-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 17:48:26-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 17:48:26-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 17:48:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 17:48:28-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 17:48:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 17:48:28-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 17:48:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 17:48:28-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 17:48:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 17:48:31-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 17:48:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 17:48:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type 	Important Notification
+2017-11-22 17:48:31-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 17:48:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 17:48:34-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 17:49:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 17:49:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	ATQ
+2017-11-22 17:49:35-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 17:49:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-22 17:49:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	BLR
+2017-11-22 17:49:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-22 17:49:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-22 17:49:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-22 17:49:40-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_Startime()
+2017-11-22 17:49:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Start Time
+2017-11-22 17:52:23-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:52:28-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 17:52:28-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 17:52:28-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 17:52:28-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 17:52:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 17:52:30-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 17:52:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 17:52:30-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 17:52:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 17:52:30-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 17:52:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 17:52:33-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 17:52:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 17:52:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type 	Important Notification
+2017-11-22 17:52:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 17:52:35-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 17:52:37-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 17:52:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 17:52:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	ATQ
+2017-11-22 17:52:39-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 17:52:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-22 17:52:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	BLR
+2017-11-22 17:52:41-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-22 17:52:43-main--INFO -com.ctaf.accelerators.TestEngine: Unable to get TscreenShot
+2017-11-22 17:52:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-22 17:52:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-22 17:52:45-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_Startime()
+2017-11-22 17:52:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Start Time
+2017-11-22 17:52:47-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_EndTime()
+2017-11-22 17:52:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on End Time
+2017-11-22 17:53:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:53:43-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 17:53:43-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 17:53:43-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 17:53:43-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 17:53:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 17:53:44-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 17:53:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 17:53:44-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 17:53:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 17:53:45-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 17:53:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 17:53:48-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 17:53:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 17:53:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type 	Important Notification
+2017-11-22 17:53:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 17:53:50-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 17:53:52-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 17:53:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 17:53:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	ATQ
+2017-11-22 17:53:54-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 17:53:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-22 17:53:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	BLR
+2017-11-22 17:53:56-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-22 17:53:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-22 17:54:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-22 17:54:00-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_Startime()
+2017-11-22 17:54:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Start Time
+2017-11-22 17:54:02-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_EndTime()
+2017-11-22 17:54:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on End Time
+2017-11-22 17:54:04-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewType()
+2017-11-22 17:54:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type
+2017-11-22 17:54:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type  	Cabin Crew
+2017-11-22 17:54:06-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 17:54:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight Staus
+2017-11-22 17:54:48-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:54:53-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 17:54:53-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 17:54:53-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 17:54:53-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 17:54:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 17:54:55-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 17:54:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 17:54:55-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 17:54:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 17:54:56-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 17:54:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 17:54:58-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 17:54:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 17:54:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type 	Important Notification
+2017-11-22 17:54:59-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 17:55:00-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 17:55:02-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 17:55:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 17:55:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	ATQ
+2017-11-22 17:55:04-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 17:55:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-22 17:55:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	BLR
+2017-11-22 17:55:06-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-22 17:55:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-22 17:55:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-22 17:55:10-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_Startime()
+2017-11-22 17:55:12-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Start Time
+2017-11-22 17:55:12-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_EndTime()
+2017-11-22 17:55:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on End Time
+2017-11-22 17:55:14-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewType()
+2017-11-22 17:55:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type
+2017-11-22 17:55:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type  	Cabin Crew
+2017-11-22 17:55:16-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 17:55:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight Staus
+2017-11-22 17:56:57-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:57:02-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 17:57:02-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 17:57:02-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 17:57:02-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 17:57:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 17:57:04-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 17:57:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 17:57:04-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 17:57:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 17:57:05-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 17:57:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 17:57:07-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 17:57:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 17:57:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type 	Important Notification
+2017-11-22 17:57:08-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 17:57:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 17:57:11-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 17:57:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 17:57:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	ATQ
+2017-11-22 17:57:13-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 17:57:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-22 17:57:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	BLR
+2017-11-22 17:57:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-22 17:57:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-22 17:57:19-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-22 17:57:19-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_Startime()
+2017-11-22 17:57:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Start Time
+2017-11-22 17:57:21-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_EndTime()
+2017-11-22 17:57:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on End Time
+2017-11-22 17:57:23-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewType()
+2017-11-22 17:57:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type
+2017-11-22 17:57:25-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 17:57:27-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight Staus
+2017-11-22 17:57:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight Status 	All
+2017-11-22 17:57:28-main--INFO -com.ctaf.accelerators.TestEngine:in PAD_SMSTemplate()
+2017-11-22 17:57:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on SMS Template
+2017-11-22 17:57:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	Welcome Crew Template
+2017-11-22 17:57:30-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_AddCCNo()
+2017-11-22 17:57:32-main--INFO -com.ctaf.accelerators.TestEngine:Type  12345 in CC No
+2017-11-22 17:57:32-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-22 17:58:19-main--INFO -com.ctaf.accelerators.TestEngine: Unable to get TscreenShot
+2017-11-22 17:58:27-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 17:58:32-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 17:58:32-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 17:58:32-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 17:58:32-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 17:58:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 17:58:33-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 17:58:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 17:58:33-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 17:58:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 17:58:34-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 17:58:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 17:58:37-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 17:58:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 17:58:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type 	Important Notification
+2017-11-22 17:58:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 17:58:39-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 17:58:40-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 17:58:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 17:58:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	ATQ
+2017-11-22 17:58:42-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 17:58:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-22 17:58:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	BLR
+2017-11-22 17:58:45-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-22 17:58:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-22 17:58:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-22 17:58:48-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_Startime()
+2017-11-22 17:58:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Start Time
+2017-11-22 17:58:50-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_EndTime()
+2017-11-22 17:58:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on End Time
+2017-11-22 17:58:52-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewType()
+2017-11-22 17:58:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type
+2017-11-22 17:58:54-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 17:58:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight Staus
+2017-11-22 17:58:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight Status 	All
+2017-11-22 17:58:57-main--INFO -com.ctaf.accelerators.TestEngine:in PAD_SMSTemplate()
+2017-11-22 17:58:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on SMS Template
+2017-11-22 17:58:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	Welcome Crew Template
+2017-11-22 17:58:59-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_AddCCNo()
+2017-11-22 17:59:01-main--INFO -com.ctaf.accelerators.TestEngine:Type  12345 in CC No
+2017-11-22 17:59:01-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-22 17:59:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-22 17:59:03-main--INFO -com.ctaf.accelerators.TestEngine:in AU_SelectFirstFlight()
+2017-11-22 17:59:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-22 17:59:35-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSendButton()
+2017-11-22 17:59:35-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-22 18:00:04-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:00:11-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:00:11-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:00:11-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:00:11-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:00:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:00:13-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:00:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:00:13-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:00:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:00:14-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:00:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:00:16-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:00:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:00:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type 	Important Notification
+2017-11-22 18:00:17-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:00:18-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:00:20-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:00:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 18:01:35-main--INFO -com.ctaf.accelerators.TestEngine: Unable to get TscreenShot
+2017-11-22 18:02:37-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:02:43-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:02:43-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:02:43-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:02:43-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:02:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:02:44-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:02:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:02:45-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:02:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:02:45-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:02:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:02:48-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:02:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:02:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:02:50-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:02:52-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:04:18-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:04:24-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:04:24-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:04:24-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:04:24-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:04:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:04:25-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:04:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:04:25-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:04:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:04:26-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:04:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:04:29-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:04:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:04:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:04:31-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:04:33-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:05:37-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:05:43-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:05:43-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:05:44-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:05:44-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:05:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:05:45-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:05:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:05:45-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:05:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:05:46-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:05:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:05:49-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:05:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:05:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:05:51-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:05:53-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:05:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 18:05:55-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 18:05:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-22 18:05:57-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-22 18:05:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-22 18:06:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-22 18:06:01-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_Startime()
+2017-11-22 18:06:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Start Time
+2017-11-22 18:06:03-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_EndTime()
+2017-11-22 18:06:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on End Time
+2017-11-22 18:06:05-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewType()
+2017-11-22 18:06:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type
+2017-11-22 18:06:07-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 18:06:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight Staus
+2017-11-22 18:06:09-main--INFO -com.ctaf.accelerators.TestEngine:in PAD_SMSTemplate()
+2017-11-22 18:06:12-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-22 18:06:37-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:06:42-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:06:42-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:06:42-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:06:42-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:06:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:06:43-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:06:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:06:43-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:06:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:06:44-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:06:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:06:46-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:06:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:06:46-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:06:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:06:50-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:06:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 18:06:53-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 18:06:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-22 18:06:55-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-22 18:06:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-22 18:06:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-22 18:06:59-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_Startime()
+2017-11-22 18:07:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Start Time
+2017-11-22 18:07:01-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_EndTime()
+2017-11-22 18:07:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on End Time
+2017-11-22 18:07:03-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewType()
+2017-11-22 18:07:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type
+2017-11-22 18:07:05-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 18:07:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight Staus
+2017-11-22 18:07:07-main--INFO -com.ctaf.accelerators.TestEngine:in PAD_SMSTemplate()
+2017-11-22 18:07:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on SMS Template
+2017-11-22 18:07:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	Welcome Crew Template
+2017-11-22 18:07:10-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_AddCCNo()
+2017-11-22 18:07:12-main--INFO -com.ctaf.accelerators.TestEngine:Type  12345 in CC No
+2017-11-22 18:07:12-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-22 18:07:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-22 18:07:14-main--INFO -com.ctaf.accelerators.TestEngine:in AU_SelectFirstFlight()
+2017-11-22 18:07:15-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-22 18:07:16-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSendButton()
+2017-11-22 18:07:16-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-22 18:07:36-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:07:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:07:40-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:07:41-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:07:41-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:07:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:07:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:07:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:07:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:07:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:07:43-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:07:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:07:46-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:07:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:07:47-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:07:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:07:50-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:07:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 18:08:34-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:08:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:08:38-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:08:38-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:08:38-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:08:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:08:40-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:08:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:08:40-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:08:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:08:40-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:08:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:08:43-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:08:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:08:43-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:08:45-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:08:47-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:08:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 18:09:31-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:09:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:09:37-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:09:37-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:09:37-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:09:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:09:38-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:09:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:09:38-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:09:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:09:38-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:09:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:09:41-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:09:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:09:42-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:09:43-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:09:45-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:09:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 18:11:04-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:11:09-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:11:09-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:11:09-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:11:09-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:11:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:11:10-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:11:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:11:11-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:11:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:11:11-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:11:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:11:14-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:11:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:11:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:11:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:11:17-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:11:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 18:11:51-main--INFO -com.ctaf.accelerators.TestEngine: Unable to get TscreenShot
+2017-11-22 18:12:49-main--INFO -com.ctaf.accelerators.TestEngine: Unable to get TscreenShot
+2017-11-22 18:12:57-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:13:02-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:13:02-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:13:02-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:13:02-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:13:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:13:04-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:13:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:13:04-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:13:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:13:05-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:13:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:13:07-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:13:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:13:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:13:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:13:11-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:13:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 18:14:03-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:14:08-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:14:08-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:14:08-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:14:08-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:14:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:14:10-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:14:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:14:10-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:14:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:14:11-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:14:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:14:14-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:14:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:14:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:14:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:14:23-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:14:27-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 18:15:44-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:15:50-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:15:54-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:15:54-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:15:55-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:15:55-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:15:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:15:56-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:15:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:15:56-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:15:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:15:57-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:16:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:16:00-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:16:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:16:00-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:16:02-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:16:14-main--INFO -com.ctaf.accelerators.TestEngine: Unable to get TscreenShot
+2017-11-22 18:16:31-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:16:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:16:37-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:16:37-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:16:37-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:16:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:16:38-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:16:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:16:39-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:16:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:16:39-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:16:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:16:42-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:16:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:16:42-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:16:44-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:16:50-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:17:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 18:17:30-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:17:35-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:17:36-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:17:36-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:17:36-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:17:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:17:37-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:17:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:17:37-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:17:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:17:38-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:17:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:17:41-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:17:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:17:41-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:17:43-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:17:49-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:18:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 18:18:52-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:18:57-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:18:57-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:18:57-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:18:57-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:18:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:18:58-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:18:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:18:58-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:18:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:18:59-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:19:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:19:01-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:19:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:19:01-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:19:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:19:05-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:19:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 18:19:09-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 18:19:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-22 18:19:11-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-22 18:19:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-22 18:19:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-22 18:19:14-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_Startime()
+2017-11-22 18:19:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Start Time
+2017-11-22 18:19:17-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_EndTime()
+2017-11-22 18:19:19-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-22 18:20:50-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:20:55-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:20:55-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:20:56-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:20:56-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:20:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:20:57-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:20:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:20:57-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:20:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:20:58-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:21:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:21:01-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:21:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:21:01-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:21:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:21:05-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:21:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 18:24:21-main--INFO -com.ctaf.accelerators.TestEngine: Unable to get TscreenShot
+2017-11-22 18:26:25-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:26:32-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_016
+2017-11-22 18:26:32-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:26:32-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:26:33-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:26:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:26:34-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:26:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:26:34-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:26:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:26:35-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:26:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:26:38-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:26:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:26:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-22 18:26:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-22 18:26:41-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectOrigin()
+2017-11-22 18:26:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-22 18:26:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	AMD
+2017-11-22 18:26:44-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 18:26:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-22 18:26:46-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-22 18:26:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-22 18:26:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-22 18:26:49-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_Startime()
+2017-11-22 18:26:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Start Time
+2017-11-22 18:26:51-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_EndTime()
+2017-11-22 18:26:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on End Time
+2017-11-22 18:26:54-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewType()
+2017-11-22 18:26:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type
+2017-11-22 18:26:56-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectDestination()
+2017-11-22 18:26:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight Staus
+2017-11-22 18:26:58-main--INFO -com.ctaf.accelerators.TestEngine:in PAD_SMSTemplate()
+2017-11-22 18:27:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on SMS Template
+2017-11-22 18:27:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	Welcome Crew Template
+2017-11-22 18:27:00-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_AddCCNo()
+2017-11-22 18:27:02-main--INFO -com.ctaf.accelerators.TestEngine:Type  12345 in CC No
+2017-11-22 18:27:02-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-22 18:27:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-22 18:27:04-main--INFO -com.ctaf.accelerators.TestEngine:in AU_SelectFirstFlight()
+2017-11-22 18:27:06-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-22 18:27:07-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSendButton()
+2017-11-22 18:27:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Send Button
+2017-11-22 18:27:07-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmation()
+2017-11-22 18:36:58-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:37:03-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_017
+2017-11-22 18:37:03-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:37:03-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:37:03-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:37:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:37:04-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:37:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:37:05-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:37:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:37:05-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:37:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:37:07-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:37:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:37:07-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewType()
+2017-11-22 18:37:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type
+2017-11-22 18:37:10-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectBase()
+2017-11-22 18:38:00-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:38:06-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_017
+2017-11-22 18:38:06-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:38:06-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:38:06-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:38:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:38:07-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:38:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:38:07-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:38:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:38:08-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:38:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:38:10-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:38:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:38:11-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewType()
+2017-11-22 18:38:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type
+2017-11-22 18:38:13-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectBase()
+2017-11-22 18:38:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Base
+2017-11-22 18:40:46-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:40:52-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_017
+2017-11-22 18:40:52-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:40:52-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:40:52-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:40:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:40:54-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:40:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:40:54-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:40:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:40:55-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:40:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:40:57-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:40:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:40:58-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewType()
+2017-11-22 18:41:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type
+2017-11-22 18:41:01-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectBase()
+2017-11-22 18:41:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Base
+2017-11-22 18:41:01-main--INFO -com.ctaf.accelerators.TestEngine:in PAD_SMSTemplate()
+2017-11-22 18:41:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on SMS Template
+2017-11-22 18:41:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	Welcome Crew Template
+2017-11-22 18:41:03-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_AddCCNo()
+2017-11-22 18:41:06-main--INFO -com.ctaf.accelerators.TestEngine:Type  12345 in CC No
+2017-11-22 18:41:06-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-22 18:41:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-22 18:41:08-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-22 18:41:14-main--INFO -com.ctaf.accelerators.TestEngine: Unable to get TscreenShot
+2017-11-22 18:43:08-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-22 18:44:51-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:44:56-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_017
+2017-11-22 18:44:56-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:44:57-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:44:57-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:44:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:44:58-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:44:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:44:58-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:44:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:44:59-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:45:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:45:01-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:45:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:45:02-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewType()
+2017-11-22 18:45:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type
+2017-11-22 18:45:05-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectBase()
+2017-11-22 18:45:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Base
+2017-11-22 18:45:07-main--INFO -com.ctaf.accelerators.TestEngine:in PAD_SMSTemplate()
+2017-11-22 18:45:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on SMS Template
+2017-11-22 18:45:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	Welcome Crew Template
+2017-11-22 18:45:09-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_AddCCNo()
+2017-11-22 18:45:11-main--INFO -com.ctaf.accelerators.TestEngine:Type  12345 in CC No
+2017-11-22 18:45:11-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-22 18:45:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-22 18:45:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-22 18:47:14-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-22 18:47:49-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:47:54-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_017
+2017-11-22 18:47:54-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:47:54-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:47:54-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:47:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:47:55-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:47:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:47:56-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:47:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:47:56-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:47:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:47:59-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:47:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:47:59-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewType()
+2017-11-22 18:48:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type
+2017-11-22 18:48:02-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectBase()
+2017-11-22 18:48:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Base
+2017-11-22 18:48:04-main--INFO -com.ctaf.accelerators.TestEngine:in PAD_SMSTemplate()
+2017-11-22 18:48:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on SMS Template
+2017-11-22 18:48:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	Welcome Crew Template
+2017-11-22 18:48:07-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_AddCCNo()
+2017-11-22 18:48:09-main--INFO -com.ctaf.accelerators.TestEngine:Type  12345 in CC No
+2017-11-22 18:48:09-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-22 18:48:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-22 18:48:11-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-22 18:50:11-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-22 18:51:16-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:51:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_017
+2017-11-22 18:51:21-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:51:21-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:51:21-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:51:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:51:22-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:51:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:51:22-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:52:23-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-22 18:52:34-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:52:39-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_017
+2017-11-22 18:52:39-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:52:39-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:52:40-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:52:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:52:41-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:52:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:52:41-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:52:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:52:41-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:52:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:52:45-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:52:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:52:45-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewType()
+2017-11-22 18:52:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type
+2017-11-22 18:52:48-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectBase()
+2017-11-22 18:52:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Base
+2017-11-22 18:52:50-main--INFO -com.ctaf.accelerators.TestEngine:in PAD_SMSTemplate()
+2017-11-22 18:52:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on SMS Template
+2017-11-22 18:52:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	Welcome Crew Template
+2017-11-22 18:52:53-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_AddCCNo()
+2017-11-22 18:52:55-main--INFO -com.ctaf.accelerators.TestEngine:Type  12345 in CC No
+2017-11-22 18:52:55-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-22 18:52:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-22 18:52:57-main--INFO -com.ctaf.accelerators.TestEngine:in SelectSMS()
+2017-11-22 18:54:58-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-22 18:55:21-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:55:26-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_017
+2017-11-22 18:55:26-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:55:26-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:55:26-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:55:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:55:29-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:55:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:55:29-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:55:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:55:29-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:55:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:55:32-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:55:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:55:32-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewType()
+2017-11-22 18:55:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type
+2017-11-22 18:55:35-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectBase()
+2017-11-22 18:55:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Base
+2017-11-22 18:55:37-main--INFO -com.ctaf.accelerators.TestEngine:in PAD_SMSTemplate()
+2017-11-22 18:55:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on SMS Template
+2017-11-22 18:55:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	Welcome Crew Template
+2017-11-22 18:55:40-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_AddCCNo()
+2017-11-22 18:55:42-main--INFO -com.ctaf.accelerators.TestEngine:Type  12345 in CC No
+2017-11-22 18:55:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-22 18:55:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-22 18:55:44-main--INFO -com.ctaf.accelerators.TestEngine:in SelectSMS()
+2017-11-22 18:55:46-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSendButton()
+2017-11-22 18:58:47-main--INFO -com.ctaf.accelerators.TestEngine: Unable to get TscreenShot
+2017-11-22 18:59:36-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-22 18:59:41-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_017
+2017-11-22 18:59:41-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-22 18:59:41-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-22 18:59:41-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-22 18:59:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-22 18:59:43-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-22 18:59:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-22 18:59:43-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-22 18:59:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-22 18:59:44-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-22 18:59:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Crew Adhoc Message
+2017-11-22 18:59:46-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewNotificationType()
+2017-11-22 18:59:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew Notification Type
+2017-11-22 18:59:47-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectCrewType()
+2017-11-22 18:59:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Crew type
+2017-11-22 18:59:50-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_SelectBase()
+2017-11-22 18:59:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Base
+2017-11-22 18:59:52-main--INFO -com.ctaf.accelerators.TestEngine:in PAD_SMSTemplate()
+2017-11-22 18:59:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on SMS Template
+2017-11-22 18:59:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	Welcome Crew Template
+2017-11-22 18:59:54-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_AddCCNo()
+2017-11-22 18:59:56-main--INFO -com.ctaf.accelerators.TestEngine:Type  12345 in CC No
+2017-11-22 18:59:56-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-22 18:59:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-22 18:59:59-main--INFO -com.ctaf.accelerators.TestEngine:in SelectSMS()
+2017-11-22 19:00:00-main--INFO -com.ctaf.accelerators.TestEngine:in CAM_ClickSend()
+2017-11-22 19:00:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Send Button
+2017-11-22 19:00:01-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmation()

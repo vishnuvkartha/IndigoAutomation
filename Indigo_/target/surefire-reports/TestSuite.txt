@@ -1,0 +1,1213 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 195, Failures: 115, Errors: 0, Skipped: 0, Time elapsed: 75,111.031 sec <<< FAILURE!
+TC01_CommonChecks_HomePage_HambergerMenu_Login_Signout_SiteAdmin(com.desktopWeb.scripts.common.TC_01_CommonChecks_HomePage_HamburgerMenu_Login_Signout_SiteAdmin)  Time elapsed: 87.272 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click on Menu expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.click(ActionEngine.java:100)
+	at com.desktopWeb.workflows.HelperClass.verifyHamberger(HelperClass.java:94)
+	at com.desktopWeb.scripts.common.TC_01_CommonChecks_HomePage_HamburgerMenu_Login_Signout_SiteAdmin.TC01_CommonChecks_HomePage_HambergerMenu_Login_Signout_SiteAdmin(TC_01_CommonChecks_HomePage_HamburgerMenu_Login_Signout_SiteAdmin.java:25)
+
+TC52_Detail_Update_Project(com.desktopWeb.scripts.addUpdate.TC_52_Detail_Update_Project)  Time elapsed: 221.157 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click on Submit expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.click(ActionEngine.java:100)
+	at com.desktopWeb.workflows.HelperClass.detailName(HelperClass.java:1121)
+	at com.desktopWeb.scripts.addUpdate.TC_52_Detail_Update_Project.TC52_Detail_Update_Project(TC_52_Detail_Update_Project.java:26)
+
+TC184_Verify_Dashboard_Create_Community_User_En(com.desktopWeb.scripts.roles_permission.TC_184_Verify_Dashboard_Create_Community_User_En)  Time elapsed: 234.671 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC184_Verify_Dashboard_Create_Community_User_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.roles_permission.TC_184_Verify_Dashboard_Create_Community_User_En.TC184_Verify_Dashboard_Create_Community_User_En(TC_184_Verify_Dashboard_Create_Community_User_En.java:28)
+
+TC02_CommonChecks_HomePage_HambergerMenu_Login_Signout_CommunityUser(com.desktopWeb.scripts.common.TC_02_CommonChecks_HomePage_HamburgerMenu_Login_Signout_CommunityUser)  Time elapsed: 42.128 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click on Menu expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.click(ActionEngine.java:100)
+	at com.desktopWeb.scripts.common.TC_02_CommonChecks_HomePage_HamburgerMenu_Login_Signout_CommunityUser.TC02_CommonChecks_HomePage_HambergerMenu_Login_Signout_CommunityUser(TC_02_CommonChecks_HomePage_HamburgerMenu_Login_Signout_CommunityUser.java:25)
+
+TC20_Add_HTML(com.desktopWeb.scripts.tools.TC_20_Add_HTML)  Time elapsed: 230.788 sec  <<< FAILURE!
+java.lang.AssertionError: Step Select  Failed with description Public is Not Select from the DropDown Project Department expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.selectByVisibleText(ActionEngine.java:907)
+	at com.desktopWeb.workflows.HelperClass.createProject(HelperClass.java:2059)
+	at com.desktopWeb.scripts.tools.TC_20_Add_HTML.TC20_Add_HTML(TC_20_Add_HTML.java:26)
+
+TC70_Design_Project_Sub_Page_Template(com.desktopWeb.scripts.page.TC_70_Design_Project_Sub_Page_Template)  Time elapsed: 285.403 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC70_Design_Project_Sub_Page_Template Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_70_Design_Project_Sub_Page_Template.TC70_Design_Project_Sub_Page_Template(TC_70_Design_Project_Sub_Page_Template.java:30)
+
+TC185_Verify_Dashboard_Create_Community_User_Cm(com.desktopWeb.scripts.roles_permission.TC_185_Verify_Dashboard_Create_Community_User_Cm)  Time elapsed: 227.283 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC185_Verify_Dashboard_Create_Community_User_Cm Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.roles_permission.TC_185_Verify_Dashboard_Create_Community_User_Cm.TC185_Verify_Dashboard_Create_Community_User_Cm(TC_185_Verify_Dashboard_Create_Community_User_Cm.java:28)
+
+TC101_Verify_Dashboard_Moderation_Recently_ApprovetoApprove(com.desktopWeb.scripts.dashboard.TC_101_Verify_Dashboard_Moderation_Recently_ApprovetoApprove)  Time elapsed: 173.134 sec  <<< FAILURE!
+java.lang.AssertionError: Step AssertText  Failed with description Automation TestingypjvZc is not present in the element  expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.assertText(ActionEngine.java:1392)
+	at com.desktopWeb.workflows.HelperClass.getCommentID(HelperClass.java:2215)
+	at com.desktopWeb.scripts.dashboard.TC_101_Verify_Dashboard_Moderation_Recently_ApprovetoApprove.TC101_Verify_Dashboard_Moderation_Recently_ApprovetoApprove(TC_101_Verify_Dashboard_Moderation_Recently_ApprovetoApprove.java:26)
+
+TC54_SEO_Update_Name(com.desktopWeb.scripts.addUpdate.TC_54_SEO_Update_Name)  Time elapsed: 385.866 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC54_SEO_Update_Name Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.addUpdate.TC_54_SEO_Update_Name.TC54_SEO_Update_Name(TC_54_SEO_Update_Name.java:31)
+
+TC58_SEO_Setting_Name(com.desktopWeb.scripts.setting.TC_58_SEO_Setting_Name)  Time elapsed: 290.057 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC58_SEO_Setting_Name Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.setting.TC_58_SEO_Setting_Name.TC58_SEO_Setting_Name(TC_58_SEO_Setting_Name.java:30)
+
+TC186_Verify_Dashboard_Create_Community_User_Pa(com.desktopWeb.scripts.roles_permission.TC_186_Verify_Dashboard_Create_Community_User_Pa)  Time elapsed: 249.696 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC186_Verify_Dashboard_Create_Community_User_Pa Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.roles_permission.TC_186_Verify_Dashboard_Create_Community_User_Pa.TC186_Verify_Dashboard_Create_Community_User_Pa(TC_186_Verify_Dashboard_Create_Community_User_Pa.java:28)
+
+TC22_Add_Heading(com.desktopWeb.scripts.tools.TC_22_Add_Heading)  Time elapsed: 491.278 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC22_Add_Heading Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.tools.TC_22_Add_Heading.TC22_Add_Heading(TC_22_Add_Heading.java:30)
+
+TC55_Location_Update_Location(com.desktopWeb.scripts.addUpdate.TC_55_Location_Update_Location)  Time elapsed: 305.922 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC55_Location_Update_Location Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.addUpdate.TC_55_Location_Update_Location.TC55_Location_Update_Location(TC_55_Location_Update_Location.java:33)
+
+TC59_Design_Setting_Template(com.desktopWeb.scripts.setting.TC_59_Design_Setting_Template)  Time elapsed: 294.491 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC_59_Design_Setting_Template Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.setting.TC_59_Design_Setting_Template.TC59_Design_Setting_Template(TC_59_Design_Setting_Template.java:30)
+
+TC72_Location_Page_Location(com.desktopWeb.scripts.page.TC_72_Location_Project_Sub_Page_Location)  Time elapsed: 410.161 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC72_Location_Project_Sub_Page_Location Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_72_Location_Project_Sub_Page_Location.TC72_Location_Page_Location(TC_72_Location_Project_Sub_Page_Location.java:30)
+
+TC60_Location_Setting_Location(com.desktopWeb.scripts.setting.TC_60_Location_Setting_Location)  Time elapsed: 289.965 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC60_Location_Setting_Location Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.setting.TC_60_Location_Setting_Location.TC60_Location_Setting_Location(TC_60_Location_Setting_Location.java:29)
+
+TC187_Verify_Edit_Site_User_Account_Site_Admin(com.desktopWeb.scripts.roles_permission.TC_188_Verify_Edit_Community_User_Account_Site_Admin)  Time elapsed: 139.169 sec  <<< FAILURE!
+java.lang.AssertionError: Step AssertText  Failed with description fxCBwRew is not present in the element  expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.assertText(ActionEngine.java:1392)
+	at com.desktopWeb.workflows.HelperClass.editUserAccountUserName(HelperClass.java:2572)
+	at com.desktopWeb.scripts.roles_permission.TC_188_Verify_Edit_Community_User_Account_Site_Admin.TC187_Verify_Edit_Site_User_Account_Site_Admin(TC_188_Verify_Edit_Community_User_Account_Site_Admin.java:24)
+
+TC174_Verify_Field_Enable_ToEdit_Dashoard_Project_En(com.desktopWeb.scripts.sprint2.TC_174_Verify_Field_Enable_ToEdit_Dashoard_Project_En)  Time elapsed: 183.1 sec  <<< FAILURE!
+java.lang.AssertionError: Step IsEnabled  Failed with description Project Type is not Enabled expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.isEnabled(ActionEngine.java:1161)
+	at com.desktopWeb.workflows.HelperClass.VerifyFieldsEnableToEditOnProjectPage(HelperClass.java:2541)
+	at com.desktopWeb.scripts.sprint2.TC_174_Verify_Field_Enable_ToEdit_Dashoard_Project_En.TC174_Verify_Field_Enable_ToEdit_Dashoard_Project_En(TC_174_Verify_Field_Enable_ToEdit_Dashoard_Project_En.java:26)
+
+TC24_Add_Image(com.desktopWeb.scripts.tools.TC_24_Add_Image)  Time elapsed: 2,610.908 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC24_Add_Image Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.tools.TC_24_Add_Image.TC24_Add_Image(TC_24_Add_Image.java:30)
+
+TC189_Pa_Manage_ProjectUser(com.desktopWeb.scripts.roles_permission.TC_189_Pa_Manage_ProjectUser)  Time elapsed: 1,478.395 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC189_Pa_Manage_ProjectUser Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.roles_permission.TC_189_Pa_Manage_ProjectUser.TC189_Pa_Manage_ProjectUser(TC_189_Pa_Manage_ProjectUser.java:48)
+
+TC105_Verify_Dashboard_Moderation_Refer_Approve(com.desktopWeb.scripts.dashboard.TC_105_Verify_Dashboard_Moderation_Refer_Approve)  Time elapsed: 149.477 sec  <<< FAILURE!
+java.lang.AssertionError: Step AssertText  Failed with description Automation TestingMhBVKv is not present in the element  expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.assertText(ActionEngine.java:1392)
+	at com.desktopWeb.workflows.HelperClass.referAwaitingComment(HelperClass.java:2246)
+	at com.desktopWeb.scripts.dashboard.TC_105_Verify_Dashboard_Moderation_Refer_Approve.TC105_Verify_Dashboard_Moderation_Refer_Approve(TC_105_Verify_Dashboard_Moderation_Refer_Approve.java:28)
+
+TC119_SEO_Project_Sub_Page_Name_En(com.desktopWeb.scripts.sprint1.TC_119_SEO_Project_Sub_Page_Name_En)  Time elapsed: 182.442 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC119_SEO_Project_Sub_Page_Name_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_119_SEO_Project_Sub_Page_Name_En.TC119_SEO_Project_Sub_Page_Name_En(TC_119_SEO_Project_Sub_Page_Name_En.java:29)
+
+TC25_Add_Flexi(com.desktopWeb.scripts.tools.TC_25_Add_Flexi)  Time elapsed: 816.889 sec  <<< FAILURE!
+java.lang.AssertionError: Step AssertText  Failed with description flexicontent is not present in the element  expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.assertText(ActionEngine.java:1392)
+	at com.desktopWeb.workflows.HelperClass.addflexi(HelperClass.java:1509)
+	at com.desktopWeb.scripts.tools.TC_25_Add_Flexi.TC25_Add_Flexi(TC_25_Add_Flexi.java:27)
+
+TC64_Verify_Update_Version_Approve(com.desktopWeb.scripts.addUpdate.TC_64_Verify_Update_Version_Approve)  Time elapsed: 416.722 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC64_Verify_Update_Version_Approve Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.addUpdate.TC_64_Verify_Update_Version_Approve.TC64_Verify_Update_Version_Approve(TC_64_Verify_Update_Version_Approve.java:29)
+
+TC120_Location_Project_Sub_Page_Location_En(com.desktopWeb.scripts.sprint1.TC_120_Location_Project_Sub_Page_Location_En)  Time elapsed: 271.678 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC120_Location_Project_Sub_Page_Location_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_120_Location_Project_Sub_Page_Location_En.TC120_Location_Project_Sub_Page_Location_En(TC_120_Location_Project_Sub_Page_Location_En.java:29)
+
+TC67_Verify_Update_Version_Duplicate(com.desktopWeb.scripts.addUpdate.TC_67_Verify_Update_Version_Duplicate)  Time elapsed: 439.171 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC67_Verify_Update_Version_Duplicate Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.addUpdate.TC_67_Verify_Update_Version_Duplicate.TC67_Verify_Update_Version_Duplicate(TC_67_Verify_Update_Version_Duplicate.java:29)
+
+TC76_Verify_Project_Sub_Page_Delete(com.desktopWeb.scripts.page.TC_76_Verify_Project_Sub_Page_Delete)  Time elapsed: 379.48 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC76_Verify_Project_Sub_Page_Delete Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_76_Verify_Project_Sub_Page_Delete.TC76_Verify_Project_Sub_Page_Delete(TC_76_Verify_Project_Sub_Page_Delete.java:27)
+
+TC191_Verify_Setting_Version_NewPage(com.desktopWeb.scripts.roles_permission.TC_191_Verify_Setting_Version_NewPage)  Time elapsed: 381.44 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC191_Verify_Setting_Version_NewPage Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.roles_permission.TC_191_Verify_Setting_Version_NewPage.TC191_Verify_Setting_Version_NewPage(TC_191_Verify_Setting_Version_NewPage.java:29)
+
+TC107_Create_New_Project_Dashboard_Project(com.desktopWeb.scripts.dashboard.TC_107_Create_New_Project_Dashboard_Project)  Time elapsed: 1,316.143 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC107_Create_New_Project_Dashboard_Project Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.dashboard.TC_107_Create_New_Project_Dashboard_Project.TC107_Create_New_Project_Dashboard_Project(TC_107_Create_New_Project_Dashboard_Project.java:31)
+
+TC121_Verify_Project_Sub_Page_Version_Duplicate_En(com.desktopWeb.scripts.sprint1.TC_121_Verify_Project_Sub_Page_Version_Duplicate_En)  Time elapsed: 259.665 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC121_Verify_Project_Sub_Page_Version_Duplicate_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_121_Verify_Project_Sub_Page_Version_Duplicate_En.TC121_Verify_Project_Sub_Page_Version_Duplicate_En(TC_121_Verify_Project_Sub_Page_Version_Duplicate_En.java:31)
+
+TC77_SEO_Site_Sub_Page_Name(com.desktopWeb.scripts.page.TC_77_SEO_Site_Sub_Page_Name)  Time elapsed: 258.759 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC77_SEO_Site_Sub_Page_Name Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_77_SEO_Site_Sub_Page_Name.TC77_SEO_Site_Sub_Page_Name(TC_77_SEO_Site_Sub_Page_Name.java:30)
+
+TC191_Verify_Setting_Version_NewPage(com.desktopWeb.scripts.roles_permission.TC_192_Verify_Setting_Version_Delete)  Time elapsed: 403.095 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC191_Verify_Setting_Version_NewPage Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.roles_permission.TC_192_Verify_Setting_Version_Delete.TC191_Verify_Setting_Version_NewPage(TC_192_Verify_Setting_Version_Delete.java:29)
+
+TC108_Verify_Dashboard_Create_Site_User(com.desktopWeb.scripts.dashboard.TC_108_Verify_Dashboard_Create_Site_User)  Time elapsed: 336.306 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC108_Verify_Dashboard_Create_Site_User Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.dashboard.TC_108_Verify_Dashboard_Create_Site_User.TC108_Verify_Dashboard_Create_Site_User(TC_108_Verify_Dashboard_Create_Site_User.java:28)
+
+TC122_Verify_Project_Sub_Page_Version_NewPage_En(com.desktopWeb.scripts.sprint1.TC_122_Verify_Project_Sub_Page_Version_NewPage_En)  Time elapsed: 257.921 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC122_Verify_Project_Sub_Page_Version_NewPage_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_122_Verify_Project_Sub_Page_Version_NewPage_En.TC122_Verify_Project_Sub_Page_Version_NewPage_En(TC_122_Verify_Project_Sub_Page_Version_NewPage_En.java:32)
+
+TC28_Add_Web_Map(com.desktopWeb.scripts.tools.TC_28_Add_Web_Map)  Time elapsed: 586.153 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC28_Add_Web_Map Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.tools.TC_28_Add_Web_Map.TC28_Add_Web_Map(TC_28_Add_Web_Map.java:30)
+
+TC78_Verify_Site_Sub_Page_Version_Duplicate(com.desktopWeb.scripts.page.TC_78_Verify_Site_Sub_Page_Version_Duplicate)  Time elapsed: 268.688 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC78_Verify_Site_Sub_Page_Version_Duplicate Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_78_Verify_Site_Sub_Page_Version_Duplicate.TC78_Verify_Site_Sub_Page_Version_Duplicate(TC_78_Verify_Site_Sub_Page_Version_Duplicate.java:28)
+
+TC109_Verify_Dashboard_Create_Site_User_SiteAdmin(com.desktopWeb.scripts.dashboard.TC_109_Verify_Dashboard_Create_Site_User_SiteAdmin)  Time elapsed: 316.604 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC109_Verify_Dashboard_Create_Site_User_SiteAdmin Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.dashboard.TC_109_Verify_Dashboard_Create_Site_User_SiteAdmin.TC109_Verify_Dashboard_Create_Site_User_SiteAdmin(TC_109_Verify_Dashboard_Create_Site_User_SiteAdmin.java:28)
+
+TC123_Verify_Project_Sub_Page_Mobile_Preview_En(com.desktopWeb.scripts.sprint1.TC_123_Verify_Project_Sub_Page_Mobile_Preview_En)  Time elapsed: 257.322 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC123_Verify_Project_Sub_Page_Mobile_Preview_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_123_Verify_Project_Sub_Page_Mobile_Preview_En.TC123_Verify_Project_Sub_Page_Mobile_Preview_En(TC_123_Verify_Project_Sub_Page_Mobile_Preview_En.java:26)
+
+TC179_WCCP_418_2(com.desktopWeb.scripts.sprint2.TC_179_WCCP_418_2)  Time elapsed: 827.026 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC_179_WCCP_418_2 Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint2.TC_179_WCCP_418_2.TC179_WCCP_418_2(TC_179_WCCP_418_2.java:79)
+
+TC11_HelpmeFindCons_SiteAdmin(com.desktopWeb.scripts.common.TC_11_HelpmeFindCons_SiteAdmin)  Time elapsed: 86.021 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click By.xpath: //button[text()='Help me find a consultation'] expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.workflows.HelperClass.scrollandClick(HelperClass.java:476)
+	at com.desktopWeb.workflows.HelperClass.helpMeFoundConsutation(HelperClass.java:555)
+	at com.desktopWeb.scripts.common.TC_11_HelpmeFindCons_SiteAdmin.TC11_HelpmeFindCons_SiteAdmin(TC_11_HelpmeFindCons_SiteAdmin.java:24)
+
+TC79_Location_Site_Sub_Page_Location(com.desktopWeb.scripts.page.TC_79_Location_Site_Sub_Page_Location)  Time elapsed: 272.186 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC79_Location_Site_Sub_Page_Location Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_79_Location_Site_Sub_Page_Location.TC79_Location_Site_Sub_Page_Location(TC_79_Location_Site_Sub_Page_Location.java:30)
+
+TC124_Verify_Project_Sub_Page_Delete_En(com.desktopWeb.scripts.sprint1.TC_124_Verify_Project_Sub_Page_Delete_En)  Time elapsed: 426.15 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC124_Verify_Project_Sub_Page_Delete_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_124_Verify_Project_Sub_Page_Delete_En.TC124_Verify_Project_Sub_Page_Delete_En(TC_124_Verify_Project_Sub_Page_Delete_En.java:29)
+
+TC12_HelpmeFindCons_CommunityUser(com.desktopWeb.scripts.common.TC_12_HelpmeFindCons_CommunityUser)  Time elapsed: 61.698 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click By.xpath: //button[text()='Help me find a consultation'] expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.workflows.HelperClass.scrollandClick(HelperClass.java:476)
+	at com.desktopWeb.workflows.HelperClass.helpMeFoundConsutation(HelperClass.java:555)
+	at com.desktopWeb.scripts.common.TC_12_HelpmeFindCons_CommunityUser.TC12_HelpmeFindCons_CommunityUser(TC_12_HelpmeFindCons_CommunityUser.java:24)
+
+TC30_Add_Image_Slider(com.desktopWeb.scripts.tools.TC_30_Add_Image_Slider)  Time elapsed: 803.701 sec  <<< FAILURE!
+java.lang.AssertionError: Step AssertText  Failed with description imagetitle is not present in the element  expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.assertText(ActionEngine.java:1392)
+	at com.desktopWeb.workflows.HelperClass.addImageSlider(HelperClass.java:1615)
+	at com.desktopWeb.scripts.tools.TC_30_Add_Image_Slider.TC30_Add_Image_Slider(TC_30_Add_Image_Slider.java:27)
+
+TC80_Verify_Site_Sub_Page_Mobile_Preview(com.desktopWeb.scripts.page.TC_80_Verify_Site_Sub_Page_Mobile_Preview)  Time elapsed: 258.475 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC80_Verify_Site_Sub_Page_Mobile_Preview Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_80_Verify_Site_Sub_Page_Mobile_Preview.TC80_Verify_Site_Sub_Page_Mobile_Preview(TC_80_Verify_Site_Sub_Page_Mobile_Preview.java:27)
+
+TC181_WCCP_408_En_Launch_Project(com.desktopWeb.scripts.sprint2.TC_181_WCCP_408_En_Launch_Project)  Time elapsed: 549.602 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC181_WCCP_408_En_Launch_Project Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint2.TC_181_WCCP_408_En_Launch_Project.TC181_WCCP_408_En_Launch_Project(TC_181_WCCP_408_En_Launch_Project.java:37)
+
+TC31_Add_Video(com.desktopWeb.scripts.tools.TC_31_Add_Video)  Time elapsed: 295.515 sec  <<< FAILURE!
+java.lang.AssertionError: Step Select  Failed with description Automation Project is Not Select from the DropDown Project Department expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.selectByVisibleText(ActionEngine.java:907)
+	at com.desktopWeb.workflows.HelperClass.createProject(HelperClass.java:2059)
+	at com.desktopWeb.scripts.tools.TC_31_Add_Video.TC31_Add_Video(TC_31_Add_Video.java:26)
+
+TC81_Verify_Site_Sub_Page_Delete(com.desktopWeb.scripts.page.TC_81_Verify_Site_Sub_Page_Delete)  Time elapsed: 271.211 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC81_Verify_Site_Sub_Page_Delete Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_81_Verify_Site_Sub_Page_Delete.TC81_Verify_Site_Sub_Page_Delete(TC_81_Verify_Site_Sub_Page_Delete.java:27)
+
+TC126_Verify_Project_Sub_Page_Version_NewPage_Cm(com.desktopWeb.scripts.sprint1.TC_126_Verify_Project_Sub_Page_Version_NewPage_Cm)  Time elapsed: 464.277 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC126_Verify_Project_Sub_Page_Version_NewPage_Cm Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_126_Verify_Project_Sub_Page_Version_NewPage_Cm.TC126_Verify_Project_Sub_Page_Version_NewPage_Cm(TC_126_Verify_Project_Sub_Page_Version_NewPage_Cm.java:31)
+
+TC82_Verify_Site_Sub_Page_Version_Approve(com.desktopWeb.scripts.page.TC_82_Verify_Site_Sub_Page_Version_Approve)  Time elapsed: 274.282 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC82_Verify_Site_Sub_Page_Version_Approve Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_82_Verify_Site_Sub_Page_Version_Approve.TC82_Verify_Site_Sub_Page_Version_Approve(TC_82_Verify_Site_Sub_Page_Version_Approve.java:28)
+
+TC113_Verify_DashBoard_Result_Form_OpenPage(com.desktopWeb.scripts.dashboard.TC_113_Verify_DashBoard_Result_Form_OpenPage)  Time elapsed: 235.507 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click By.xpath: //a[text()='Home'] expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.workflows.HelperClass.scrollandClick(HelperClass.java:476)
+	at com.desktopWeb.workflows.HelperClass.clickOnBreadcrumbs(HelperClass.java:156)
+	at com.desktopWeb.workflows.HelperClass.verifyContactUs(HelperClass.java:647)
+	at com.desktopWeb.scripts.dashboard.TC_113_Verify_DashBoard_Result_Form_OpenPage.TC113_Verify_DashBoard_Result_Form_OpenPage(TC_113_Verify_DashBoard_Result_Form_OpenPage.java:24)
+
+TC127_Detail_Project_Sub_Page_Project_Cm(com.desktopWeb.scripts.sprint1.TC_127_Detail_Project_Sub_Page_Project_Cm)  Time elapsed: 254.523 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC127_Detail_Project_Sub_Page_Project_Cm Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_127_Detail_Project_Sub_Page_Project_Cm.TC127_Detail_Project_Sub_Page_Project_Cm(TC_127_Detail_Project_Sub_Page_Project_Cm.java:29)
+
+TC33_Add_Form(com.desktopWeb.scripts.tools.TC_33_Add_Form)  Time elapsed: 323.252 sec  <<< FAILURE!
+java.lang.AssertionError: Step Select  Failed with description New Automation Project is Not Select from the DropDown Project Department expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.selectByVisibleText(ActionEngine.java:907)
+	at com.desktopWeb.workflows.HelperClass.createProject(HelperClass.java:2059)
+	at com.desktopWeb.scripts.tools.TC_33_Add_Form.TC33_Add_Form(TC_33_Add_Form.java:26)
+
+TC83_Design_Site_Sub_Page_Template(com.desktopWeb.scripts.page.TC_83_Design_Site_Sub_Page_Template)  Time elapsed: 283.187 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC83_Design_Site_Sub_Page_Template Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_83_Design_Site_Sub_Page_Template.TC83_Design_Site_Sub_Page_Template(TC_83_Design_Site_Sub_Page_Template.java:30)
+
+TC128_Verify_Project_Sub_Page_Version_Duplicate_Cm(com.desktopWeb.scripts.sprint1.TC_128_Verify_Project_Sub_Page_Version_Duplicate_Cm)  Time elapsed: 491.648 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC128_Verify_Project_Sub_Page_Version_Duplicate_Cm Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_128_Verify_Project_Sub_Page_Version_Duplicate_Cm.TC128_Verify_Project_Sub_Page_Version_Duplicate_Cm(TC_128_Verify_Project_Sub_Page_Version_Duplicate_Cm.java:32)
+
+TC16_Contactus_SiteAdmin(com.desktopWeb.scripts.common.TC_16_Contactus_SiteAdmin)  Time elapsed: 71.76 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click By.xpath: //a[@aria-label='navigation menu'] expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.workflows.HelperClass.scrollandClick(HelperClass.java:476)
+	at com.desktopWeb.workflows.HelperClass.verifyContactUs(HelperClass.java:628)
+	at com.desktopWeb.scripts.common.TC_16_Contactus_SiteAdmin.TC16_Contactus_SiteAdmin(TC_16_Contactus_SiteAdmin.java:23)
+
+TC34_Add_Quick_Poll(com.desktopWeb.scripts.tools.TC_34_Add_Quick_Poll)  Time elapsed: 189.346 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click By.xpath: //input[@id='projectTemplate1'] expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.workflows.HelperClass.scrollandClick(HelperClass.java:476)
+	at com.desktopWeb.workflows.HelperClass.createProject(HelperClass.java:2058)
+	at com.desktopWeb.scripts.tools.TC_34_Add_Quick_Poll.TC34_Add_Quick_Poll(TC_34_Add_Quick_Poll.java:26)
+
+TC84_Detail_Site_Sub_Page_Project(com.desktopWeb.scripts.page.TC_84_Detail_Site_Sub_Page_Project)  Time elapsed: 265.142 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC84_Detail_Site_Sub_Page_Project Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_84_Detail_Site_Sub_Page_Project.TC84_Detail_Site_Sub_Page_Project(TC_84_Detail_Site_Sub_Page_Project.java:32)
+
+TC129_Verify_Project_Sub_Page_Delete_Cm(com.desktopWeb.scripts.sprint1.TC_129_Verify_Project_Sub_Page_Delete_Cm)  Time elapsed: 223.045 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click on Settings expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.click(ActionEngine.java:100)
+	at com.desktopWeb.workflows.HelperClass.navigateToSetting(HelperClass.java:715)
+	at com.desktopWeb.scripts.sprint1.TC_129_Verify_Project_Sub_Page_Delete_Cm.TC129_Verify_Project_Sub_Page_Delete_Cm(TC_129_Verify_Project_Sub_Page_Delete_Cm.java:25)
+
+TC17_Contactus_CommunityUser(com.desktopWeb.scripts.common.TC_17_Contactus_CommunityUser)  Time elapsed: 45.921 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click By.xpath: //a[@aria-label='navigation menu'] expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.workflows.HelperClass.scrollandClick(HelperClass.java:476)
+	at com.desktopWeb.workflows.HelperClass.verifyContactUs(HelperClass.java:628)
+	at com.desktopWeb.scripts.common.TC_17_Contactus_CommunityUser.TC17_Contactus_CommunityUser(TC_17_Contactus_CommunityUser.java:23)
+
+TC35_Add_Conversation(com.desktopWeb.scripts.tools.TC_35_Add_Conversation)  Time elapsed: 216.448 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click By.xpath: //input[@id='projectTemplate1'] expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.workflows.HelperClass.scrollandClick(HelperClass.java:476)
+	at com.desktopWeb.workflows.HelperClass.createProject(HelperClass.java:2058)
+	at com.desktopWeb.scripts.tools.TC_35_Add_Conversation.TC35_Add_Conversation(TC_35_Add_Conversation.java:26)
+
+TC85_Create_New_Project_Page_New_Project(com.desktopWeb.scripts.page.TC_85_Create_New_Project_Page_New_Project)  Time elapsed: 265.445 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC85_Create_New_Project_Page_New_Project Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_85_Create_New_Project_Page_New_Project.TC85_Create_New_Project_Page_New_Project(TC_85_Create_New_Project_Page_New_Project.java:30)
+
+TC86_Verify_Page_News_Page_Delete(com.desktopWeb.scripts.page.TC_86_Verify_Page_News_Page_Delete)  Time elapsed: 271.272 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC86_Verify_Page_News_Page_Delete Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_86_Verify_Page_News_Page_Delete.TC86_Verify_Page_News_Page_Delete(TC_86_Verify_Page_News_Page_Delete.java:27)
+
+TC131_SEO_Project_Sub_Page_Name_Cm(com.desktopWeb.scripts.sprint1.TC_131_SEO_Project_Sub_Page_Name_Cm)  Time elapsed: 188.981 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click on Save Page expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.click(ActionEngine.java:100)
+	at com.desktopWeb.workflows.HelperClass.savePage(HelperClass.java:2379)
+	at com.desktopWeb.scripts.sprint1.TC_131_SEO_Project_Sub_Page_Name_Cm.TC131_SEO_Project_Sub_Page_Name_Cm(TC_131_SEO_Project_Sub_Page_Name_Cm.java:25)
+
+TC49_CommonChecks_HomePage_HamburgerMenu_Login_Signout_SiteUser(com.desktopWeb.scripts.common.TC_49_CommonChecks_HomePage_HamburgerMenu_Login_Signout_SiteUser)  Time elapsed: 75.206 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click on Menu expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.click(ActionEngine.java:100)
+	at com.desktopWeb.workflows.HelperClass.verifyHamberger(HelperClass.java:94)
+	at com.desktopWeb.scripts.common.TC_49_CommonChecks_HomePage_HamburgerMenu_Login_Signout_SiteUser.TC49_CommonChecks_HomePage_HamburgerMenu_Login_Signout_SiteUser(TC_49_CommonChecks_HomePage_HamburgerMenu_Login_Signout_SiteUser.java:25)
+
+TC37_Add_Visioner_Input(com.desktopWeb.scripts.tools.TC_37_Add_Visioner_Input)  Time elapsed: 263.971 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click By.xpath: //input[@id='projectTemplate1'] expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.workflows.HelperClass.scrollandClick(HelperClass.java:476)
+	at com.desktopWeb.workflows.HelperClass.createProject(HelperClass.java:2058)
+	at com.desktopWeb.scripts.tools.TC_37_Add_Visioner_Input.TC37_Add_Visioner_Input(TC_37_Add_Visioner_Input.java:26)
+
+TC87_SEO_Page_News_Page_Name(com.desktopWeb.scripts.page.TC_87_SEO_Page_News_Page_Name)  Time elapsed: 265.373 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC87_SEO_Page_News_Page_Name Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_87_SEO_Page_News_Page_Name.TC87_SEO_Page_News_Page_Name(TC_87_SEO_Page_News_Page_Name.java:30)
+
+TC99_Verify_Dashboard_Moderation_Recently_ApprovetoRefer(com.desktopWeb.scripts.dashboard.TC_99_Verify_Dashboard_Moderation_Recently_ApprovetoRefer)  Time elapsed: 193.118 sec  <<< FAILURE!
+java.lang.AssertionError: Step AssertText  Failed with description APPROVED is not present in the element  expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.assertText(ActionEngine.java:1392)
+	at com.desktopWeb.workflows.HelperClass.approveAwaitingComment(HelperClass.java:2223)
+	at com.desktopWeb.scripts.dashboard.TC_99_Verify_Dashboard_Moderation_Recently_ApprovetoRefer.TC99_Verify_Dashboard_Moderation_Recently_ApprovetoRefer(TC_99_Verify_Dashboard_Moderation_Recently_ApprovetoRefer.java:27)
+
+TC132_Location_Project_Sub_Page_Location_Cm(com.desktopWeb.scripts.sprint1.TC_132_Location_Project_Sub_Page_Location_Cm)  Time elapsed: 296.458 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC132_Location_Project_Sub_Page_Location_Cm Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_132_Location_Project_Sub_Page_Location_Cm.TC132_Location_Project_Sub_Page_Location_Cm(TC_132_Location_Project_Sub_Page_Location_Cm.java:29)
+
+TC88_Verify_Page_News_Page_Version_Duplicate(com.desktopWeb.scripts.page.TC_88_Verify_Page_News_Page_Version_Duplicate)  Time elapsed: 271.218 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC88_Verify_Page_News_Page_Version_Duplicate Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_88_Verify_Page_News_Page_Version_Duplicate.TC88_Verify_Page_News_Page_Version_Duplicate(TC_88_Verify_Page_News_Page_Version_Duplicate.java:28)
+
+TC89_Verify_Page_News_Page_Mobile_Preview(com.desktopWeb.scripts.page.TC_89_Verify_Page_News_Page_Mobile_Preview)  Time elapsed: 285.565 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC89_Verify_Page_News_Page_Mobile_Preview Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_89_Verify_Page_News_Page_Mobile_Preview.TC89_Verify_Page_News_Page_Mobile_Preview(TC_89_Verify_Page_News_Page_Mobile_Preview.java:27)
+
+TC134_Verify_Project_Sub_Page_Version_Approve_Cm(com.desktopWeb.scripts.sprint1.TC_134_Verify_Project_Sub_Page_Version_Approve_Cm)  Time elapsed: 464.119 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC134_Verify_Project_Sub_Page_Version_Approve_Cm Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_134_Verify_Project_Sub_Page_Version_Approve_Cm.TC134_Verify_Project_Sub_Page_Version_Approve_Cm(TC_134_Verify_Project_Sub_Page_Version_Approve_Cm.java:32)
+
+TC40_Add_Document_Library(com.desktopWeb.scripts.tools.TC_40_Add_Document_Library)  Time elapsed: 194.994 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click By.xpath: //input[@id='projectTemplate1'] expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.workflows.HelperClass.scrollandClick(HelperClass.java:476)
+	at com.desktopWeb.workflows.HelperClass.createProject(HelperClass.java:2058)
+	at com.desktopWeb.scripts.tools.TC_40_Add_Document_Library.TC40_Add_Document_Library(TC_40_Add_Document_Library.java:26)
+
+TC90_Design_Page_News_Page_Template(com.desktopWeb.scripts.page.TC_90_Design_Page_News_Page_Template)  Time elapsed: 264.887 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC90_Design_Page_News_Page_Template Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_90_Design_Page_News_Page_Template.TC90_Design_Page_News_Page_Template(TC_90_Design_Page_News_Page_Template.java:32)
+
+TC135_Verify_Project_Sub_Page_Version_NewPage_Pa(com.desktopWeb.scripts.sprint1.TC_135_Verify_Project_Sub_Page_Version_NewPage_Pa)  Time elapsed: 256.289 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC135_Verify_Project_Sub_Page_Version_NewPage_Pa Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_135_Verify_Project_Sub_Page_Version_NewPage_Pa.TC135_Verify_Project_Sub_Page_Version_NewPage_Pa(TC_135_Verify_Project_Sub_Page_Version_NewPage_Pa.java:31)
+
+TC41_Add_FAQ(com.desktopWeb.scripts.tools.TC_41_Add_FAQ)  Time elapsed: 258.388 sec  <<< FAILURE!
+org.testng.TestNGException: 
+The data provider is trying to pass 6 parameters but the method com.desktopWeb.scripts.tools.TC_41_Add_FAQ#TC41_Add_FAQ takes 14 and TestNG is unable in inject a suitable object
+	at org.testng.internal.Invoker.injectParameters(Invoker.java:1359)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1225)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+
+TC91_Location_Page_News_Page_Location(com.desktopWeb.scripts.page.TC_91_Location_Page_News_Page_Location)  Time elapsed: 272.268 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC91_Location_Page_News_Page_Location Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_91_Location_Page_News_Page_Location.TC91_Location_Page_News_Page_Location(TC_91_Location_Page_News_Page_Location.java:30)
+
+TC42_Add_Key_Dates(com.desktopWeb.scripts.tools.TC_42_Add_Key_Dates)  Time elapsed: 65.616 sec  <<< FAILURE!
+org.testng.TestNGException: 
+The data provider is trying to pass 4 parameters but the method com.desktopWeb.scripts.tools.TC_42_Add_Key_Dates#TC42_Add_Key_Dates takes 12 and TestNG is unable in inject a suitable object
+	at org.testng.internal.Invoker.injectParameters(Invoker.java:1359)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1225)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+
+TC92_Verify_Page_News_Page_Version_Approve(com.desktopWeb.scripts.page.TC_92_Verify_Page_News_Page_Version_Approve)  Time elapsed: 369.683 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC92_Verify_Page_News_Page_Version_Approve Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_92_Verify_Page_News_Page_Version_Approve.TC92_Verify_Page_News_Page_Version_Approve(TC_92_Verify_Page_News_Page_Version_Approve.java:29)
+
+TC137_Verify_Project_Sub_Page_Version_Duplicate_Pa(com.desktopWeb.scripts.sprint1.TC_137_Verify_Project_Sub_Page_Version_Duplicate_Pa)  Time elapsed: 271.963 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC137_Verify_Project_Sub_Page_Version_Duplicate_Pa Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_137_Verify_Project_Sub_Page_Version_Duplicate_Pa.TC137_Verify_Project_Sub_Page_Version_Duplicate_Pa(TC_137_Verify_Project_Sub_Page_Version_Duplicate_Pa.java:31)
+
+TC43_Add_Links(com.desktopWeb.scripts.tools.TC_43_Add_Links)  Time elapsed: 273.477 sec  <<< FAILURE!
+org.testng.TestNGException: 
+The data provider is trying to pass 6 parameters but the method com.desktopWeb.scripts.tools.TC_43_Add_Links#TC43_Add_Links takes 14 and TestNG is unable in inject a suitable object
+	at org.testng.internal.Invoker.injectParameters(Invoker.java:1359)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1225)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+
+TC93_Detail_Page_News_Page_Project(com.desktopWeb.scripts.page.TC_93_Detail_Page_News_Page_Project)  Time elapsed: 275.975 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC93_Detail_Page_News_Page_Project Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.page.TC_93_Detail_Page_News_Page_Project.TC93_Detail_Page_News_Page_Project(TC_93_Detail_Page_News_Page_Project.java:30)
+
+TC44_Add_Timelines(com.desktopWeb.scripts.tools.TC_44_Add_Timelines)  Time elapsed: 125.46 sec  <<< FAILURE!
+org.testng.TestNGException: 
+The data provider is trying to pass 6 parameters but the method com.desktopWeb.scripts.tools.TC_44_Add_Timelines#TC44_Add_Timelines takes 15 and TestNG is unable in inject a suitable object
+	at org.testng.internal.Invoker.injectParameters(Invoker.java:1359)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1225)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+
+TC45_Add_Contact_us(com.desktopWeb.scripts.tools.TC_45_Add_Contact_us)  Time elapsed: 255.015 sec  <<< FAILURE!
+org.testng.TestNGException: 
+The data provider is trying to pass 5 parameters but the method com.desktopWeb.scripts.tools.TC_45_Add_Contact_us#TC45_Add_Contact_us takes 13 and TestNG is unable in inject a suitable object
+	at org.testng.internal.Invoker.injectParameters(Invoker.java:1359)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1225)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+
+TC140_SEO_Project_Sub_Page_Name_Pa(com.desktopWeb.scripts.sprint1.TC_140_SEO_Project_Sub_Page_Name_Pa)  Time elapsed: 211.505 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click on Save Page expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.click(ActionEngine.java:100)
+	at com.desktopWeb.workflows.HelperClass.savePage(HelperClass.java:2379)
+	at com.desktopWeb.scripts.sprint1.TC_140_SEO_Project_Sub_Page_Name_Pa.TC140_SEO_Project_Sub_Page_Name_Pa(TC_140_SEO_Project_Sub_Page_Name_Pa.java:25)
+
+TC141_Location_Project_Sub_Page_Location_Pa(com.desktopWeb.scripts.sprint1.TC_141_Location_Project_Sub_Page_Location_Pa)  Time elapsed: 308.655 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC141_Location_Project_Sub_Page_Location_Pa Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_141_Location_Project_Sub_Page_Location_Pa.TC141_Location_Project_Sub_Page_Location_Pa(TC_141_Location_Project_Sub_Page_Location_Pa.java:29)
+
+TC47_Add_Feature(com.desktopWeb.scripts.tools.TC_47_Add_Feature)  Time elapsed: 221.68 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click By.xpath: //input[@id='projectTemplate1'] expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.workflows.HelperClass.scrollandClick(HelperClass.java:476)
+	at com.desktopWeb.workflows.HelperClass.createProject(HelperClass.java:2058)
+	at com.desktopWeb.scripts.tools.TC_47_Add_Feature.TC47_Add_Feature(TC_47_Add_Feature.java:26)
+
+TC142_Verify_Project_Sub_Page_Mobile_Preview_Pa(com.desktopWeb.scripts.sprint1.TC_142_Verify_Project_Sub_Page_Mobile_Preview_Pa)  Time elapsed: 271.182 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC142_Verify_Project_Sub_Page_Mobile_Preview_Pa Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_142_Verify_Project_Sub_Page_Mobile_Preview_Pa.TC142_Verify_Project_Sub_Page_Mobile_Preview_Pa(TC_142_Verify_Project_Sub_Page_Mobile_Preview_Pa.java:26)
+
+TC143_Verify_Project_Sub_Page_Version_Approve_Pa(com.desktopWeb.scripts.sprint1.TC_143_Verify_Project_Sub_Page_Version_Approve_Pa)  Time elapsed: 212.402 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click on Save Page expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.click(ActionEngine.java:100)
+	at com.desktopWeb.workflows.HelperClass.savePage(HelperClass.java:2379)
+	at com.desktopWeb.scripts.sprint1.TC_143_Verify_Project_Sub_Page_Version_Approve_Pa.TC143_Verify_Project_Sub_Page_Version_Approve_Pa(TC_143_Verify_Project_Sub_Page_Version_Approve_Pa.java:25)
+
+TC144_Detail_Project_Sub_Page_Project_Pa(com.desktopWeb.scripts.sprint1.TC_144_Detail_Project_Sub_Page_Project_Pa)  Time elapsed: 182.237 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click on Save Page expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.click(ActionEngine.java:100)
+	at com.desktopWeb.workflows.HelperClass.savePage(HelperClass.java:2379)
+	at com.desktopWeb.scripts.sprint1.TC_144_Detail_Project_Sub_Page_Project_Pa.TC144_Detail_Project_Sub_Page_Project_Pa(TC_144_Detail_Project_Sub_Page_Project_Pa.java:25)
+
+TC145_Detail_Page_News_Page_Project_En(com.desktopWeb.scripts.sprint1.TC_145_Detail_Page_News_Page_Project_En)  Time elapsed: 258.839 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC145_Detail_Page_News_Page_Project_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_145_Detail_Page_News_Page_Project_En.TC145_Detail_Page_News_Page_Project_En(TC_145_Detail_Page_News_Page_Project_En.java:30)
+
+TC146_Verify_Page_News_Page_Delete_En(com.desktopWeb.scripts.sprint1.TC_146_Verify_Page_News_Page_Delete_En)  Time elapsed: 254.66 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC146_Verify_Page_News_Page_Delete_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_146_Verify_Page_News_Page_Delete_En.TC146_Verify_Page_News_Page_Delete_En(TC_146_Verify_Page_News_Page_Delete_En.java:29)
+
+TC147_SEO_Page_News_Page_Name_En(com.desktopWeb.scripts.sprint1.TC_147_SEO_Page_News_Page_Name_En)  Time elapsed: 267.663 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC147_SEO_Page_News_Page_Name_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_147_SEO_Page_News_Page_Name_En.TC147_SEO_Page_News_Page_Name_En(TC_147_SEO_Page_News_Page_Name_En.java:30)
+
+TC148_Verify_Page_News_Page_Version_Duplicate_En(com.desktopWeb.scripts.sprint1.TC_148_Verify_Page_News_Page_Version_Duplicate_En)  Time elapsed: 257.372 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC148_Verify_Page_News_Page_Version_Duplicate_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_148_Verify_Page_News_Page_Version_Duplicate_En.TC148_Verify_Page_News_Page_Version_Duplicate_En(TC_148_Verify_Page_News_Page_Version_Duplicate_En.java:32)
+
+TC149_Verify_Page_News_Page_Mobile_Preview_En(com.desktopWeb.scripts.sprint1.TC_149_Verify_Page_News_Page_Mobile_Preview_En)  Time elapsed: 238.834 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC149_Verify_Page_News_Page_Mobile_Preview_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_149_Verify_Page_News_Page_Mobile_Preview_En.TC149_Verify_Page_News_Page_Mobile_Preview_En(TC_149_Verify_Page_News_Page_Mobile_Preview_En.java:27)
+
+TC150_Design_Page_News_Page_Template_En(com.desktopWeb.scripts.sprint1.TC_150_Design_Page_News_Page_Template_En)  Time elapsed: 286.981 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC150_Design_Page_News_Page_Template_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_150_Design_Page_News_Page_Template_En.TC150_Design_Page_News_Page_Template_En(TC_150_Design_Page_News_Page_Template_En.java:31)
+
+TC151_Location_Page_News_Page_Location_En(com.desktopWeb.scripts.sprint1.TC_151_Location_Page_News_Page_Location_En)  Time elapsed: 247.437 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC151_Location_Page_News_Page_Location_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_151_Location_Page_News_Page_Location_En.TC151_Location_Page_News_Page_Location_En(TC_151_Location_Page_News_Page_Location_En.java:30)
+
+TC152_Verify_Page_News_Page_Version_Approve_En(com.desktopWeb.scripts.sprint1.TC_152_Verify_Page_News_Page_Version_Approve_En)  Time elapsed: 241.566 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC152_Verify_Page_News_Page_Version_Approve_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_152_Verify_Page_News_Page_Version_Approve_En.TC152_Verify_Page_News_Page_Version_Approve_En(TC_152_Verify_Page_News_Page_Version_Approve_En.java:33)
+
+TC153_Verify_Page_News_Page_Version_NewPage_En(com.desktopWeb.scripts.sprint1.TC_153_Verify_Page_News_Page_Version_NewPage_En)  Time elapsed: 248.187 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC153_Verify_Page_News_Page_Version_NewPage_En Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_153_Verify_Page_News_Page_Version_NewPage_En.TC153_Verify_Page_News_Page_Version_NewPage_En(TC_153_Verify_Page_News_Page_Version_NewPage_En.java:32)
+
+TC154_Verify_Page_News_Page_Version_Duplicate_Cm(com.desktopWeb.scripts.sprint1.TC_154_Verify_Page_News_Page_Version_Duplicate_Cm)  Time elapsed: 238.383 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC154_Verify_Page_News_Page_Version_Duplicate_Cm Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_154_Verify_Page_News_Page_Version_Duplicate_Cm.TC154_Verify_Page_News_Page_Version_Duplicate_Cm(TC_154_Verify_Page_News_Page_Version_Duplicate_Cm.java:31)
+
+TC155_Verify_Page_News_Page_Mobile_Preview_Cm(com.desktopWeb.scripts.sprint1.TC_155_Verify_Page_News_Page_Mobile_Preview_Cm)  Time elapsed: 238.057 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC155_Verify_Page_News_Page_Mobile_Preview_Cm Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_155_Verify_Page_News_Page_Mobile_Preview_Cm.TC155_Verify_Page_News_Page_Mobile_Preview_Cm(TC_155_Verify_Page_News_Page_Mobile_Preview_Cm.java:27)
+
+TC156_Design_Page_News_Page_Template_Cm(com.desktopWeb.scripts.sprint1.TC_156_Design_Page_News_Page_Template_Cm)  Time elapsed: 243.189 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC156_Design_Page_News_Page_Template_Cm Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_156_Design_Page_News_Page_Template_Cm.TC156_Design_Page_News_Page_Template_Cm(TC_156_Design_Page_News_Page_Template_Cm.java:30)
+
+TC157_Verify_Page_News_Page_Version_Approve_Cm(com.desktopWeb.scripts.sprint1.TC_157_Verify_Page_News_Page_Version_Approve_Cm)  Time elapsed: 44.581 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click on Selected Project expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.click(ActionEngine.java:100)
+	at com.desktopWeb.workflows.HelperClass.navigateConsultation(HelperClass.java:415)
+	at com.desktopWeb.scripts.sprint1.TC_157_Verify_Page_News_Page_Version_Approve_Cm.TC157_Verify_Page_News_Page_Version_Approve_Cm(TC_157_Verify_Page_News_Page_Version_Approve_Cm.java:24)
+
+TC158_Location_Page_News_Page_Location_Cm(com.desktopWeb.scripts.sprint1.TC_158_Location_Page_News_Page_Location_Cm)  Time elapsed: 237.77 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC158_Location_Page_News_Page_Location_Cm Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_158_Location_Page_News_Page_Location_Cm.TC158_Location_Page_News_Page_Location_Cm(TC_158_Location_Page_News_Page_Location_Cm.java:30)
+
+TC159_Detail_Page_News_Page_Project_Cm(com.desktopWeb.scripts.sprint1.TC_159_Detail_Page_News_Page_Project_Cm)  Time elapsed: 252.146 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC159_Detail_Page_News_Page_Project_Cm Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_159_Detail_Page_News_Page_Project_Cm.TC159_Detail_Page_News_Page_Project_Cm(TC_159_Detail_Page_News_Page_Project_Cm.java:31)
+
+TC160_Verify_Page_News_Page_Version_NewPage_Cm(com.desktopWeb.scripts.sprint1.TC_160_Verify_Page_News_Page_Version_NewPage_Cm)  Time elapsed: 258.632 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC160_Verify_Page_News_Page_Version_NewPage_Cm Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_160_Verify_Page_News_Page_Version_NewPage_Cm.TC160_Verify_Page_News_Page_Version_NewPage_Cm(TC_160_Verify_Page_News_Page_Version_NewPage_Cm.java:32)
+
+TC161_Verify_Project_News_Page_Delete_Cm(com.desktopWeb.scripts.sprint1.TC_161_Verify_Project_News_Page_Delete_Cm)  Time elapsed: 257.516 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC161_Verify_Project_News_Page_Delete_Cm Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_161_Verify_Project_News_Page_Delete_Cm.TC161_Verify_Project_News_Page_Delete_Cm(TC_161_Verify_Project_News_Page_Delete_Cm.java:29)
+
+TC162_Verify_Page_News_Page_Version_Duplicate_Pa(com.desktopWeb.scripts.sprint1.TC_162_Verify_Page_News_Page_Version_Duplicate_Pa)  Time elapsed: 260.736 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC162_Verify_Page_News_Page_Version_Duplicate_Pa Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_162_Verify_Page_News_Page_Version_Duplicate_Pa.TC162_Verify_Page_News_Page_Version_Duplicate_Pa(TC_162_Verify_Page_News_Page_Version_Duplicate_Pa.java:31)
+
+TC163_Verify_Page_News_Page_Mobile_Preview_Pa(com.desktopWeb.scripts.sprint1.TC_163_Verify_Page_News_Page_Mobile_Preview_Pa)  Time elapsed: 257.494 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC163_Verify_Page_News_Page_Mobile_Preview_Pa Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_163_Verify_Page_News_Page_Mobile_Preview_Pa.TC163_Verify_Page_News_Page_Mobile_Preview_Pa(TC_163_Verify_Page_News_Page_Mobile_Preview_Pa.java:27)
+
+TC164_Verify_Page_News_Page_Version_Approve_Pa(com.desktopWeb.scripts.sprint1.TC_164_Verify_Page_News_Page_Version_Approve_Pa)  Time elapsed: 52.144 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click on Selected Project expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.click(ActionEngine.java:100)
+	at com.desktopWeb.workflows.HelperClass.navigateConsultation(HelperClass.java:415)
+	at com.desktopWeb.scripts.sprint1.TC_164_Verify_Page_News_Page_Version_Approve_Pa.TC164_Verify_Page_News_Page_Version_Approve_Pa(TC_164_Verify_Page_News_Page_Version_Approve_Pa.java:24)
+
+TC165_Location_Page_News_Page_Location_Pa(com.desktopWeb.scripts.sprint1.TC_165_Location_Page_News_Page_Location_Pa)  Time elapsed: 242.616 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC165_Location_Page_News_Page_Location_Pa Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_165_Location_Page_News_Page_Location_Pa.TC165_Location_Page_News_Page_Location_Pa(TC_165_Location_Page_News_Page_Location_Pa.java:30)
+
+TC166_Design_Page_News_Page_Template_Pa(com.desktopWeb.scripts.sprint1.TC_166_Design_Page_News_Page_Template_Pa)  Time elapsed: 242.026 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC166_Design_Page_News_Page_Template_Pa Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_166_Design_Page_News_Page_Template_Pa.TC166_Design_Page_News_Page_Template_Pa(TC_166_Design_Page_News_Page_Template_Pa.java:30)
+
+TC167_Verify_Page_News_Page_Version_NewPage_Pa(com.desktopWeb.scripts.sprint1.TC_167_Verify_Page_News_Page_Version_NewPage_Pa)  Time elapsed: 243.046 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC167_Verify_Page_News_Page_Version_NewPage_Pa Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_167_Verify_Page_News_Page_Version_NewPage_Pa.TC167_Verify_Page_News_Page_Version_NewPage_Pa(TC_167_Verify_Page_News_Page_Version_NewPage_Pa.java:32)
+
+TC168_Verify_Project_News_Page_Delete_Pa(com.desktopWeb.scripts.sprint1.TC_168_Verify_Project_Sub_Page_Delete_Pa)  Time elapsed: 253.48 sec  <<< FAILURE!
+java.lang.AssertionError: Step TC168_Verify_Project_News_Page_Delete_Pa Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.sprint1.TC_168_Verify_Project_Sub_Page_Delete_Pa.TC168_Verify_Project_News_Page_Delete_Pa(TC_168_Verify_Project_Sub_Page_Delete_Pa.java:27)
+
+TC169_Detail_Page_News_Page_Project_Pa(com.desktopWeb.scripts.sprint1.TC_169_Detail_Page_News_Page_Project_Pa)  Time elapsed: 45.523 sec  <<< FAILURE!
+java.lang.AssertionError: Step Click Failed with description Unable to click on Selected Project expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.click(ActionEngine.java:100)
+	at com.desktopWeb.workflows.HelperClass.navigateConsultation(HelperClass.java:415)
+	at com.desktopWeb.scripts.sprint1.TC_169_Detail_Page_News_Page_Project_Pa.TC169_Detail_Page_News_Page_Project_Pa(TC_169_Detail_Page_News_Page_Project_Pa.java:23)
+

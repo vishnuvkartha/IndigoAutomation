@@ -1,0 +1,16 @@
+2017-12-12 13:14:30-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-12-12 13:15:14-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_030_VerfyPaxSMSIVRManualWithSMSIVR
+2017-12-12 13:15:28-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-12-12 13:15:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_019_VerifyAimsUploaderBySelectingIVRSMSOption
+2017-12-12 13:15:38-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-12-12 13:15:39-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-12-12 13:15:39-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-12-12 13:15:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-12-12 13:15:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-12-12 13:15:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-12-12 13:15:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-12-12 13:15:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-12-12 13:15:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-12-12 13:15:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	AIMS Uploader
+2017-12-12 13:15:48-main--INFO -com.ctaf.accelerators.TestEngine:in AU_SelectFirstFlight()
+2017-12-12 13:15:49-main--INFO -com.ctaf.accelerators.TestEngine:in AU_GetFlightDetails()

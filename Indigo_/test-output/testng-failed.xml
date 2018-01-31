@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.Indigo.Commercial.TC_178_QBC_VerifyIfCheckBoxesForEmailSMSIVRInSearch">
+        <methods>
+          <include name="reportHeader"/>
+          <include name="TC_178_VerifyIfCheckBoxesForEmailSMSIVRInSearch" invocation-numbers="0"/>
+          <include name="tearDownMethod"/>
+          <include name="setupSuite"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.Indigo.Commercial.TC_178_QBC_VerifyIfCheckBoxesForEmailSMSIVRInSearch -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

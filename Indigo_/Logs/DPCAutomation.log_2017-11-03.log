@@ -1,0 +1,760 @@
+2017-11-03 10:58:32-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 10:58:54-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_026
+2017-11-03 10:58:54-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 11:00:28-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 11:00:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_026
+2017-11-03 11:00:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 11:02:39-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-03 11:03:30-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 11:03:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_026
+2017-11-03 11:03:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 11:05:42-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-03 11:09:20-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 11:09:31-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_026
+2017-11-03 11:09:31-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 11:09:31-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 11:09:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 11:09:34-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 11:09:34-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 11:09:34-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 11:09:34-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 11:09:35-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 11:09:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 11:09:36-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 11:09:36-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyRestaurantFacebookLink()
+2017-11-03 11:23:17-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 11:23:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_027
+2017-11-03 11:23:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 11:23:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 11:23:31-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 11:23:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 11:23:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 11:24:22-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 11:24:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_027
+2017-11-03 11:24:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 11:24:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 11:24:39-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 11:24:41-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 11:24:41-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 11:24:41-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 11:24:41-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 11:24:41-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 11:24:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 11:24:44-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 11:24:44-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyRestaurantFacebookLink()
+2017-11-03 11:25:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 11:26:04-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_027
+2017-11-03 11:26:04-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 11:26:04-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 11:26:06-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 11:26:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 11:26:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 11:26:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 11:26:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 11:26:07-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 11:26:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 11:26:09-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 11:26:09-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyRestaurantFacebookLink()
+2017-11-03 11:27:07-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 11:27:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_027
+2017-11-03 11:27:18-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 11:27:25-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 11:27:27-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 11:27:28-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 11:27:28-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 11:27:28-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 11:27:28-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 11:27:28-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 11:27:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 11:27:30-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 11:27:30-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyRestaurantFacebookLink()
+2017-11-03 11:42:19-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 11:42:55-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_028
+2017-11-03 11:42:55-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 11:42:57-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 11:43:00-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 11:43:02-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 11:43:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 11:43:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 11:43:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 11:43:03-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 11:43:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 11:43:05-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 11:43:05-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyRestaurantFacebookLink()
+2017-11-03 11:44:28-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 11:44:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_028
+2017-11-03 11:44:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 11:44:41-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 11:44:43-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 11:44:44-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 11:44:44-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 11:44:44-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 11:44:44-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 11:44:45-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 11:44:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 11:44:46-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 11:44:46-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyNextPreviousButtons()
+2017-11-03 11:46:50-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 11:47:12-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_028
+2017-11-03 11:47:12-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 11:47:20-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 11:47:22-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 11:47:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 11:47:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 11:47:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 11:47:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 11:47:24-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 11:47:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 11:47:26-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 11:47:26-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyNextPreviousButtons()
+2017-11-03 11:47:45-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 11:47:55-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_028
+2017-11-03 11:47:55-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 11:47:55-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 11:47:57-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 11:47:58-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 11:47:58-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 11:47:58-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 11:47:58-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 11:47:59-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 11:47:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 11:48:00-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 11:48:00-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyNextPreviousButtons()
+2017-11-03 11:50:29-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-03 11:50:30-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-03 11:51:02-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 11:51:13-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_028
+2017-11-03 11:51:13-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 11:51:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 11:51:15-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 11:51:17-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 11:51:17-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 11:51:17-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 11:51:17-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 11:51:17-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 11:51:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 11:51:19-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 11:51:19-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyNextPreviousButtons()
+2017-11-03 12:14:49-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 12:15:06-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_029
+2017-11-03 12:15:06-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 12:15:06-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 12:15:08-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 12:15:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 12:15:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 12:15:10-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 12:15:10-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 12:15:10-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 12:15:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 12:15:11-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 12:15:11-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyAttractionDetails()
+2017-11-03 12:15:12-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Image is displaying
+2017-11-03 12:15:12-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Name	By.xpath: //div[@class='_2ZbGf']//a//h4 is displaying
+2017-11-03 12:15:12-main--INFO -com.ctaf.accelerators.TestEngine:Attraction ViewOnMap link is displaying
+2017-11-03 12:15:13-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-03 12:17:06-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 12:17:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_029
+2017-11-03 12:17:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 12:17:30-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 12:17:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 12:17:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 12:17:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 12:17:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 12:17:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 12:17:33-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 12:17:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 12:17:35-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 12:17:35-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyAttractionDetails()
+2017-11-03 12:17:35-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Image is displaying
+2017-11-03 12:17:35-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Name	By.xpath: //div[@class='_2ZbGf']//a//h4 is displaying
+2017-11-03 12:17:35-main--INFO -com.ctaf.accelerators.TestEngine:Attraction ViewOnMap link is displaying
+2017-11-03 12:17:59-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 12:18:12-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_029
+2017-11-03 12:18:12-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 12:18:12-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 12:18:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 12:18:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 12:18:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 12:18:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 12:18:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 12:18:16-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 12:18:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 12:18:18-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 12:18:23-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyAttractionDetails()
+2017-11-03 12:18:27-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Image is displaying
+2017-11-03 12:18:30-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Name	By.xpath: //div[@class='_2ZbGf']//a//h4 is displaying
+2017-11-03 12:18:32-main--INFO -com.ctaf.accelerators.TestEngine:Attraction ViewOnMap link is displaying
+2017-11-03 12:20:25-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 12:21:03-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_029
+2017-11-03 12:21:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 12:21:04-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 12:21:05-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 12:21:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 12:21:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 12:21:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 12:21:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 12:21:07-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 12:21:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 12:21:09-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 12:21:09-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyAttractionDetails()
+2017-11-03 12:21:10-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Image is displaying
+2017-11-03 12:21:10-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Name	By.xpath: //div[@class='_2ZbGf']//a//h4 is displaying
+2017-11-03 12:21:10-main--INFO -com.ctaf.accelerators.TestEngine:Attraction ViewOnMap link is displaying
+2017-11-03 12:21:31-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 12:21:50-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_029
+2017-11-03 12:21:50-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 12:21:50-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 12:21:52-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 12:21:53-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 12:21:53-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 12:21:53-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 12:21:54-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 12:21:54-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 12:21:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 12:21:55-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 12:22:48-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 12:23:02-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_029
+2017-11-03 12:23:02-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 12:23:02-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 12:23:04-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 12:23:05-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 12:23:05-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 12:23:05-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 12:23:05-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 12:23:06-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 12:23:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 12:23:07-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 12:23:11-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyAttractionDetails()
+2017-11-03 12:23:14-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Image is displaying
+2017-11-03 12:23:15-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Name	By.xpath: //div[@class='_2ZbGf']//a//h4 is displaying
+2017-11-03 12:23:16-main--INFO -com.ctaf.accelerators.TestEngine:Attraction ViewOnMap link is displaying
+2017-11-03 12:25:39-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 12:25:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 12:26:07-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_029
+2017-11-03 12:26:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 12:26:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 12:26:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 12:26:11-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 12:26:11-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 12:26:11-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 12:26:11-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 12:26:11-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 12:26:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 12:26:13-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 12:26:13-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyAttractionDetails()
+2017-11-03 12:26:14-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Image is displaying
+2017-11-03 12:26:14-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Name	By.xpath: //div[@class='_2ZbGf']//a//h4 is displaying
+2017-11-03 12:26:14-main--INFO -com.ctaf.accelerators.TestEngine:Attraction ViewOnMap link is displaying
+2017-11-03 12:26:27-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_029
+2017-11-03 12:26:27-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 12:26:27-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 12:26:31-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 12:26:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 12:26:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 12:26:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 12:26:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 12:26:33-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 12:26:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 12:26:34-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 12:26:34-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyAttractionDetails()
+2017-11-03 12:26:35-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Image is displaying
+2017-11-03 12:26:35-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Name	By.xpath: //div[@class='_2ZbGf']//a//h4 is displaying
+2017-11-03 12:26:35-main--INFO -com.ctaf.accelerators.TestEngine:Attraction ViewOnMap link is displaying
+2017-11-03 12:27:54-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 12:28:19-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 12:28:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_029
+2017-11-03 12:28:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 12:28:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 12:28:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 12:28:42-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 12:28:42-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 12:28:42-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 12:28:42-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 12:28:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 12:28:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 12:28:44-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 12:28:44-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyAttractionDetails()
+2017-11-03 12:28:45-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Image is displaying
+2017-11-03 12:28:45-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Name	By.xpath: //div[@class='_2ZbGf']//a//h4 is displaying
+2017-11-03 12:28:45-main--INFO -com.ctaf.accelerators.TestEngine:Attraction ViewOnMap link is displaying
+2017-11-03 12:53:52-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 12:54:05-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_017
+2017-11-03 12:54:05-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 12:54:05-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 12:54:08-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 12:54:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 12:54:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 12:54:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 12:54:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 12:54:09-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 12:54:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 12:54:12-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 12:54:12-main--INFO -com.ctaf.accelerators.TestEngine:in verifyCheckInCheckOut()
+2017-11-03 12:54:16-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-03 13:01:05-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 13:01:14-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_031
+2017-11-03 13:01:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 13:01:15-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 13:01:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 13:01:17-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 13:01:18-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 13:02:12-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 13:02:34-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_031
+2017-11-03 13:02:34-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 13:02:34-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 13:02:36-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 13:02:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 13:02:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 13:03:20-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-03 13:03:26-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 13:03:50-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_031
+2017-11-03 13:03:50-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 13:03:50-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 13:03:52-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 13:03:54-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 13:03:55-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 13:03:55-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 13:03:55-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 13:03:55-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 13:03:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 13:03:57-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 13:03:57-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyViewOnMapLink()
+2017-11-03 13:04:38-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-03 13:16:35-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 13:16:44-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_032
+2017-11-03 13:16:44-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 13:16:44-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 13:16:45-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 13:16:46-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 13:16:46-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 13:17:24-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 13:17:34-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_032
+2017-11-03 13:17:34-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 13:17:34-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 13:17:36-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 13:17:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 13:17:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 13:17:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 13:17:39-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 13:17:39-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 13:17:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 13:17:40-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 13:17:40-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyNextPreviousButtons()
+2017-11-03 13:38:46-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 13:39:10-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_033
+2017-11-03 13:39:10-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 13:39:11-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 13:39:12-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 13:39:13-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 13:39:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 13:40:24-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 13:40:42-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_033
+2017-11-03 13:40:42-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 13:40:42-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 13:40:44-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 13:40:46-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 13:40:46-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 13:40:46-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 13:40:47-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 13:40:47-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 13:40:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 13:40:50-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 13:40:50-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyAttractionDetails()
+2017-11-03 13:40:50-main--INFO -com.ctaf.accelerators.TestEngine:NightLife	 Image is displaying
+2017-11-03 13:40:50-main--INFO -com.ctaf.accelerators.TestEngine:NightLife Name	By.xpath: //div[@class='_2ZbGf']//a//h4 is displaying
+2017-11-03 13:40:50-main--INFO -com.ctaf.accelerators.TestEngine:NightLifeViewOnMap link is displaying
+2017-11-03 13:40:50-main--INFO -com.ctaf.accelerators.TestEngine:NightLifeFour Square Link is displaying
+2017-11-03 13:44:22-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 13:44:33-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_029
+2017-11-03 13:44:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 13:44:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 13:44:36-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 13:44:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 13:44:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 13:44:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 13:44:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 13:44:38-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 13:44:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 13:44:40-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 13:44:40-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyAttractionDetails()
+2017-11-03 13:44:41-main--INFO -com.ctaf.accelerators.TestEngine:Attraction	 Image is displaying
+2017-11-03 13:44:41-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Name	ANGEL WITCH BAR is displaying
+2017-11-03 13:44:41-main--INFO -com.ctaf.accelerators.TestEngine:Attraction	ViewOnMap link is displaying
+2017-11-03 13:44:41-main--INFO -com.ctaf.accelerators.TestEngine:Attraction	Four Square Link is displaying
+2017-11-03 13:46:11-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 13:46:22-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_029
+2017-11-03 13:46:22-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 13:46:22-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 13:46:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 13:46:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 13:46:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 13:46:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 13:46:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 13:46:26-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 13:46:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 13:46:28-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 13:46:28-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyAttractionDetails()
+2017-11-03 13:46:30-main--INFO -com.ctaf.accelerators.TestEngine:Attraction	 Image is displaying
+2017-11-03 13:46:30-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Name	IMAX THEATRE is displaying
+2017-11-03 13:46:30-main--INFO -com.ctaf.accelerators.TestEngine:Attraction	ViewOnMap link is displaying
+2017-11-03 13:46:30-main--INFO -com.ctaf.accelerators.TestEngine:Attraction	Four Square Link is displaying
+2017-11-03 13:47:31-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 13:47:58-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_033
+2017-11-03 13:47:58-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 13:47:59-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 13:48:06-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 13:48:08-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 13:48:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 13:48:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 13:48:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 13:48:09-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 13:48:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 13:48:15-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 13:48:15-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyAttractionDetails()
+2017-11-03 13:48:18-main--INFO -com.ctaf.accelerators.TestEngine:NightLife	 Image is displaying
+2017-11-03 13:48:18-main--INFO -com.ctaf.accelerators.TestEngine:NightLife Name	THE PUB is displaying
+2017-11-03 13:48:18-main--INFO -com.ctaf.accelerators.TestEngine:NightLife	ViewOnMap link is displaying
+2017-11-03 13:48:18-main--INFO -com.ctaf.accelerators.TestEngine:NightLife	Four Square Link is displaying
+2017-11-03 13:49:54-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 13:50:08-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_008
+2017-11-03 13:50:08-main--INFO -com.ctaf.accelerators.TestEngine:in verifyCheckInCheckOut()
+2017-11-03 13:55:52-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 13:56:12-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_033
+2017-11-03 13:56:12-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 13:56:13-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 13:56:15-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 13:56:17-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 13:56:17-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 13:56:17-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 13:56:17-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 13:56:17-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 13:56:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 13:56:19-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 13:56:19-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyAttractionDetails()
+2017-11-03 13:56:22-main--INFO -com.ctaf.accelerators.TestEngine:NightLife	 Image is displaying
+2017-11-03 13:56:22-main--INFO -com.ctaf.accelerators.TestEngine:NightLife Name	THE PUB is displaying
+2017-11-03 13:56:22-main--INFO -com.ctaf.accelerators.TestEngine:NightLife	ViewOnMap link is displaying
+2017-11-03 13:56:22-main--INFO -com.ctaf.accelerators.TestEngine:NightLife	Four Square Link is displaying
+2017-11-03 13:57:03-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 13:57:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_008
+2017-11-03 13:57:21-main--INFO -com.ctaf.accelerators.TestEngine:in verifyCheckInCheckOut()
+2017-11-03 14:03:19-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 14:03:35-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_008
+2017-11-03 14:03:35-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 14:03:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 14:05:51-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 14:06:20-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_008
+2017-11-03 14:06:20-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 14:06:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 14:07:31-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 14:08:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_008
+2017-11-03 14:08:00-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 14:08:06-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 14:36:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 14:37:23-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_012
+2017-11-03 14:37:23-main--INFO -com.ctaf.accelerators.TestEngine:in verifyCheckInCheckOut()
+2017-11-03 14:37:29-main--INFO -com.ctaf.accelerators.TestEngine:in verifyNights()
+2017-11-03 14:38:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 14:38:24-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_013
+2017-11-03 14:38:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 14:38:25-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 14:38:27-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 14:38:28-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 14:39:58-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 14:40:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_013
+2017-11-03 14:40:18-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 14:40:19-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 14:40:21-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 14:40:23-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 14:40:23-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 14:40:23-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 14:40:23-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 14:40:23-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 14:40:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 14:40:27-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 15:19:46-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 15:19:59-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_033
+2017-11-03 15:19:59-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 15:20:01-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 15:20:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 15:20:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 15:20:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 15:20:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 15:20:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 15:20:09-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 15:20:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 15:20:11-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 15:20:11-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyViewOnMapLink()
+2017-11-03 15:26:41-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 15:26:49-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_036
+2017-11-03 15:26:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 15:26:50-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 15:26:52-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 15:26:53-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 15:26:54-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 15:26:54-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 15:26:54-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 15:26:54-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 15:26:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 15:26:55-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 15:26:55-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyNextPreviousButtons()
+2017-11-03 15:29:04-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 15:29:13-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_036
+2017-11-03 15:29:13-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 15:29:13-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 15:29:15-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 15:29:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 15:29:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 15:30:48-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 15:31:06-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_036
+2017-11-03 15:31:06-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 15:31:06-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 15:31:08-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 15:31:10-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 15:31:10-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 15:31:10-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 15:31:10-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 15:31:10-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 15:31:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 15:31:12-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 15:31:12-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyNextPreviousButtons()
+2017-11-03 15:31:17-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-03 15:33:29-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 15:33:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_033
+2017-11-03 15:33:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 15:33:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 15:33:42-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 15:33:43-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 15:33:43-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 15:33:43-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 15:33:43-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 15:33:43-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 15:33:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 15:33:45-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 15:33:45-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyViewOnMapLink()
+2017-11-03 15:35:18-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 15:35:25-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_035
+2017-11-03 15:35:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 15:35:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 15:35:28-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 15:35:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 15:35:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 15:35:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 15:35:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 15:35:29-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 15:35:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 15:35:31-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 15:35:31-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyViewOnMapLink()
+2017-11-03 15:36:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 15:36:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_035
+2017-11-03 15:36:21-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 15:36:22-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 15:36:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 15:36:25-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 15:36:25-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 15:36:25-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 15:36:25-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 15:36:25-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 15:36:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 15:36:27-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 15:36:27-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyViewOnMapLink()
+2017-11-03 16:49:20-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 16:49:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_037
+2017-11-03 16:49:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 16:49:45-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 16:49:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 16:49:50-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 16:49:50-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 16:49:50-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 16:49:50-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 16:49:50-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 16:49:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search Button
+2017-11-03 16:49:52-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 16:49:52-main--INFO -com.ctaf.accelerators.TestEngine:in ClickHotelInfoContinueButton()
+2017-11-03 16:49:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Continue Button
+2017-11-03 16:49:54-main--INFO -com.ctaf.accelerators.TestEngine:Sect Your Room Page is displaying
+2017-11-03 17:34:49-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 17:35:07-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_038
+2017-11-03 17:35:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 17:35:11-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 17:35:12-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 17:35:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 17:35:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 17:35:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 17:35:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 17:35:14-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 17:35:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-03 17:35:15-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 17:35:15-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyRestaurantDetails()
+2017-11-03 17:37:17-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-03 17:50:19-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 17:50:28-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_038
+2017-11-03 17:50:28-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 17:50:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 17:50:30-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 17:50:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 17:50:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 17:50:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 17:50:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 17:50:32-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 17:50:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-03 17:50:34-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 17:50:34-main--INFO -com.ctaf.accelerators.TestEngine:in ClickHotelInfoContinueButton()
+2017-11-03 17:50:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Continue Button
+2017-11-03 17:50:35-main--INFO -com.ctaf.accelerators.TestEngine:Sect Your Room Page is displaying
+2017-11-03 17:50:35-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyRestaurantDetails()
+2017-11-03 17:50:36-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Heading	SELECT YOUR ROOM is displaying
+2017-11-03 17:50:36-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_tab	SELECT YOUR ROOM is displaying
+2017-11-03 17:50:36-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Enter Personal Details tab	ENTER YOUR PERSONAL DETAILS is displaying
+2017-11-03 17:50:36-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_ConfirmAndPayTab	CONFIRM & PAY is displaying
+2017-11-03 17:50:36-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Join Remembered Heading	JOIN OUR REMEMBERED PROGRAMME - IT'S FREE! is displaying
+2017-11-03 17:50:36-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Join Remembered Checkbox is displaying
+2017-11-03 17:50:36-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-03 17:51:22-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 17:51:55-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_038
+2017-11-03 17:51:56-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 17:51:56-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 17:52:00-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 17:52:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 17:52:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 17:52:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 17:52:04-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 17:52:04-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 17:52:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-03 17:52:06-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 17:52:24-main--INFO -com.ctaf.accelerators.TestEngine:in ClickHotelInfoContinueButton()
+2017-11-03 17:52:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Continue Button
+2017-11-03 17:52:30-main--INFO -com.ctaf.accelerators.TestEngine:Sect Your Room Page is displaying
+2017-11-03 17:52:36-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyRestaurantDetails()
+2017-11-03 17:52:39-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Heading	SELECT YOUR ROOM is displaying
+2017-11-03 17:52:41-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_tab	SELECT YOUR ROOM is displaying
+2017-11-03 17:52:43-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Enter Personal Details tab	ENTER YOUR PERSONAL DETAILS is displaying
+2017-11-03 17:52:45-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_ConfirmAndPayTab	CONFIRM & PAY is displaying
+2017-11-03 17:52:47-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Join Remembered Heading	JOIN OUR REMEMBERED PROGRAMME - IT'S FREE! is displaying
+2017-11-03 17:52:50-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Join Remembered Checkbox is displaying
+2017-11-03 17:54:50-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 17:55:31-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_038
+2017-11-03 17:55:31-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 17:55:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 17:55:36-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 17:55:39-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 17:55:39-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 17:55:39-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 17:55:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 17:55:40-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 17:55:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-03 17:55:42-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 17:56:04-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-03 17:57:05-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 17:57:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_038
+2017-11-03 17:57:41-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 17:57:41-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 17:57:45-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 17:57:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 17:57:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 17:57:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 17:57:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 17:57:49-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 17:57:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-03 17:57:51-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 17:58:04-main--INFO -com.ctaf.accelerators.TestEngine:in ClickHotelInfoContinueButton()
+2017-11-03 17:58:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Continue Button
+2017-11-03 17:58:08-main--INFO -com.ctaf.accelerators.TestEngine:Sect Your Room Page is displaying
+2017-11-03 17:58:12-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyRestaurantDetails()
+2017-11-03 17:58:14-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Heading	SELECT YOUR ROOM is displaying
+2017-11-03 17:58:15-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_tab	SELECT YOUR ROOM is displaying
+2017-11-03 17:58:17-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Enter Personal Details tab	ENTER YOUR PERSONAL DETAILS is displaying
+2017-11-03 17:58:18-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_ConfirmAndPayTab	CONFIRM & PAY is displaying
+2017-11-03 17:58:19-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Join Remembered Heading	JOIN OUR REMEMBERED PROGRAMME - IT'S FREE! is displaying
+2017-11-03 17:58:20-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Join Remembered Checkbox is displaying
+2017-11-03 18:01:32-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 18:02:06-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_038
+2017-11-03 18:02:06-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 18:02:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 18:02:10-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 18:02:13-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 18:02:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 18:02:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 18:02:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 18:02:15-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 18:02:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-03 18:02:17-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 18:02:26-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-03 18:02:54-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 18:03:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_038
+2017-11-03 18:03:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 18:03:30-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 18:03:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 18:03:36-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 18:03:36-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 18:03:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 18:03:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 18:03:37-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 18:03:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-03 18:03:41-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 18:03:45-main--INFO -com.ctaf.accelerators.TestEngine:in ClickHotelInfoContinueButton()
+2017-11-03 18:03:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Continue Button
+2017-11-03 18:03:49-main--INFO -com.ctaf.accelerators.TestEngine:Sect Your Room Page is displaying
+2017-11-03 18:03:52-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyRestaurantDetails()
+2017-11-03 18:03:54-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Heading	SELECT YOUR ROOM is displaying
+2017-11-03 18:03:55-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_tab	SELECT YOUR ROOM is displaying
+2017-11-03 18:03:56-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Enter Personal Details tab	ENTER YOUR PERSONAL DETAILS is displaying
+2017-11-03 18:03:57-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_ConfirmAndPayTab	CONFIRM & PAY is displaying
+2017-11-03 18:03:58-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Join Remembered Heading	JOIN OUR REMEMBERED PROGRAMME - IT'S FREE! is displaying
+2017-11-03 18:03:59-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Join Remembered Checkbox is displaying
+2017-11-03 18:09:32-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 18:10:18-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 18:10:55-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_038
+2017-11-03 18:10:55-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 18:10:56-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 18:10:59-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 18:11:02-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 18:11:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 18:11:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 18:11:04-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 18:11:04-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 18:11:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-03 18:11:08-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 18:11:14-main--INFO -com.ctaf.accelerators.TestEngine:in ClickHotelInfoContinueButton()
+2017-11-03 18:11:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Continue Button
+2017-11-03 18:11:21-main--INFO -com.ctaf.accelerators.TestEngine:Sect Your Room Page is displaying
+2017-11-03 18:11:26-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyRestaurantDetails()
+2017-11-03 18:11:27-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Heading	SELECT YOUR ROOM is displaying
+2017-11-03 18:11:28-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_tab	SELECT YOUR ROOM is displaying
+2017-11-03 18:11:29-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Enter Personal Details tab	ENTER YOUR PERSONAL DETAILS is displaying
+2017-11-03 18:11:30-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_ConfirmAndPayTab	CONFIRM & PAY is displaying
+2017-11-03 18:11:31-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Join Remembered Heading	JOIN OUR REMEMBERED PROGRAMME - IT'S FREE! is displaying
+2017-11-03 18:11:32-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Join Remembered Checkbox is displaying
+2017-11-03 18:13:46-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-03 18:14:52-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_038
+2017-11-03 18:14:53-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-03 18:14:54-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-03 18:14:58-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-03 18:15:01-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-03 18:15:01-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-03 18:15:02-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-03 18:15:02-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-03 18:15:02-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-03 18:15:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-03 18:15:08-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-03 18:15:16-main--INFO -com.ctaf.accelerators.TestEngine:in ClickHotelInfoContinueButton()
+2017-11-03 18:15:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Continue Button
+2017-11-03 18:15:47-main--INFO -com.ctaf.accelerators.TestEngine:Sect Your Room Page is displaying
+2017-11-03 18:16:09-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyRestaurantDetails()
+2017-11-03 18:16:27-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Heading	SELECT YOUR ROOM is displaying
+2017-11-03 18:16:28-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_tab	SELECT YOUR ROOM is displaying
+2017-11-03 18:16:31-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Enter Personal Details tab	ENTER YOUR PERSONAL DETAILS is displaying
+2017-11-03 18:16:42-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_ConfirmAndPayTab	CONFIRM & PAY is displaying
+2017-11-03 18:16:43-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Join Remembered Heading	JOIN OUR REMEMBERED PROGRAMME - IT'S FREE! is displaying
+2017-11-03 18:16:51-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Join Remembered Checkbox is displaying
+2017-11-03 18:18:51-main--INFO -com.ctaf.accelerators.TestEngine:Select Your Room Page_DiscountMessage	Become a REMEMBERED member and receive 10% off all your bookings through our website and app. is displaying
+2017-11-03 18:18:54-main--INFO -com.ctaf.accelerators.TestEngine:Select Your Room Page_RoomType1	DOUBLE ROOM is displaying
+2017-11-03 18:18:57-main--INFO -com.ctaf.accelerators.TestEngine:Select Your Room Page_Page_RoomType2	TWIN ROOM is displaying
+2017-11-03 18:18:59-main--INFO -com.ctaf.accelerators.TestEngine:Select Your Room Page_Page_RoomType3	ACCESSIBLE ROOM is displaying
+2017-11-03 18:19:05-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Select room button is displaying
+2017-11-03 18:19:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select room button
+2017-11-03 18:19:19-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Dropdown is displaying
+2017-11-03 18:19:26-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Breakfast Checkbox is displaying
+2017-11-03 18:19:30-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom_Information Section	INFORMATION / ANGELES CITY is displaying
+2017-11-03 18:19:34-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom page_SummarySection is displaying
+2017-11-03 18:19:38-main--INFO -com.ctaf.accelerators.TestEngine:SelectYourRoom page_ContinueButton is displaying

@@ -1,0 +1,17 @@
+2018-01-16 17:29:52-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2018-01-16 17:30:22-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_002
+2018-01-16 17:30:22-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2018-01-16 17:30:22-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2018-01-16 17:30:23-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2018-01-16 17:30:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2018-01-16 17:30:24-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2018-01-16 17:30:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2018-01-16 17:30:24-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2018-01-16 17:30:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2018-01-16 17:30:25-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2018-01-16 17:30:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2018-01-16 17:30:30-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2018-01-16 17:30:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2018-01-16 17:30:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2018-01-16 17:30:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2018-01-16 17:30:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin

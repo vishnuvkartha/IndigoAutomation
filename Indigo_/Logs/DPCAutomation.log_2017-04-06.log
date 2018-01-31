@@ -1,0 +1,30 @@
+2017-04-06 12:51:41-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-06 12:52:25-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC57_Detail_Setting_Project_Desc
+2017-04-06 12:52:25-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-06 12:52:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-06 12:52:26-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-06 12:52:26-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-06 12:52:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-06 12:52:41-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-06 12:53:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-06 12:53:33-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-06 12:53:43-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToSetting
+2017-04-06 12:53:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Settings
+2017-04-06 12:54:03-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-06 12:54:03-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-06 12:54:05-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing on Chrome Browser - do not delete - Enex - Br in Project Desc
+2017-04-06 12:57:44-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-06 12:58:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC57_Detail_Setting_Project_Desc
+2017-04-06 12:58:29-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-06 12:58:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-06 12:58:29-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-06 12:58:29-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-06 12:58:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-06 12:58:45-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-06 12:59:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-06 12:59:38-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-06 12:59:48-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToSetting
+2017-04-06 12:59:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Settings
+2017-04-06 13:00:23-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-06 13:00:29-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-06 13:00:36-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing on Chrome Browser - do not delete - Enex - aF in Project Desc

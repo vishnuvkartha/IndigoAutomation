@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13567" started-at="2018-01-31T09:22:22Z" finished-at="2018-01-31T09:22:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13567" started-at="2018-01-31T09:22:22Z" finished-at="2018-01-31T09:22:36Z">
+      <class name="com.Indigo.MIS.TC_469_GS_VerifyGenericSearchPage">
+        <test-method status="PASS" signature="setupSuite(org.testng.ITestContext)[pri:0, instance:com.Indigo.MIS.TC_469_GS_VerifyGenericSearchPage@43195e57]" name="setupSuite" is-config="true" duration-ms="27" started-at="2018-01-31T14:52:22Z" finished-at="2018-01-31T14:52:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@50468873]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuite -->
+        <test-method status="PASS" signature="reportHeader(java.lang.reflect.Method)[pri:0, instance:com.Indigo.MIS.TC_469_GS_VerifyGenericSearchPage@43195e57]" name="reportHeader" is-config="true" duration-ms="6263" started-at="2018-01-31T14:52:22Z" finished-at="2018-01-31T14:52:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.Indigo.MIS.TC_469_GS_VerifyGenericSearchPage.TC_469_GS_VerifyGenericSearchPage(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String) throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportHeader -->
+        <test-method status="PASS" signature="TC_469_GS_VerifyGenericSearchPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Indigo.MIS.TC_469_GS_VerifyGenericSearchPage@43195e57]" name="TC_469_GS_VerifyGenericSearchPage" duration-ms="5728" started-at="2018-01-31T14:52:28Z" data-provider="testData" finished-at="2018-01-31T14:52:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[seema.rani]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Test@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[MIS]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Generic Search]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Flight Movement]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[00]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[To verify GenericSearch page]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_469_GS_VerifyGenericSearchPage -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.Indigo.MIS.TC_469_GS_VerifyGenericSearchPage@43195e57]" name="tearDownMethod" is-config="true" duration-ms="1564" started-at="2018-01-31T14:52:34Z" finished-at="2018-01-31T14:52:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestContext)[pri:0, instance:com.Indigo.MIS.TC_469_GS_VerifyGenericSearchPage@43195e57]" name="tearDown" is-config="true" duration-ms="17" started-at="2018-01-31T14:52:36Z" finished-at="2018-01-31T14:52:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@50468873]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Indigo.MIS.TC_469_GS_VerifyGenericSearchPage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

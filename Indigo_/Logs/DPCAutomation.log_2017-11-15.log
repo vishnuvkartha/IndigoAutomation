@@ -1,0 +1,1566 @@
+2017-11-15 10:24:11-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : ie
+2017-11-15 10:29:19-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : ie
+2017-11-15 10:29:54-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_078
+2017-11-15 10:29:54-main--INFO -com.ctaf.accelerators.TestEngine:in ClickLogin()
+2017-11-15 10:30:34-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : ie
+2017-11-15 10:30:48-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_050
+2017-11-15 10:30:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 10:31:35-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : ie
+2017-11-15 10:31:49-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_052
+2017-11-15 10:31:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 10:33:37-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : ie
+2017-11-15 10:33:48-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_051
+2017-11-15 10:33:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 10:41:39-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : ie
+2017-11-15 10:42:05-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_026
+2017-11-15 10:42:05-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 10:42:47-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-11-15 10:43:09-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_026
+2017-11-15 10:43:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 10:43:10-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 10:43:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-15 10:43:18-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-15 10:43:18-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-15 10:43:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Rooms
+2017-11-15 10:43:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of rooms
+2017-11-15 10:43:18-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-15 10:43:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Adults
+2017-11-15 10:43:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of adults
+2017-11-15 10:43:18-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-15 10:43:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Kids
+2017-11-15 10:43:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of kids
+2017-11-15 10:43:18-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-15 10:43:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-15 10:43:18-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyRestaurantFacebookLink()
+2017-11-15 10:47:49-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-11-15 10:48:28-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-11-15 10:48:42-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_027
+2017-11-15 10:48:42-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 10:48:43-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 10:48:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-15 10:48:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-15 10:48:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-15 10:48:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Rooms
+2017-11-15 10:48:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of rooms
+2017-11-15 10:48:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-15 10:48:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Adults
+2017-11-15 10:48:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of adults
+2017-11-15 10:48:50-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-15 10:48:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Kids
+2017-11-15 10:48:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of kids
+2017-11-15 10:48:50-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-15 10:48:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-15 10:48:50-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyViewOnMapLink()
+2017-11-15 10:51:06-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-11-15 10:51:32-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_035
+2017-11-15 10:51:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 10:51:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 10:51:33-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-15 10:53:26-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-11-15 10:53:46-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_036
+2017-11-15 10:53:46-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 10:53:46-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 10:53:47-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-15 10:57:10-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-11-15 10:57:25-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_035
+2017-11-15 10:57:25-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 10:57:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 10:57:26-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-15 10:58:40-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-11-15 10:58:53-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_037
+2017-11-15 10:58:53-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 10:58:53-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 10:59:58-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-15 11:00:00-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-15 11:00:00-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-15 11:00:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Rooms
+2017-11-15 11:00:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of rooms
+2017-11-15 11:00:01-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-15 11:00:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Adults
+2017-11-15 11:00:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of adults
+2017-11-15 11:00:01-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-15 11:00:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Kids
+2017-11-15 11:00:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of kids
+2017-11-15 11:00:01-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-15 11:00:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-15 11:00:01-main--INFO -com.ctaf.accelerators.TestEngine:in ClickHotelInfoContinueButton()
+2017-11-15 11:00:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Continue Button
+2017-11-15 11:00:04-main--INFO -com.ctaf.accelerators.TestEngine:Sect Your Room Page is displaying
+2017-11-15 11:00:51-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-11-15 11:01:09-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_036
+2017-11-15 11:01:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 11:01:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 11:02:06-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-15 11:02:08-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-15 11:02:08-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-15 11:02:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Rooms
+2017-11-15 11:02:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of rooms
+2017-11-15 11:02:08-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-15 11:02:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Adults
+2017-11-15 11:02:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of adults
+2017-11-15 11:02:08-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-15 11:02:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Kids
+2017-11-15 11:02:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of kids
+2017-11-15 11:02:09-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-15 11:02:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-15 11:02:09-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyNextPreviousButtons()
+2017-11-15 11:02:58-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-11-15 11:03:14-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_040
+2017-11-15 11:03:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 11:03:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 11:04:10-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-15 11:04:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-11-15 11:05:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_027
+2017-11-15 11:05:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 11:05:52-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 11:13:24-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-11-15 11:13:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_032
+2017-11-15 11:13:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 11:13:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 11:14:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-11-15 11:14:27-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_033
+2017-11-15 11:14:27-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 11:14:27-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 11:16:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-15 11:18:35-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-15 11:18:35-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-15 11:18:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Rooms
+2017-11-15 11:18:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of rooms
+2017-11-15 11:18:35-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-15 11:18:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Adults
+2017-11-15 11:18:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of adults
+2017-11-15 11:18:35-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-15 11:18:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Kids
+2017-11-15 11:18:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of kids
+2017-11-15 11:18:35-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-15 11:18:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-15 11:18:35-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyAttractionDetails()
+2017-11-15 11:18:39-main--INFO -com.ctaf.accelerators.TestEngine:NightLife	 Image is displaying
+2017-11-15 11:18:39-main--INFO -com.ctaf.accelerators.TestEngine:NightLife Name	THE PUB is displaying
+2017-11-15 11:18:39-main--INFO -com.ctaf.accelerators.TestEngine:NightLife	ViewOnMap link is displaying
+2017-11-15 11:18:39-main--INFO -com.ctaf.accelerators.TestEngine:NightLife	Four Square Link is displaying
+2017-11-15 11:33:39-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 11:33:59-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_014
+2017-11-15 11:33:59-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 11:34:00-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 11:34:02-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-15 11:34:04-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-15 11:34:04-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-15 11:34:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Rooms
+2017-11-15 11:34:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of rooms
+2017-11-15 11:34:05-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-15 11:34:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Adults
+2017-11-15 11:34:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of adults
+2017-11-15 11:34:05-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-15 11:34:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Kids
+2017-11-15 11:34:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of kids
+2017-11-15 11:34:05-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-15 11:34:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-15 11:34:05-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyHotelInfoSreen()
+2017-11-15 11:34:07-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-15 11:34:07-main--INFO -com.ctaf.accelerators.TestEngine:ContinueButton is displaying
+2017-11-15 11:34:07-main--INFO -com.ctaf.accelerators.TestEngine:HotelInfoPage is displaying
+2017-11-15 11:34:07-main--INFO -com.ctaf.accelerators.TestEngine:HotelDescription is displaying
+2017-11-15 11:34:07-main--INFO -com.ctaf.accelerators.TestEngine:Maps is displaying
+2017-11-15 11:34:07-main--INFO -com.ctaf.accelerators.TestEngine:Dining is displaying
+2017-11-15 11:34:08-main--INFO -com.ctaf.accelerators.TestEngine:Attractions is displaying
+2017-11-15 11:34:08-main--INFO -com.ctaf.accelerators.TestEngine:NightLife is displaying
+2017-11-15 11:34:08-main--INFO -com.ctaf.accelerators.TestEngine:Rate per Day is displaying
+2017-11-15 11:34:20-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 11:34:32-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_029
+2017-11-15 11:34:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 11:34:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 11:34:35-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-15 11:34:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-15 11:34:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-15 11:34:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Rooms
+2017-11-15 11:34:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of rooms
+2017-11-15 11:34:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-15 11:34:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Adults
+2017-11-15 11:34:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of adults
+2017-11-15 11:34:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-15 11:34:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Kids
+2017-11-15 11:34:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of kids
+2017-11-15 11:34:38-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-15 11:34:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-15 11:34:38-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyAttractionDetails()
+2017-11-15 11:34:42-main--INFO -com.ctaf.accelerators.TestEngine:Attraction	 Image is displaying
+2017-11-15 11:34:42-main--INFO -com.ctaf.accelerators.TestEngine:Attraction Name	IMAX THEATRE is displaying
+2017-11-15 11:34:42-main--INFO -com.ctaf.accelerators.TestEngine:Attraction	ViewOnMap link is displaying
+2017-11-15 11:34:42-main--INFO -com.ctaf.accelerators.TestEngine:Attraction	Four Square Link is displaying
+2017-11-15 11:39:29-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : firefox
+2017-11-15 11:39:44-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_078
+2017-11-15 11:39:44-main--INFO -com.ctaf.accelerators.TestEngine:in ClickLogin()
+2017-11-15 11:39:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 11:39:44-main--INFO -com.ctaf.accelerators.TestEngine:in Login()
+2017-11-15 11:39:45-main--INFO -com.ctaf.accelerators.TestEngine:Type  roger@gmail.com in username
+2017-11-15 11:39:45-main--INFO -com.ctaf.accelerators.TestEngine:Type  rogerfederer in password
+2017-11-15 11:39:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 11:39:45-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 11:39:46-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 11:39:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-15 11:39:51-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-15 11:39:51-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-15 11:39:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Rooms
+2017-11-15 11:39:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of rooms
+2017-11-15 11:39:51-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-15 11:39:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Adults
+2017-11-15 11:39:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of adults
+2017-11-15 11:39:51-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-15 11:39:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Kids
+2017-11-15 11:39:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of kids
+2017-11-15 11:39:51-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-15 11:39:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-15 11:39:51-main--INFO -com.ctaf.accelerators.TestEngine:in ClickHotelInfoContinueButton()
+2017-11-15 11:39:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Continue Button
+2017-11-15 11:39:54-main--INFO -com.ctaf.accelerators.TestEngine:Sect Your Room Page is displaying
+2017-11-15 11:39:54-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRooms()
+2017-11-15 11:39:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on select no of rooms
+2017-11-15 11:39:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on The number of 	DOUBLE ROOM	 is selected as 2
+2017-11-15 11:39:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on select no of rooms
+2017-11-15 11:39:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on The number of 	TWIN ROOM	 is selected as 1
+2017-11-15 11:39:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on select no of rooms
+2017-11-15 11:39:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on The number of 	ACCESSIBLE ROOM	 is selected as 1
+2017-11-15 11:39:58-main--INFO -com.ctaf.accelerators.TestEngine:in Click_SelectYourRoom_ContinueButton()
+2017-11-15 11:39:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Click_SelectYourRoom_ContinueButton
+2017-11-15 11:39:58-main--INFO -com.ctaf.accelerators.TestEngine:in ClickContinuePersonaDetails()
+2017-11-15 11:40:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on PersonalDetailsPage_Continue
+2017-11-15 11:40:00-main--INFO -com.ctaf.accelerators.TestEngine:in ClickPayAtHotel()
+2017-11-15 11:40:00-main--INFO -com.ctaf.accelerators.TestEngine:in ClickConfirmAndPay()
+2017-11-15 11:40:06-main--INFO -com.ctaf.accelerators.TestEngine:Confirmation page heading 	PACK YOUR BAGS is displaying
+2017-11-15 11:40:06-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmationScreen()
+2017-11-15 11:40:06-main--INFO -com.ctaf.accelerators.TestEngine:Confirmation screen heading	YOUR HOTEL HAS BEEN BOOKED! is displaying
+2017-11-15 11:40:07-main--INFO -com.ctaf.accelerators.TestEngine:Email Confirmation message	We've emailed you your booking confirmation. is displaying
+2017-11-15 11:40:07-main--INFO -com.ctaf.accelerators.TestEngine:Confirmation page check in date	TUE, 21 NOV 2017 is displaying
+2017-11-15 11:40:07-main--INFO -com.ctaf.accelerators.TestEngine:Confirmation page check out date	WED, 22 NOV 2017 is displaying
+2017-11-15 11:40:07-main--INFO -com.ctaf.accelerators.TestEngine: Hotel details in confirmation page	Don Juico Avenue, Malabanias
+Pampanga, Angeles City 2009
+Philippines
++63 45 459 08 88
+frontdesk.angeles@redplanethotels.com is displaying
+2017-11-15 11:40:07-main--INFO -com.ctaf.accelerators.TestEngine: Hotel name in confirmation page	Red Planet	Angeles City is displaying
+2017-11-15 11:40:07-main--INFO -com.ctaf.accelerators.TestEngine: Adults in confirmation page	4 is displaying
+2017-11-15 11:40:07-main--INFO -com.ctaf.accelerators.TestEngine: Total Cost in confirmation page	PHP 6,536 is displaying
+2017-11-15 11:40:07-main--INFO -com.ctaf.accelerators.TestEngine:Facebook icon is displaying
+2017-11-15 11:40:07-main--INFO -com.ctaf.accelerators.TestEngine:Twitter Icon is displaying
+2017-11-15 11:40:07-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmationScreen()
+2017-11-15 11:40:24-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : ie
+2017-11-15 11:40:49-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_077
+2017-11-15 11:40:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 11:41:58-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : ie
+2017-11-15 11:42:15-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_077
+2017-11-15 11:42:15-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 11:42:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 11:42:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-15 11:42:46-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-15 11:42:47-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-15 11:42:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Rooms
+2017-11-15 11:42:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of rooms
+2017-11-15 11:42:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-15 11:42:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Adults
+2017-11-15 11:42:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of adults
+2017-11-15 11:42:50-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-15 11:42:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Kids
+2017-11-15 11:42:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of kids
+2017-11-15 11:42:53-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-15 11:42:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-15 11:42:56-main--INFO -com.ctaf.accelerators.TestEngine:in ClickHotelInfoContinueButton()
+2017-11-15 11:43:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Continue Button
+2017-11-15 11:43:02-main--INFO -com.ctaf.accelerators.TestEngine:Sect Your Room Page is displaying
+2017-11-15 11:43:02-main--INFO -com.ctaf.accelerators.TestEngine:in UncheckJoinRemembered()
+2017-11-15 11:43:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRooms()
+2017-11-15 11:43:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on select no of rooms
+2017-11-15 11:43:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on The number of 	DOUBLE ROOM	 is selected as 2
+2017-11-15 11:43:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on select no of rooms
+2017-11-15 11:43:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on The number of 	TWIN ROOM	 is selected as 1
+2017-11-15 11:43:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on select no of rooms
+2017-11-15 11:43:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on The number of 	ACCESSIBLE ROOM	 is selected as 1
+2017-11-15 11:43:15-main--INFO -com.ctaf.accelerators.TestEngine:in Click_SelectYourRoom_ContinueButton()
+2017-11-15 11:43:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Click_SelectYourRoom_ContinueButton
+2017-11-15 11:43:39-main--INFO -com.ctaf.accelerators.TestEngine:Type  andy in First name field
+2017-11-15 11:44:10-main--INFO -com.ctaf.accelerators.TestEngine:Type  murray in First name field
+2017-11-15 11:44:10-main--INFO -com.ctaf.accelerators.TestEngine:in ProvidePhone()
+2017-11-15 11:45:01-main--INFO -com.ctaf.accelerators.TestEngine:Type  8963256895 in phone
+2017-11-15 11:45:01-main--INFO -com.ctaf.accelerators.TestEngine:in ProvideEmail()
+2017-11-15 11:45:52-main--INFO -com.ctaf.accelerators.TestEngine:Type  pol@ew.com in email
+2017-11-15 11:45:52-main--INFO -com.ctaf.accelerators.TestEngine:in ClickContinuePersonaDetails()
+2017-11-15 11:45:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on PersonalDetailsPage_Continue
+2017-11-15 11:45:55-main--INFO -com.ctaf.accelerators.TestEngine:in ClickPayAtHotel()
+2017-11-15 11:45:56-main--INFO -com.ctaf.accelerators.TestEngine:in ClickConfirmAndPay()
+2017-11-15 11:46:03-main--INFO -com.ctaf.accelerators.TestEngine:Confirmation page heading 	PACK YOUR BAGS is displaying
+2017-11-15 11:46:03-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmationScreen()
+2017-11-15 11:46:03-main--INFO -com.ctaf.accelerators.TestEngine:Confirmation screen heading	YOUR HOTEL HAS BEEN BOOKED! is displaying
+2017-11-15 11:46:04-main--INFO -com.ctaf.accelerators.TestEngine:Email Confirmation message	We've emailed you your booking confirmation. is displaying
+2017-11-15 11:46:04-main--INFO -com.ctaf.accelerators.TestEngine:Confirmation page check in date	TUE, 21 NOV 2017 is displaying
+2017-11-15 11:46:04-main--INFO -com.ctaf.accelerators.TestEngine:Confirmation page check out date	WED, 22 NOV 2017 is displaying
+2017-11-15 11:46:05-main--INFO -com.ctaf.accelerators.TestEngine: Hotel details in confirmation page	Don Juico Avenue, Malabanias
+Pampanga, Angeles City 2009
+Philippines
++63 45 459 08 88
+frontdesk.angeles@redplanethotels.com is displaying
+2017-11-15 11:46:05-main--INFO -com.ctaf.accelerators.TestEngine: Hotel name in confirmation page	Red Planet	Angeles City is displaying
+2017-11-15 11:46:06-main--INFO -com.ctaf.accelerators.TestEngine: Adults in confirmation page	4 is displaying
+2017-11-15 11:46:06-main--INFO -com.ctaf.accelerators.TestEngine: Total Cost in confirmation page	PHP 7,260 is displaying
+2017-11-15 11:46:06-main--INFO -com.ctaf.accelerators.TestEngine:Facebook icon is displaying
+2017-11-15 11:46:06-main--INFO -com.ctaf.accelerators.TestEngine:Twitter Icon is displaying
+2017-11-15 11:46:06-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmationScreen()
+2017-11-15 12:10:44-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 12:10:58-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_Home_016
+2017-11-15 12:10:58-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCountry()
+2017-11-15 12:10:58-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 12:11:01-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckOutDate()
+2017-11-15 12:11:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCity()
+2017-11-15 12:11:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectRoom()
+2017-11-15 12:11:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Rooms
+2017-11-15 12:11:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of rooms
+2017-11-15 12:11:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAdults()
+2017-11-15 12:11:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Adults
+2017-11-15 12:11:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of adults
+2017-11-15 12:11:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectKids()
+2017-11-15 12:11:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Kids
+2017-11-15 12:11:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on No of kids
+2017-11-15 12:11:03-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSearch()
+2017-11-15 12:11:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Search Button
+2017-11-15 12:11:04-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 13:06:34-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 13:06:42-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 13:06:42-main--INFO -com.ctaf.accelerators.TestEngine:in verifyHomePage
+2017-11-15 13:11:27-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 13:11:34-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 13:11:34-main--INFO -com.ctaf.accelerators.TestEngine:in verifyHomePage
+2017-11-15 13:27:50-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 13:27:59-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 13:27:59-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 13:28:40-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 13:28:47-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 13:28:47-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 13:28:48-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 13:28:48-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 13:28:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 13:53:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 13:53:59-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 13:53:59-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 13:53:59-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 13:53:59-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 13:54:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 13:54:01-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 13:54:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 13:54:01-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 13:54:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 13:54:02-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 13:54:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 13:56:03-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 13:56:10-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 13:56:10-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 13:56:10-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 13:56:10-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 13:56:12-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 13:56:12-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 13:56:12-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 13:56:12-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 13:56:12-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 13:56:12-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 13:56:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 14:03:55-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 14:04:20-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 14:04:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 14:04:29-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 14:04:29-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 14:04:29-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 14:04:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 14:04:31-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 14:04:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 14:04:31-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 14:04:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 14:04:32-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 14:04:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 14:06:50-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 14:06:55-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 14:06:55-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 14:06:55-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 14:06:56-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 14:06:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 14:06:57-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 14:06:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 14:06:57-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 14:06:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 14:06:58-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 14:07:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 14:12:29-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 14:12:36-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 14:12:36-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 14:12:36-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 14:12:36-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 14:12:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 14:12:38-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 14:12:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 14:12:38-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 14:12:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 14:12:39-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 14:12:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 14:49:05-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 14:49:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 14:49:21-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 14:49:22-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 14:49:22-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 14:49:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 14:49:24-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 14:49:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 14:49:24-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 14:49:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 14:49:25-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 14:49:27-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 15:04:06-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 15:04:11-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 15:04:11-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 15:04:11-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 15:04:11-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 15:04:12-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 15:04:12-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 15:04:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 15:04:13-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 15:04:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 15:04:13-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 15:04:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 15:05:35-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 15:05:41-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 15:05:41-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 15:05:41-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 15:05:41-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 15:05:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 15:05:43-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 15:05:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 15:05:43-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 15:05:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 15:05:43-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 15:05:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 15:36:04-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 15:36:12-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 15:36:12-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 15:36:12-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 15:36:12-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 15:36:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 15:36:14-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 15:36:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 15:36:14-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 15:36:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 15:36:14-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 15:36:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 15:37:01-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 15:37:07-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 15:37:07-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 15:37:07-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 15:37:07-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 15:37:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 15:37:09-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 15:37:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 15:37:09-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 15:37:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 15:37:09-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 15:37:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 15:37:11-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 15:37:12-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 15:37:14-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-15 15:38:17-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 15:38:23-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 15:38:23-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 15:38:24-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 15:38:24-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 15:38:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 15:38:25-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 15:38:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 15:38:26-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 15:38:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 15:38:26-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 15:38:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 15:38:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 15:38:36-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCheckInDate()
+2017-11-15 15:39:28-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 15:39:35-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 15:39:35-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 15:39:35-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 15:39:35-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 15:39:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 15:39:37-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 15:39:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 15:39:37-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 15:39:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 15:39:37-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 15:39:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 15:39:46-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-15 15:41:29-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 15:41:47-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 15:41:47-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 15:41:55-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 15:42:08-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 15:42:08-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 15:42:08-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 15:42:08-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 15:42:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 15:42:13-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 15:42:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 15:42:13-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 15:42:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 15:42:14-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 15:42:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 15:42:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 16:18:31-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 16:18:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 16:18:40-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 16:18:41-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 16:18:41-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 16:18:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 16:18:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 16:18:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 16:18:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 16:18:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 16:18:43-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 16:18:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 16:18:45-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 16:18:46-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 16:18:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 16:21:49-main--INFO -com.ctaf.accelerators.TestEngine: Unable to get TscreenShot
+2017-11-15 16:23:30-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 16:23:36-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 16:23:36-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 16:23:36-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 16:23:36-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 16:23:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 16:23:38-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 16:23:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 16:23:38-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 16:23:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 16:23:39-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 16:23:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 16:23:41-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 16:23:42-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 16:23:44-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 16:23:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 16:23:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 16:23:44-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 16:23:45-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-15 16:25:12-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 16:25:24-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 16:25:24-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 16:25:25-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 16:25:25-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 16:25:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 16:25:30-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 16:25:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 16:25:30-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 16:25:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 16:25:31-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 16:25:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 16:25:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 16:25:35-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 16:25:36-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 16:25:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 16:25:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 16:25:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 16:25:38-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-15 16:26:24-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 16:26:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 16:26:37-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 16:26:37-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 16:26:37-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 16:26:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 16:26:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 16:26:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 16:26:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 16:26:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 16:26:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 16:26:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 16:26:54-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 16:27:01-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 16:27:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 16:27:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 16:27:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 16:27:19-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 16:27:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 16:27:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 16:27:55-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 16:27:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 16:28:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 16:28:19-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 16:28:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 16:29:51-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 16:29:56-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 16:29:56-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 16:30:37-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 16:30:42-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 16:30:42-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 16:30:42-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 16:30:42-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 16:30:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 16:30:45-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 16:30:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 16:30:45-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 16:30:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 16:30:45-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 16:30:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 16:30:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 16:30:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 16:30:51-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 16:30:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 16:30:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 16:30:52-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 16:30:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 16:30:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 16:30:54-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 16:30:56-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-15 16:32:26-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 16:32:32-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 16:32:32-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 16:32:32-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 16:32:32-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 16:32:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 16:32:34-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 16:32:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 16:32:34-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 16:32:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 16:32:35-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 16:32:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 16:32:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 16:32:39-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 16:32:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 16:32:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 16:32:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 16:32:41-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 16:32:42-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-15 16:33:45-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 16:33:51-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 16:33:51-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 16:33:51-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 16:33:51-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 16:33:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 16:33:53-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 16:33:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 16:33:53-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 16:33:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 16:33:53-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 16:33:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 16:33:55-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 16:33:57-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 16:33:58-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 16:33:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 16:33:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 16:33:59-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 16:34:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 16:34:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 16:34:02-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 16:34:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 16:34:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 16:34:05-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 16:34:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 18:21:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 18:21:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 18:21:21-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 18:21:21-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 18:21:21-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 18:21:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 18:21:24-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 18:21:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 18:21:24-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 18:21:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 18:21:24-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 18:21:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 18:21:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 18:21:28-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 18:21:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 18:21:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 18:21:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 18:21:31-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 18:21:49-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 18:21:58-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 18:21:58-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 18:21:58-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 18:21:59-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 18:22:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 18:22:00-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 18:22:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 18:22:00-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 18:22:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 18:22:00-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 18:22:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 18:22:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 18:22:04-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 18:22:06-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 18:22:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 18:22:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 18:22:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 18:22:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 18:22:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 18:22:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 18:22:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 18:22:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 18:22:13-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 18:22:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 18:22:15-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 18:23:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 18:23:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 18:23:18-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 18:23:19-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 18:23:19-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 18:23:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 18:23:20-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 18:23:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 18:23:20-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 18:23:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 18:23:21-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 18:23:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 18:23:23-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 18:23:25-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 18:23:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 18:23:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 18:23:27-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 18:23:27-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 18:23:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 18:23:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 18:23:30-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 18:23:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 18:23:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 18:23:33-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 18:23:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 18:23:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 18:23:53-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 18:23:55-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 18:23:59-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 18:24:01-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 18:24:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 18:24:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 18:24:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 18:24:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Affected Station
+2017-11-15 18:25:37-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 18:25:42-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 18:25:42-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 18:25:42-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 18:25:42-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 18:25:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 18:25:44-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 18:25:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 18:25:44-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 18:25:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 18:25:44-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 18:25:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 18:25:46-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 18:25:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 18:25:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 18:25:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 18:25:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 18:25:51-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 18:25:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 18:25:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 18:25:53-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 18:25:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 18:25:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 18:25:56-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 18:25:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 18:25:58-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 18:26:00-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 18:26:00-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 18:26:00-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 18:26:00-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 18:26:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 18:26:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 18:26:02-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 18:32:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 18:32:19-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 18:32:19-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 18:32:19-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 18:32:20-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 18:32:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 18:32:21-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 18:32:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 18:32:21-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 18:32:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 18:32:22-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 18:32:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 18:32:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 18:32:25-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 18:32:27-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 18:32:27-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 18:32:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 18:32:28-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 18:32:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 18:32:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 18:32:30-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 18:32:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 18:32:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 18:32:33-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 18:32:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 18:32:36-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 18:32:38-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 18:32:38-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 18:32:38-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 18:32:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 18:32:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 18:32:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 18:32:47-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 18:33:44-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 18:33:49-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 18:33:49-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 18:33:50-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 18:33:50-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 18:33:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 18:33:51-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 18:33:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 18:33:51-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 18:33:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 18:33:52-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 18:33:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 18:33:55-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 18:33:56-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 18:33:58-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 18:33:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 18:33:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 18:33:59-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 18:34:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 18:34:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 18:34:01-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 18:34:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 18:34:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 18:34:04-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 18:34:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 18:34:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 18:34:09-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 18:34:09-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 18:34:09-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 18:34:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 18:34:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 18:34:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 18:34:15-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 18:36:24-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-15 18:37:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 18:37:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 18:37:21-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 18:37:21-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 18:37:21-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 18:37:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 18:37:23-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 18:37:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 18:37:23-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 18:37:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 18:37:23-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 18:37:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 18:37:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 18:37:27-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 18:37:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 18:37:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 18:37:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 18:37:30-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 18:37:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 18:37:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 18:37:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 18:37:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 18:37:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 18:37:35-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 18:37:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 18:37:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 18:37:40-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 18:37:40-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 18:37:40-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 18:37:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 18:37:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 18:37:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 18:38:12-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 18:38:17-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 18:38:17-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 18:38:17-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 18:38:17-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 18:38:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 18:38:18-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 18:38:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 18:38:18-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 18:38:19-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 18:38:19-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 18:38:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 18:38:21-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 18:38:23-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 18:38:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 18:38:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 18:38:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 18:38:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 18:38:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 18:38:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 18:38:28-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 18:38:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 18:38:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 18:38:31-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 18:38:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 18:38:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 18:38:35-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 18:38:35-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 18:38:35-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 18:38:35-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 18:38:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 18:38:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 18:38:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 18:39:29-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 18:39:34-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 18:39:34-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 18:39:34-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 18:39:34-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 18:39:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 18:39:35-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 18:39:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 18:39:35-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 18:39:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 18:39:36-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 18:39:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 18:39:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 18:39:39-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 18:39:41-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 18:39:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 18:39:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 18:39:42-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 18:39:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 18:39:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 18:39:44-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 18:39:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 18:39:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 18:39:48-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 18:39:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 18:39:50-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 18:39:52-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 18:39:52-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 18:39:52-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 18:39:52-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 18:39:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 18:39:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 18:39:57-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 18:41:13-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 18:41:19-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 18:41:19-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 18:41:19-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 18:41:20-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 18:41:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 18:41:21-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 18:41:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 18:41:21-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 18:41:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 18:41:22-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 18:41:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 18:41:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 18:41:25-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 18:41:27-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 18:41:27-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 18:41:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 18:41:28-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 18:41:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 18:41:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 18:41:30-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 18:41:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 18:41:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 18:41:34-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 18:41:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 18:41:36-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 18:41:38-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 18:41:38-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 18:41:38-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 18:41:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 18:41:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 18:41:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 18:41:39-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 18:41:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 18:41:40-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSendButton()
+2017-11-15 18:41:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Send Button
+2017-11-15 18:41:41-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmation()
+2017-11-15 18:48:33-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 18:48:39-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 18:48:39-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 18:48:39-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 18:48:40-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 18:48:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 18:48:41-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 18:48:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 18:48:41-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 18:48:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 18:48:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 18:48:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 18:48:44-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 18:48:45-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 18:48:47-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 18:48:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 18:48:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 18:48:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 18:48:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 18:48:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 18:48:50-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 18:48:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 18:48:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 18:48:53-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 18:48:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 18:48:56-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 18:48:58-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 18:48:58-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 18:48:58-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 18:48:58-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 18:48:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 18:48:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 18:48:59-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 18:49:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 18:49:51-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSendButton()
+2017-11-15 18:49:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Send Button
+2017-11-15 18:50:01-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmation()
+2017-11-15 18:51:36-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 18:51:41-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 18:51:41-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 18:51:41-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 18:51:41-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 18:51:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 18:51:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 18:51:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 18:51:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 18:51:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 18:51:42-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 18:51:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 18:51:45-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 18:51:46-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 18:51:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 18:51:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 18:51:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 18:51:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 18:51:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 18:51:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 18:51:51-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 18:51:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 18:51:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 18:51:55-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 18:51:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 18:51:57-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 18:51:59-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 18:51:59-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 18:51:59-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 18:51:59-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 18:51:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 18:52:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 18:52:00-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 18:52:01-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 18:52:01-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSendButton()
+2017-11-15 18:52:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Send Button
+2017-11-15 18:52:02-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmation()
+2017-11-15 18:53:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 18:53:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 18:53:29-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 18:53:30-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 18:53:31-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 18:53:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 18:53:32-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 18:53:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 18:53:33-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 18:53:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 18:53:33-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 18:53:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 18:53:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 18:53:38-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 18:53:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 18:53:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 18:53:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 18:53:41-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 18:53:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 18:53:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 18:53:47-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 18:53:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 18:53:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 18:53:50-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 18:53:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 18:53:52-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 18:53:54-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 18:53:55-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 18:53:55-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 18:53:55-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 18:53:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 18:53:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 18:53:57-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 18:54:05-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-15 18:54:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 18:54:14-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSendButton()
+2017-11-15 18:54:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Send Button
+2017-11-15 18:54:17-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmation()
+2017-11-15 18:56:19-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-15 18:57:54-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 18:58:05-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 18:58:05-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 18:58:06-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 18:58:06-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 18:58:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 18:58:08-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 18:58:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 18:58:08-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 18:58:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 18:58:08-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 18:58:12-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 18:58:12-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 18:58:13-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 18:58:15-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 18:58:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 18:58:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 18:58:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 18:58:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 18:58:19-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 18:58:19-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 18:58:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 18:58:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 18:58:22-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 18:58:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 18:58:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 18:58:27-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-11-15 18:58:42-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 18:58:50-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 18:58:50-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 18:58:50-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 18:58:50-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 18:58:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 18:58:51-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 18:58:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 18:58:51-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 18:58:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 18:58:52-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 18:58:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 18:58:54-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 18:58:56-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 18:58:57-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 18:58:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 18:58:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 18:58:58-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 18:59:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 18:59:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 18:59:01-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 18:59:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 18:59:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 18:59:04-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 18:59:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 18:59:06-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 18:59:08-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 18:59:08-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 18:59:08-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 18:59:08-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 18:59:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 18:59:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 18:59:10-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 18:59:21-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 19:00:01-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSendButton()
+2017-11-15 19:00:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Send Button
+2017-11-15 19:00:16-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmation()
+2017-11-15 19:01:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 19:01:43-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 19:01:43-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 19:01:44-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 19:01:44-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 19:01:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 19:01:45-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 19:01:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 19:01:45-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 19:01:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 19:01:45-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 19:01:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 19:01:48-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 19:01:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 19:01:51-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 19:01:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 19:01:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 19:01:52-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 19:01:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 19:01:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 19:01:54-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 19:01:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 19:01:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 19:01:58-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 19:02:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 19:02:00-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 19:02:02-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 19:02:02-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 19:02:02-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 19:02:02-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 19:02:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 19:02:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 19:02:03-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 19:02:10-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 19:02:19-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSendButton()
+2017-11-15 19:02:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Send Button
+2017-11-15 19:02:30-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmation()
+2017-11-15 19:03:59-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 19:04:04-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 19:04:04-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 19:04:04-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 19:04:05-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 19:04:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 19:04:06-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 19:04:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 19:04:06-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 19:04:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 19:04:06-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 19:04:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 19:04:08-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 19:04:10-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 19:04:11-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 19:04:12-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 19:04:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 19:04:13-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 19:04:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 19:04:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 19:04:15-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 19:04:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 19:04:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 19:04:18-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 19:04:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 19:04:20-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 19:04:22-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 19:04:22-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 19:04:22-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 19:04:23-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 19:04:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 19:04:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 19:04:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 19:04:25-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 19:04:25-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSendButton()
+2017-11-15 19:04:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Send Button
+2017-11-15 19:04:25-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmation()
+2017-11-15 19:14:31-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 19:14:36-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_002
+2017-11-15 19:14:36-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 19:14:36-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 19:14:36-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 19:14:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 19:14:36-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 19:15:18-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 19:15:22-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_002
+2017-11-15 19:15:22-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 19:15:23-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 19:15:23-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 19:15:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 19:15:23-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 20:00:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 20:00:57-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_002
+2017-11-15 20:00:57-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 20:00:58-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testucg in username
+2017-11-15 20:00:59-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 20:01:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 20:01:00-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 20:13:55-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 20:14:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_002
+2017-11-15 20:14:00-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 20:14:00-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-15 20:14:00-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 20:14:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 20:14:01-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 20:14:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 20:14:02-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 20:14:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 20:14:02-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 20:14:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 20:14:04-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 20:14:06-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 20:14:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 20:14:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 20:14:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 20:14:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 20:14:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 20:14:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 20:14:11-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 20:14:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 20:14:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 20:14:14-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 20:14:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 20:14:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 20:14:19-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 20:14:19-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 20:14:19-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 20:14:19-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 20:14:19-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 20:14:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 20:14:20-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 20:14:21-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 20:14:29-main--INFO -com.ctaf.accelerators.TestEngine:in VerifySMSTable()
+2017-11-15 20:14:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sms icon
+2017-11-15 20:16:10-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 20:16:15-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_002
+2017-11-15 20:16:15-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 20:16:15-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-15 20:16:15-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 20:16:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 20:16:16-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 20:16:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 20:16:16-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 20:16:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 20:16:17-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 20:16:19-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 20:16:19-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 20:16:21-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 20:16:22-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 20:16:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 20:16:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 20:16:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 20:16:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 20:16:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 20:16:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 20:16:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 20:16:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 20:16:29-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 20:16:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 20:16:31-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 20:16:33-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 20:16:33-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 20:16:33-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 20:16:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 20:16:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 20:16:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 20:16:35-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 20:16:36-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 20:16:42-main--INFO -com.ctaf.accelerators.TestEngine:in VerifySMSTable()
+2017-11-15 20:16:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sms icon
+2017-11-15 20:23:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 20:24:03-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_002
+2017-11-15 20:24:03-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 20:24:03-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-15 20:24:04-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 20:24:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 20:24:05-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 20:24:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 20:24:05-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 20:24:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 20:24:05-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 20:24:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 20:24:07-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 20:24:09-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 20:24:10-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 20:24:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 20:24:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 20:24:11-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 20:24:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 20:24:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 20:24:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 20:24:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 20:24:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 20:24:17-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 20:24:19-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 20:24:19-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 20:24:21-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 20:24:21-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 20:24:21-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 20:24:21-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 20:24:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 20:24:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 20:24:23-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 20:24:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 20:24:31-main--INFO -com.ctaf.accelerators.TestEngine:in VerifySMSTable()
+2017-11-15 20:24:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sms icon
+2017-11-15 20:25:54-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 20:26:01-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_002
+2017-11-15 20:26:01-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 20:26:04-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-15 20:26:04-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 20:26:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 20:26:07-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 20:26:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 20:26:07-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 20:26:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 20:26:07-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 20:26:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 20:26:10-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 20:26:11-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 20:26:13-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 20:26:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 20:26:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 20:26:14-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 20:26:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 20:26:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 20:26:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 20:26:19-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 20:26:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 20:26:20-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 20:26:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 20:26:22-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 20:26:24-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 20:26:24-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 20:26:24-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 20:26:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 20:26:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 20:26:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 20:26:25-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 20:26:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 20:26:26-main--INFO -com.ctaf.accelerators.TestEngine:in VerifySMSTable()
+2017-11-15 20:26:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sms icon
+2017-11-15 20:29:04-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 20:29:13-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_002
+2017-11-15 20:29:13-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 20:29:13-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-15 20:29:14-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 20:29:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 20:29:15-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 20:29:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 20:29:15-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 20:29:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 20:29:15-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 20:29:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 20:29:17-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 20:29:18-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 20:29:20-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 20:29:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 20:29:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 20:29:21-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 20:29:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 20:29:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 20:29:23-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 20:29:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 20:29:27-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 20:29:27-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 20:29:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 20:29:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 20:29:31-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 20:29:31-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 20:29:31-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 20:29:31-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 20:29:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 20:29:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 20:29:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 20:29:33-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 20:29:34-main--INFO -com.ctaf.accelerators.TestEngine:in VerifySMSTable()
+2017-11-15 20:29:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sms icon
+2017-11-15 20:36:28-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 20:36:33-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_003
+2017-11-15 20:36:33-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 20:36:33-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-15 20:36:33-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 20:36:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 20:36:34-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 20:36:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 20:36:34-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 20:36:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 20:36:35-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 20:36:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 20:36:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 20:36:39-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 20:36:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 20:36:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 20:36:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 20:36:42-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 20:36:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 20:36:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 20:36:44-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 20:36:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 20:36:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 20:36:47-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 20:36:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 20:36:49-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 20:36:51-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 20:36:51-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 20:36:51-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 20:36:52-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 20:36:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 20:36:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 20:36:53-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 20:36:54-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 20:36:54-main--INFO -com.ctaf.accelerators.TestEngine:in VerifySMSTable()
+2017-11-15 20:36:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on IVR icon
+2017-11-15 20:47:06-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 20:47:11-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 20:47:11-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 20:47:11-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-15 20:47:11-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 20:47:12-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 20:47:12-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 20:47:12-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 20:47:12-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 20:47:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 20:47:13-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 20:47:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 20:47:16-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 20:47:17-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 20:47:19-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 20:47:19-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 20:47:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 20:47:20-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 20:47:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 20:47:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 20:47:22-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 20:47:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 20:47:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 20:47:25-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 20:47:27-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 20:47:27-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 20:47:30-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 20:47:30-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 20:47:30-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 20:47:30-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 20:47:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 20:47:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 20:47:31-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 20:47:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 20:47:32-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSendButton()
+2017-11-15 20:47:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Send Button
+2017-11-15 20:47:32-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmation()
+2017-11-15 20:49:10-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 20:49:15-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_001
+2017-11-15 20:49:15-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 20:49:15-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-15 20:49:15-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 20:49:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 20:49:17-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 20:49:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 20:49:17-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 20:49:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 20:49:17-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 20:49:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 20:49:20-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 20:49:21-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 20:49:23-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 20:49:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 20:49:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 20:49:24-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 20:49:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 20:49:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 20:49:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 20:49:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 20:49:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 20:49:30-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 20:49:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 20:49:32-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 20:49:34-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 20:49:34-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 20:49:34-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 20:49:34-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 20:49:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 20:49:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 20:49:35-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 20:49:36-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 20:49:36-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSendButton()
+2017-11-15 20:49:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Send Button
+2017-11-15 20:49:37-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmation()
+2017-11-15 20:52:15-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-11-15 20:52:20-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_004
+2017-11-15 20:52:20-main--INFO -com.ctaf.accelerators.TestEngine:in Indigo_Login()
+2017-11-15 20:52:21-main--INFO -com.ctaf.accelerators.TestEngine:Type  seema.rani in username
+2017-11-15 20:52:21-main--INFO -com.ctaf.accelerators.TestEngine:Type  Test@123 in password
+2017-11-15 20:52:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Log In
+2017-11-15 20:52:22-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMenuOptions()
+2017-11-15 20:52:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Menu Options
+2017-11-15 20:52:22-main--INFO -com.ctaf.accelerators.TestEngine:in ClickMainMenu()
+2017-11-15 20:52:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Main Menu 	OCC
+2017-11-15 20:52:23-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSubMenu()
+2017-11-15 20:52:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Sub Menu 	Manual Flight Cancellation
+2017-11-15 20:52:25-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFromDate()
+2017-11-15 20:52:26-main--INFO -com.ctaf.accelerators.TestEngine:in SelectToDate()
+2017-11-15 20:52:28-main--INFO -com.ctaf.accelerators.TestEngine:in SelectOrigin()
+2017-11-15 20:52:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin
+2017-11-15 20:52:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Origin Place 	COK
+2017-11-15 20:52:29-main--INFO -com.ctaf.accelerators.TestEngine:in SelectDestination()
+2017-11-15 20:52:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination
+2017-11-15 20:52:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Destination Place 	DEL
+2017-11-15 20:52:31-main--INFO -com.ctaf.accelerators.TestEngine:in SelectFlightNo()
+2017-11-15 20:52:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no
+2017-11-15 20:52:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Flight no 	Select All
+2017-11-15 20:52:34-main--INFO -com.ctaf.accelerators.TestEngine:in ClickGenerate()
+2017-11-15 20:52:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Generate Button
+2017-11-15 20:52:37-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAllFlightsCheckbox()
+2017-11-15 20:52:39-main--INFO -com.ctaf.accelerators.TestEngine:in getFlightInfo()
+2017-11-15 20:52:39-main--INFO -com.ctaf.accelerators.TestEngine:in GetTailNo()
+2017-11-15 20:52:39-main--INFO -com.ctaf.accelerators.TestEngine:in getETD()
+2017-11-15 20:52:39-main--INFO -com.ctaf.accelerators.TestEngine:in SelectReason()
+2017-11-15 20:52:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Delay Reason
+2017-11-15 20:52:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Select Reason
+2017-11-15 20:52:40-main--INFO -com.ctaf.accelerators.TestEngine:in SelectAffectedStation()
+2017-11-15 20:52:41-main--INFO -com.ctaf.accelerators.TestEngine:in SelectCommunicationOption()
+2017-11-15 20:52:41-main--INFO -com.ctaf.accelerators.TestEngine:in ClickSendButton()
+2017-11-15 20:52:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully clicked on Send Button
+2017-11-15 20:52:41-main--INFO -com.ctaf.accelerators.TestEngine:in VerifyConfirmation()

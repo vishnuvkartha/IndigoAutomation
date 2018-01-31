@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > 
+<suite name="Indigo Commercial" allow-return-values="true" verbose="2">
+	<test name="Grouping" preserve-order="true">
+		<packages>			
+			<package name="com.Indigo.Commercial"/>
+		</packages>
+	</test>
+</suite>

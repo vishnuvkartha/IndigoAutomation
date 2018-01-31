@@ -1,0 +1,52 @@
+2017-10-27 18:00:39-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 18:01:04-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC188_Verify_Edit_Community_User_Account_Site_Admin
+2017-10-27 18:01:04-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-10-27 18:03:05-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+
+2017-10-27 18:02:08-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 18:02:35-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 18:03:35-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 18:03:57-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC193_Verify_Dashboard_Create_Community_User_SiteAdmin
+2017-10-27 18:03:57-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-10-27 18:05:02-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 18:05:33-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC173_Detail_Project_Dashboard_Project_SiteAdmin
+2017-10-27 18:05:33-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-10-27 18:06:08-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-10-27 18:07:34-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-10-27 18:52:43-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 18:52:54-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_001
+2017-10-27 18:54:28-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 18:55:36-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 18:55:51-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_001
+2017-10-27 19:01:38-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 19:01:52-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_001
+2017-10-27 19:01:52-main--INFO -com.ctaf.accelerators.TestEngine:in verifyHomePage
+2017-10-27 19:02:53-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-10-27 19:03:36-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 19:03:46-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_001
+2017-10-27 19:03:46-main--INFO -com.ctaf.accelerators.TestEngine:in verifyHomePage
+2017-10-27 19:03:47-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-10-27 19:05:39-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 19:05:53-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_001
+2017-10-27 19:05:53-main--INFO -com.ctaf.accelerators.TestEngine:in verifyHomePage
+2017-10-27 19:07:01-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 19:07:17-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_001
+2017-10-27 19:07:17-main--INFO -com.ctaf.accelerators.TestEngine:in verifyHomePage
+2017-10-27 19:07:17-main--INFO -com.ctaf.accelerators.TestEngine:Search section In HomePage is displaying
+2017-10-27 19:07:17-main--INFO -com.ctaf.accelerators.TestEngine:Benifit Section in Home Page is displaying
+2017-10-27 19:07:17-main--INFO -com.ctaf.accelerators.TestEngine:Why to stay with us section in Home Page is displaying
+2017-10-27 19:11:04-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 19:11:29-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_001
+2017-10-27 19:11:29-main--INFO -com.ctaf.accelerators.TestEngine:in verifyHomePage
+2017-10-27 19:11:35-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-10-27 19:15:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 19:15:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 19:17:25-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_001
+2017-10-27 19:17:26-main--INFO -com.ctaf.accelerators.TestEngine:in verifyHomePage
+2017-10-27 19:17:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-10-27 19:18:17-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC_Web_001
+2017-10-27 19:18:17-main--INFO -com.ctaf.accelerators.TestEngine:in verifyHomePage
+2017-10-27 19:18:18-main--INFO -com.ctaf.accelerators.TestEngine:RedPlanet Icon is displaying
+2017-10-27 19:18:18-main--INFO -com.ctaf.accelerators.TestEngine:Search section In HomePage is displaying
+2017-10-27 19:18:18-main--INFO -com.ctaf.accelerators.TestEngine:Benifit Section in Home Page is displaying
+2017-10-27 19:18:18-main--INFO -com.ctaf.accelerators.TestEngine:Why to stay with us section in Home Page is displaying

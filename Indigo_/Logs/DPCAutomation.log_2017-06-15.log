@@ -1,0 +1,70 @@
+2017-06-15 15:22:30-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-06-15 15:29:27-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-06-15 15:30:47-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 15:32:18-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-06-15 15:48:24-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-06-15 15:52:24-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : ie
+2017-06-15 15:56:18-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : ie
+2017-06-15 15:58:55-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-06-15 16:08:37-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-06-15 16:10:07-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 16:11:54-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : ie
+2017-06-15 16:23:12-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-06-15 16:24:00-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 16:54:45-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-06-15 17:00:35-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 17:07:55-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 17:08:46-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 17:09:43-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 17:13:48-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 17:15:18-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 17:27:07-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 17:29:47-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : ie
+2017-06-15 17:34:10-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : ie
+2017-06-15 17:34:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 17:35:23-Forwarding newSession on session null to remote--INFO -org.apache.http.impl.execchain.RetryExec:I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:7055: Connection reset by peer: socket write error
+2017-06-15 17:35:23-Forwarding newSession on session null to remote--INFO -org.apache.http.impl.execchain.RetryExec:Retrying request to {}->http://127.0.0.1:7055
+2017-06-15 17:56:31-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 17:58:40-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 17:59:20-Forwarding newSession on session null to remote--INFO -org.apache.http.impl.execchain.RetryExec:I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:7056: Connection reset by peer: socket write error
+2017-06-15 17:59:20-Forwarding newSession on session null to remote--INFO -org.apache.http.impl.execchain.RetryExec:Retrying request to {}->http://127.0.0.1:7056
+2017-06-15 18:00:35-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 18:01:22-Forwarding newSession on session null to remote--INFO -org.apache.http.impl.execchain.RetryExec:I/O exception (java.net.SocketException) caught when processing request to {}->http://127.0.0.1:7055: Connection reset by peer: socket write error
+2017-06-15 18:01:22-Forwarding newSession on session null to remote--INFO -org.apache.http.impl.execchain.RetryExec:Retrying request to {}->http://127.0.0.1:7055
+2017-06-15 18:02:59-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 18:11:05-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 18:20:03-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 18:27:03-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 18:27:50-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : Firefox
+2017-06-15 18:28:24-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC02_CommonChecks_HomePage_HambergerMenu_Login_Signout_CommunityUser
+2017-06-15 18:28:24-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-06-15 18:28:27-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-06-15 18:28:28-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosu2017@gmail.com in Email address
+2017-06-15 18:28:29-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-06-15 18:28:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-06-15 18:28:39-main--INFO -com.ctaf.accelerators.TestEngine:in verifyWebElementHomePage
+2017-06-15 18:28:39-main--INFO -com.ctaf.accelerators.TestEngine:Hamburger Menu is displaying
+2017-06-15 18:28:39-main--INFO -com.ctaf.accelerators.TestEngine:Engage Victoria Logo is displaying
+2017-06-15 18:28:39-main--INFO -com.ctaf.accelerators.TestEngine:Search Site is displaying
+2017-06-15 18:28:40-main--INFO -com.ctaf.accelerators.TestEngine:Text - Engage Victoria' on hero block  is displaying
+2017-06-15 18:28:40-main--INFO -com.ctaf.accelerators.TestEngine:Text - Share ideas here and have your say about what matters to you is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Text - I'm looking for consultations relating to is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Drop Down for Category is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Help me find a consultation is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:WebSite feature section is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Active Consultation section is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Stay informed section is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Sign up email is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Sign up Today is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Footer section with Links is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Footer section with copyright message is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Copyright is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Privacy is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Terms of Use is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Accessibility is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Moderation is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Community Guidelines is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - About Us is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Contact Us is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Site Map is displaying
+2017-06-15 18:30:40-main--INFO -com.ctaf.accelerators.TestEngine:in verifyHamburger

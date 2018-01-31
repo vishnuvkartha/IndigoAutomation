@@ -1,0 +1,707 @@
+2017-04-05 10:36:37-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-05 10:37:23-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC83_Design_Site_Sub_Page_Template
+2017-04-05 10:37:23-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 10:37:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 10:37:24-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 10:37:24-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 10:37:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 10:37:39-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToSiteSubPage
+2017-04-05 10:39:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page
+2017-04-05 10:39:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on More
+2017-04-05 10:40:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Site Sub Page
+2017-04-05 10:41:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page Name
+2017-04-05 10:41:13-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing Design in Project Name
+2017-04-05 10:42:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Design
+2017-04-05 10:43:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Expand
+2017-04-05 10:43:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Full
+2017-04-05 10:43:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on SaveChanges
+2017-04-05 10:44:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Save Page
+2017-04-05 10:44:33-main--INFO -com.ctaf.accelerators.TestEngine:in workflow
+2017-04-05 10:44:34-main--INFO -com.ctaf.accelerators.TestEngine:in sumbitWorkflow
+2017-04-05 10:44:39-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing Template in Version Comment
+2017-04-05 10:51:41-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-05 10:52:20-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC90_Design_Page_News_Page_Template
+2017-04-05 10:52:20-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 10:52:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 10:52:21-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 10:52:21-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 10:52:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 10:52:36-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToNewsPage
+2017-04-05 10:53:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page
+2017-04-05 10:53:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on More
+2017-04-05 10:54:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on News Page
+2017-04-05 10:54:10-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing Design in Project Name
+2017-04-05 10:57:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Design
+2017-04-05 10:57:48-main--INFO -com.ctaf.accelerators.TestEngine:News Full is displaying
+2017-04-05 10:57:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on SaveChanges
+2017-04-05 10:58:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Save Page
+2017-04-05 10:58:37-main--INFO -com.ctaf.accelerators.TestEngine:in workflow
+2017-04-05 10:58:38-main--INFO -com.ctaf.accelerators.TestEngine:in sumbitWorkflow
+2017-04-05 10:58:43-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing Template in Version Comment
+2017-04-05 11:17:02-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-05 11:17:51-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC94_Verify_Page_Sitemap_Links
+2017-04-05 11:17:51-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 11:17:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 11:17:51-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 11:17:51-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 11:17:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 11:18:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Authroing/Page
+2017-04-05 11:19:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Expand Sitemap
+2017-04-05 11:20:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page/Sitemap/Home
+2017-04-05 11:20:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Authroing/Page
+2017-04-05 11:21:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page/Sitemap/Privacy
+2017-04-05 11:22:00-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[@class='mod-lg' and contains(text(),'Privacy Policy')] is present
+2017-04-05 11:22:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Authroing/Page
+2017-04-05 12:17:17-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-05 12:18:04-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC105_Verify_Dashboard_Moderation_Refer_Approve
+2017-04-05 12:18:04-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 12:18:04-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 12:18:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 12:18:04-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 12:18:05-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 12:18:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 12:18:15-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 12:20:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 12:20:55-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 12:21:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-05 12:21:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Moderation
+2017-04-05 12:21:59-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='awaiting']/div[1]/div[3]/p .Expected text Automation TestinghiWoPK is present
+2017-04-05 12:21:59-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:21:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Refer
+2017-04-05 12:21:59-main--INFO -com.ctaf.accelerators.TestEngine:Select Inappropriate from Reason for refer
+2017-04-05 12:22:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Sumbit
+2017-04-05 12:22:08-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='review']/div[1]/div/span/b .Expected text REFERRED is present
+2017-04-05 12:22:08-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='review']/div[1]/div[3]/p .Expected text Automation TestinghiWoPK is present
+2017-04-05 12:22:08-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:22:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Approve
+2017-04-05 12:22:16-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div/span/b .Expected text APPROVED is present
+2017-04-05 12:22:16-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div[3]/p .Expected text Automation TestinghiWoPK is present
+2017-04-05 12:22:54-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC100_Verify_Dashboard_Moderation_Recently_ApprovetoReject
+2017-04-05 12:22:54-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 12:22:54-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 12:22:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 12:22:54-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 12:22:54-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 12:22:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 12:23:04-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 12:24:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 12:24:22-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 12:24:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-05 12:25:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Moderation
+2017-04-05 12:25:29-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='awaiting']/div[1]/div[3]/p .Expected text Automation TestingZawATC is present
+2017-04-05 12:25:29-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:25:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Approve Comment
+2017-04-05 12:25:38-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div/span/b .Expected text APPROVED is present
+2017-04-05 12:25:38-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div[3]/p .Expected text Automation TestingZawATC is present
+2017-04-05 12:25:38-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:25:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Reject
+2017-04-05 12:25:38-main--INFO -com.ctaf.accelerators.TestEngine:Select Inappropriate from Reason for rejection
+2017-04-05 12:25:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Sumbit
+2017-04-05 12:25:48-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div/span/b .Expected text REJECTED is present
+2017-04-05 12:25:48-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div[3]/p .Expected text Automation TestingZawATC is present
+2017-04-05 12:26:25-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC103_Verify_Dashboard_Moderation_Recently_RejecttoReject
+2017-04-05 12:26:25-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 12:26:25-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 12:26:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 12:26:25-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 12:26:25-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 12:26:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 12:26:35-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 12:27:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 12:27:43-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 12:27:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-05 12:28:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Moderation
+2017-04-05 12:28:48-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='awaiting']/div[1]/div[3]/p .Expected text Automation TestingxANtzC is present
+2017-04-05 12:28:48-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:28:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Reject
+2017-04-05 12:28:48-main--INFO -com.ctaf.accelerators.TestEngine:Select Inappropriate from Reason for rejection
+2017-04-05 12:28:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Sumbit
+2017-04-05 12:28:58-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div/span/b .Expected text REJECTED is present
+2017-04-05 12:28:58-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div[3]/p .Expected text Automation TestingxANtzC is present
+2017-04-05 12:28:58-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:28:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Reject
+2017-04-05 12:28:58-main--INFO -com.ctaf.accelerators.TestEngine:Select Inappropriate from Reason for rejection
+2017-04-05 12:28:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Sumbit
+2017-04-05 12:29:07-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div/span/b .Expected text REJECTED is present
+2017-04-05 12:29:07-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div[3]/p .Expected text Automation TestingxANtzC is present
+2017-04-05 12:29:47-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC96_Verify_Dashboard_Moderation_Awaiting_Approve
+2017-04-05 12:29:47-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 12:29:47-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 12:29:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 12:29:48-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 12:29:48-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 12:29:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 12:29:58-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 12:31:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 12:31:05-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 12:31:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-05 12:32:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Moderation
+2017-04-05 12:32:10-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='awaiting']/div[1]/div[3]/p .Expected text Automation TestingdJUaAs is present
+2017-04-05 12:32:10-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:32:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Approve Comment
+2017-04-05 12:32:19-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div/span/b .Expected text APPROVED is present
+2017-04-05 12:32:19-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div[3]/p .Expected text Automation TestingdJUaAs is present
+2017-04-05 12:33:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC97_Verify_Dashboard_Moderation_Awaiting_Reject
+2017-04-05 12:33:00-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 12:33:00-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 12:33:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 12:33:01-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 12:33:01-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 12:33:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 12:33:11-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 12:34:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 12:34:15-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 12:34:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-05 12:35:12-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Moderation
+2017-04-05 12:35:20-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='awaiting']/div[1]/div[3]/p .Expected text Automation TestingpaISvG is present
+2017-04-05 12:35:20-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:35:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Reject
+2017-04-05 12:35:20-main--INFO -com.ctaf.accelerators.TestEngine:Select Inappropriate from Reason for rejection
+2017-04-05 12:35:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Sumbit
+2017-04-05 12:35:30-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div/span/b .Expected text REJECTED is present
+2017-04-05 12:35:30-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div[3]/p .Expected text Automation TestingpaISvG is present
+2017-04-05 12:36:12-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC101_Verify_Dashboard_Moderation_Recently_ApprovetoApprove
+2017-04-05 12:36:12-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 12:36:12-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 12:36:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 12:36:13-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 12:36:13-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 12:36:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 12:36:23-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 12:37:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 12:37:23-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 12:37:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-05 12:38:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Moderation
+2017-04-05 12:38:30-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='awaiting']/div[1]/div[3]/p .Expected text Automation TestingqkQmSu is present
+2017-04-05 12:38:30-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:38:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Approve Comment
+2017-04-05 12:38:38-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div/span/b .Expected text APPROVED is present
+2017-04-05 12:38:38-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div[3]/p .Expected text Automation TestingqkQmSu is present
+2017-04-05 12:38:39-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:38:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Approve Comment
+2017-04-05 12:38:47-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div/span/b .Expected text APPROVED is present
+2017-04-05 12:38:47-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div[3]/p .Expected text Automation TestingqkQmSu is present
+2017-04-05 12:39:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC99_Verify_Dashboard_Moderation_Recently_ApprovetoRefer
+2017-04-05 12:39:40-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 12:39:40-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 12:39:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 12:39:40-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 12:39:40-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 12:39:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 12:39:51-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 12:40:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 12:40:51-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 12:41:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-05 12:41:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Moderation
+2017-04-05 12:41:55-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='awaiting']/div[1]/div[3]/p .Expected text Automation TestingmcKdUH is present
+2017-04-05 12:41:55-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:41:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Approve Comment
+2017-04-05 12:42:03-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div/span/b .Expected text APPROVED is present
+2017-04-05 12:42:03-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div[3]/p .Expected text Automation TestingmcKdUH is present
+2017-04-05 12:42:03-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:42:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Refer
+2017-04-05 12:42:03-main--INFO -com.ctaf.accelerators.TestEngine:Select Inappropriate from Reason for refer
+2017-04-05 12:42:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Sumbit
+2017-04-05 12:42:13-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='review']/div[1]/div/span/b .Expected text REFERRED is present
+2017-04-05 12:42:13-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='review']/div[1]/div[3]/p .Expected text Automation TestingmcKdUH is present
+2017-04-05 12:43:02-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC106_Verify_Dashboard_Moderation_Refer_Reject
+2017-04-05 12:43:02-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 12:43:02-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 12:43:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 12:43:02-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 12:43:02-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 12:43:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 12:43:12-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 12:44:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 12:49:19-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC98_Verify_Dashboard_Moderation_Awaiting_Refer
+2017-04-05 12:49:19-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 12:49:19-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 12:49:19-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 12:49:19-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 12:49:19-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 12:49:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 12:49:30-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 12:50:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 12:50:28-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 12:50:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-05 12:51:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Moderation
+2017-04-05 12:51:33-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='awaiting']/div[1]/div[3]/p .Expected text Automation TestinggTSOdM is present
+2017-04-05 12:51:33-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:51:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Refer
+2017-04-05 12:51:33-main--INFO -com.ctaf.accelerators.TestEngine:Select Inappropriate from Reason for refer
+2017-04-05 12:51:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Sumbit
+2017-04-05 12:51:42-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='review']/div[1]/div/span/b .Expected text REFERRED is present
+2017-04-05 12:51:42-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='review']/div[1]/div[3]/p .Expected text Automation TestinggTSOdM is present
+2017-04-05 12:52:21-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC104_Verify_Dashboard_Moderation_Recently_RejecttoRefer
+2017-04-05 12:52:21-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 12:52:21-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 12:52:21-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 12:52:21-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 12:52:21-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 12:52:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 12:52:32-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 12:53:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 12:53:39-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 12:53:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-05 12:54:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Moderation
+2017-04-05 12:54:44-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='awaiting']/div[1]/div[3]/p .Expected text Automation TestingTPErCJ is present
+2017-04-05 12:54:44-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:54:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Reject
+2017-04-05 12:54:44-main--INFO -com.ctaf.accelerators.TestEngine:Select Inappropriate from Reason for rejection
+2017-04-05 12:54:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Sumbit
+2017-04-05 12:54:54-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div/span/b .Expected text REJECTED is present
+2017-04-05 12:54:54-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div[3]/p .Expected text Automation TestingTPErCJ is present
+2017-04-05 12:54:54-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:54:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Refer
+2017-04-05 12:54:54-main--INFO -com.ctaf.accelerators.TestEngine:Select Inappropriate from Reason for refer
+2017-04-05 12:54:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Sumbit
+2017-04-05 12:55:04-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='review']/div[1]/div/span/b .Expected text REFERRED is present
+2017-04-05 12:55:04-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='review']/div[1]/div[3]/p .Expected text Automation TestingTPErCJ is present
+2017-04-05 12:55:44-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC102_Verify_Dashboard_Moderation_Recently_RejecttoApprove
+2017-04-05 12:55:44-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 12:55:44-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 12:55:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 12:55:45-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 12:55:45-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 12:55:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 12:55:55-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 12:56:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 12:56:55-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 12:57:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-05 12:57:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Moderation
+2017-04-05 12:58:00-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='awaiting']/div[1]/div[3]/p .Expected text Automation TestingRJYcqk is present
+2017-04-05 12:58:00-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:58:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Reject
+2017-04-05 12:58:00-main--INFO -com.ctaf.accelerators.TestEngine:Select Inappropriate from Reason for rejection
+2017-04-05 12:58:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Sumbit
+2017-04-05 12:58:09-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div/span/b .Expected text REJECTED is present
+2017-04-05 12:58:10-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div[3]/p .Expected text Automation TestingRJYcqk is present
+2017-04-05 12:58:10-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 12:58:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Approve Comment
+2017-04-05 12:58:18-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div/span/b .Expected text APPROVED is present
+2017-04-05 12:58:18-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div[3]/p .Expected text Automation TestingRJYcqk is present
+2017-04-05 13:16:09-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-05 13:16:48-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC07_loginviaFooter_CommonCheck_FooterLinks_SearchSite_GuestUSer
+2017-04-05 13:16:48-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 13:16:58-main--INFO -com.ctaf.accelerators.TestEngine:in searchConsultation
+2017-04-05 13:16:58-main--INFO -com.ctaf.accelerators.TestEngine:in scrollTo
+2017-04-05 13:17:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully scroll on By.xpath: //a[@aria-label='navigation menu']
+2017-04-05 13:17:13-main--INFO -com.ctaf.accelerators.TestEngine:in clickTo
+2017-04-05 13:17:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully Click on By.xpath: //a[@aria-label='navigation menu']
+2017-04-05 13:17:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu/Consultation
+2017-04-05 13:18:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Clicked on search button
+2017-04-05 13:18:17-main--INFO -com.ctaf.accelerators.TestEngine:in verifySearchResult
+2017-04-05 13:18:23-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Consultations')] is present
+2017-04-05 13:18:23-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:19:00-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 13:19:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 13:19:23-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 13:19:23-main--INFO -com.ctaf.accelerators.TestEngine:in verifySearchSite
+2017-04-05 13:19:23-main--INFO -com.ctaf.accelerators.TestEngine:Type  Wimmera in Search String
+2017-04-05 13:19:43-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Search')] is present
+2017-04-05 13:19:43-main--INFO -com.ctaf.accelerators.TestEngine:Assert value of Query Textbox. Equal
+2017-04-05 13:19:43-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:20:21-main--INFO -com.ctaf.accelerators.TestEngine:in verifyFooterLinks
+2017-04-05 13:20:36-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Copyright')] is present
+2017-04-05 13:20:36-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:21:29-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[@class='mod-lg' and contains(text(),'Privacy Policy')] is present
+2017-04-05 13:21:29-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:25:30-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC18_Contactus_GuestUser
+2017-04-05 13:25:30-main--INFO -com.ctaf.accelerators.TestEngine:in verifyContactUs
+2017-04-05 13:25:30-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 13:25:30-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 13:25:30-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 13:25:30-main--INFO -com.ctaf.accelerators.TestEngine:in randomNumber
+2017-04-05 13:25:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu
+2017-04-05 13:25:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu/Contact
+2017-04-05 13:25:40-main--INFO -com.ctaf.accelerators.TestEngine:Type  mOLOZUq in Name
+2017-04-05 13:25:40-main--INFO -com.ctaf.accelerators.TestEngine:Type  Guest@gmail.com in Email Id
+2017-04-05 13:25:40-main--INFO -com.ctaf.accelerators.TestEngine:Type  iwrqDDLhIZij in Organisation
+2017-04-05 13:25:41-main--INFO -com.ctaf.accelerators.TestEngine:Type  ZHhkltXFDPr in Comment
+2017-04-05 13:25:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Checkbox for Accept Privacy
+2017-04-05 13:25:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Submit Button
+2017-04-05 13:25:52-main--INFO -com.ctaf.accelerators.TestEngine:Success message is displaying
+2017-04-05 13:26:02-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:26:44-main--INFO -com.ctaf.accelerators.TestEngine:in verifyContactUs
+2017-04-05 13:26:44-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 13:26:44-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 13:26:44-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 13:26:44-main--INFO -com.ctaf.accelerators.TestEngine:in randomNumber
+2017-04-05 13:26:53-main--INFO -com.ctaf.accelerators.TestEngine:Type  VMHPhSg in Name
+2017-04-05 13:26:54-main--INFO -com.ctaf.accelerators.TestEngine:Type  Guest@gmail.com in Email Id
+2017-04-05 13:26:54-main--INFO -com.ctaf.accelerators.TestEngine:Type  ZTbpeMBKvJmn in Organisation
+2017-04-05 13:26:54-main--INFO -com.ctaf.accelerators.TestEngine:Type  GpFSAVcbIFm in Comment
+2017-04-05 13:26:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Checkbox for Accept Privacy
+2017-04-05 13:26:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Submit Button
+2017-04-05 13:27:05-main--INFO -com.ctaf.accelerators.TestEngine:Success message is displaying
+2017-04-05 13:27:15-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:28:31-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC02_CommonChecks_HomePage_HambergerMenu_Login_Signout_CommunityUser
+2017-04-05 13:28:31-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 13:28:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 13:28:32-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosu2017@gmail.com in Email address
+2017-04-05 13:28:32-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 13:28:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 13:28:42-main--INFO -com.ctaf.accelerators.TestEngine:in verifyWebElementHomePage
+2017-04-05 13:28:42-main--INFO -com.ctaf.accelerators.TestEngine:Hamburger Menu is displaying
+2017-04-05 13:28:42-main--INFO -com.ctaf.accelerators.TestEngine:Engage Victoria Logo is displaying
+2017-04-05 13:28:42-main--INFO -com.ctaf.accelerators.TestEngine:Search Site is displaying
+2017-04-05 13:28:42-main--INFO -com.ctaf.accelerators.TestEngine:Text - Engage Victoria' on hero block  is displaying
+2017-04-05 13:28:42-main--INFO -com.ctaf.accelerators.TestEngine:Text - Share ideas here and have your say about what matters to you is displaying
+2017-04-05 13:28:42-main--INFO -com.ctaf.accelerators.TestEngine:Image on hero block is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Text - I'm looking for consultations relating to is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Drop Down for Category is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Help me find a consultation is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:WebSite feature section is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Active Consultation section is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Stay informed section is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Sign up email is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Sign up Today is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Footer section with Links is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Footer section with copyright message is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Copyright is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Privacy is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Terms of Use is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Accessibility is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Moderation is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Community Guidelines is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - About Us is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Contact Us is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:Footer Link - Site Map is displaying
+2017-04-05 13:28:43-main--INFO -com.ctaf.accelerators.TestEngine:in verifyHamburger
+2017-04-05 13:29:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu
+2017-04-05 13:29:33-main--INFO -com.ctaf.accelerators.TestEngine:Hamberger Menu/Home is displaying
+2017-04-05 13:29:33-main--INFO -com.ctaf.accelerators.TestEngine:Hamberger Menu/About is displaying
+2017-04-05 13:29:34-main--INFO -com.ctaf.accelerators.TestEngine:Hamberger Menu/Consultation is displaying
+2017-04-05 13:29:34-main--INFO -com.ctaf.accelerators.TestEngine:Hamberger Menu/Contact us is displaying
+2017-04-05 13:30:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu/Home
+2017-04-05 13:30:05-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //div[contains(@style, 'background-image:url(/application/files/3214/8118/3884/FAMILY_Small.jpg);')] is present
+2017-04-05 13:30:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu
+2017-04-05 13:30:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Menu/About
+2017-04-05 13:30:41-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'About')] is present
+2017-04-05 13:30:41-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:31:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu
+2017-04-05 13:31:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Menu/Consultation
+2017-04-05 13:32:03-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Consultations')] is present
+2017-04-05 13:32:03-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:32:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu
+2017-04-05 13:33:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Menu/Contact us
+2017-04-05 13:33:15-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Contact us')] is present
+2017-04-05 13:33:15-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:34:08-main--INFO -com.ctaf.accelerators.TestEngine:in signOut
+2017-04-05 13:34:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Avatar
+2017-04-05 13:34:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Avatar/Sign Out
+2017-04-05 13:36:47-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-05 13:37:23-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC07_loginviaFooter_CommonCheck_FooterLinks_SearchSite_GuestUSer
+2017-04-05 13:37:23-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 13:37:33-main--INFO -com.ctaf.accelerators.TestEngine:in searchConsultation
+2017-04-05 13:37:33-main--INFO -com.ctaf.accelerators.TestEngine:in scrollTo
+2017-04-05 13:37:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully scroll on By.xpath: //a[@aria-label='navigation menu']
+2017-04-05 13:37:48-main--INFO -com.ctaf.accelerators.TestEngine:in clickTo
+2017-04-05 13:37:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully Click on By.xpath: //a[@aria-label='navigation menu']
+2017-04-05 13:39:13-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-05 13:39:52-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC07_loginviaFooter_CommonCheck_FooterLinks_SearchSite_GuestUSer
+2017-04-05 13:39:52-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 13:40:02-main--INFO -com.ctaf.accelerators.TestEngine:in searchConsultation
+2017-04-05 13:40:02-main--INFO -com.ctaf.accelerators.TestEngine:in scrollTo
+2017-04-05 13:40:12-main--INFO -com.ctaf.accelerators.TestEngine:Successfully scroll on By.xpath: //a[@aria-label='navigation menu']
+2017-04-05 13:40:17-main--INFO -com.ctaf.accelerators.TestEngine:in clickTo
+2017-04-05 13:40:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully Click on By.xpath: //a[@aria-label='navigation menu']
+2017-04-05 13:41:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu/Consultation
+2017-04-05 13:41:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Clicked on search button
+2017-04-05 13:41:22-main--INFO -com.ctaf.accelerators.TestEngine:in verifySearchResult
+2017-04-05 13:41:28-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Consultations')] is present
+2017-04-05 13:41:28-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:42:06-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 13:42:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 13:42:29-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 13:42:29-main--INFO -com.ctaf.accelerators.TestEngine:in verifySearchSite
+2017-04-05 13:42:29-main--INFO -com.ctaf.accelerators.TestEngine:Type  Wimmera in Search String
+2017-04-05 13:42:49-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Search')] is present
+2017-04-05 13:42:50-main--INFO -com.ctaf.accelerators.TestEngine:Assert value of Query Textbox. Equal
+2017-04-05 13:42:50-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:43:28-main--INFO -com.ctaf.accelerators.TestEngine:in verifyFooterLinks
+2017-04-05 13:43:42-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Copyright')] is present
+2017-04-05 13:43:42-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:44:35-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[@class='mod-lg' and contains(text(),'Privacy Policy')] is present
+2017-04-05 13:44:35-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:45:28-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Terms of Use')] is present
+2017-04-05 13:45:28-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:46:21-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Accessibility')] is present
+2017-04-05 13:46:21-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:47:14-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Moderation Policy')] is present
+2017-04-05 13:47:14-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:48:06-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Community Guidelines')] is present
+2017-04-05 13:48:06-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:48:58-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'About')] is present
+2017-04-05 13:48:58-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:49:51-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Contact us')] is present
+2017-04-05 13:49:51-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:55:54-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-05 13:56:38-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC07_loginviaFooter_CommonCheck_FooterLinks_SearchSite_GuestUSer
+2017-04-05 13:56:38-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 13:56:48-main--INFO -com.ctaf.accelerators.TestEngine:in searchConsultation
+2017-04-05 13:56:48-main--INFO -com.ctaf.accelerators.TestEngine:in scrollTo
+2017-04-05 13:56:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully scroll on By.xpath: //a[@aria-label='navigation menu']
+2017-04-05 13:57:03-main--INFO -com.ctaf.accelerators.TestEngine:in clickTo
+2017-04-05 13:57:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully Click on By.xpath: //a[@aria-label='navigation menu']
+2017-04-05 13:57:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu/Consultation
+2017-04-05 13:58:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Clicked on search button
+2017-04-05 13:58:08-main--INFO -com.ctaf.accelerators.TestEngine:in verifySearchResult
+2017-04-05 13:58:13-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Consultations')] is present
+2017-04-05 13:58:13-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 13:58:51-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 13:59:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 13:59:16-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 13:59:16-main--INFO -com.ctaf.accelerators.TestEngine:in verifySearchSite
+2017-04-05 13:59:16-main--INFO -com.ctaf.accelerators.TestEngine:Type  Wimmera in Search String
+2017-04-05 13:59:37-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Search')] is present
+2017-04-05 13:59:38-main--INFO -com.ctaf.accelerators.TestEngine:Assert value of Query Textbox. Equal
+2017-04-05 13:59:38-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:00:16-main--INFO -com.ctaf.accelerators.TestEngine:in verifyFooterLinks
+2017-04-05 14:00:30-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Copyright')] is present
+2017-04-05 14:00:30-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:01:23-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[@class='mod-lg' and contains(text(),'Privacy Policy')] is present
+2017-04-05 14:01:23-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:02:16-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Terms of Use')] is present
+2017-04-05 14:02:16-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:03:10-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Accessibility')] is present
+2017-04-05 14:03:10-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:04:03-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Moderation Policy')] is present
+2017-04-05 14:04:03-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:04:55-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Community Guidelines')] is present
+2017-04-05 14:04:55-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:05:48-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'About')] is present
+2017-04-05 14:05:48-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:06:41-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Contact us')] is present
+2017-04-05 14:06:41-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:07:34-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Site map')] is present
+2017-04-05 14:07:34-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:08:11-main--INFO -com.ctaf.accelerators.TestEngine:in switchWindowByTitle
+2017-04-05 14:08:25-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //a[text()='Vic.gov.au'] is present
+2017-04-05 14:08:25-main--INFO -com.ctaf.accelerators.TestEngine:in switchWindowByTitle
+2017-04-05 14:08:25-main--INFO -com.ctaf.accelerators.TestEngine:in switchWindowByTitle
+2017-04-05 14:42:52-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-05 14:43:30-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC07_loginviaFooter_CommonCheck_FooterLinks_SearchSite_GuestUSer
+2017-04-05 14:43:30-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 14:43:40-main--INFO -com.ctaf.accelerators.TestEngine:in searchConsultation
+2017-04-05 14:43:40-main--INFO -com.ctaf.accelerators.TestEngine:in scrollTo
+2017-04-05 14:43:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully scroll on By.xpath: //a[@aria-label='navigation menu']
+2017-04-05 14:43:55-main--INFO -com.ctaf.accelerators.TestEngine:in clickTo
+2017-04-05 14:44:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully Click on By.xpath: //a[@aria-label='navigation menu']
+2017-04-05 14:44:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu/Consultation
+2017-04-05 14:44:58-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Clicked on search button
+2017-04-05 14:44:58-main--INFO -com.ctaf.accelerators.TestEngine:in verifySearchResult
+2017-04-05 14:45:03-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Consultations')] is present
+2017-04-05 14:45:04-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:45:42-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 14:46:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 14:46:05-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 14:46:05-main--INFO -com.ctaf.accelerators.TestEngine:in verifySearchSite
+2017-04-05 14:46:05-main--INFO -com.ctaf.accelerators.TestEngine:Type  Wimmera in Search String
+2017-04-05 14:46:44-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Search')] is present
+2017-04-05 14:46:44-main--INFO -com.ctaf.accelerators.TestEngine:Assert value of Query Textbox. Equal
+2017-04-05 14:46:44-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:47:22-main--INFO -com.ctaf.accelerators.TestEngine:in verifyFooterLinks
+2017-04-05 14:47:38-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Copyright')] is present
+2017-04-05 14:47:38-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:48:30-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[@class='mod-lg' and contains(text(),'Privacy Policy')] is present
+2017-04-05 14:48:30-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:49:24-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Terms of Use')] is present
+2017-04-05 14:49:24-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:50:17-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Accessibility')] is present
+2017-04-05 14:50:17-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:51:09-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Moderation Policy')] is present
+2017-04-05 14:51:09-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:52:03-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Community Guidelines')] is present
+2017-04-05 14:52:03-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:52:57-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'About')] is present
+2017-04-05 14:52:57-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:53:50-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Contact us')] is present
+2017-04-05 14:53:50-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:54:45-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Site map')] is present
+2017-04-05 14:54:45-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 14:55:23-main--INFO -com.ctaf.accelerators.TestEngine:in switchWindowByTitle
+2017-04-05 14:57:43-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //a[text()='Vic.gov.au'] is present
+2017-04-05 14:57:43-main--INFO -com.ctaf.accelerators.TestEngine:in switchWindowByTitle
+2017-04-05 14:57:43-main--INFO -com.ctaf.accelerators.TestEngine:in switchWindowByTitle
+2017-04-05 15:03:20-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-05 15:04:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC07_loginviaFooter_CommonCheck_FooterLinks_SearchSite_GuestUSer
+2017-04-05 15:04:00-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 15:04:10-main--INFO -com.ctaf.accelerators.TestEngine:in searchConsultation
+2017-04-05 15:04:10-main--INFO -com.ctaf.accelerators.TestEngine:in scrollTo
+2017-04-05 15:04:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully scroll on By.xpath: //a[@aria-label='navigation menu']
+2017-04-05 15:04:25-main--INFO -com.ctaf.accelerators.TestEngine:in clickTo
+2017-04-05 15:04:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully Click on By.xpath: //a[@aria-label='navigation menu']
+2017-04-05 15:05:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu/Consultation
+2017-04-05 15:05:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Clicked on search button
+2017-04-05 15:05:29-main--INFO -com.ctaf.accelerators.TestEngine:in verifySearchResult
+2017-04-05 15:05:34-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Consultations')] is present
+2017-04-05 15:05:35-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:06:13-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 15:06:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 15:06:36-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 15:06:36-main--INFO -com.ctaf.accelerators.TestEngine:in verifySearchSite
+2017-04-05 15:06:36-main--INFO -com.ctaf.accelerators.TestEngine:Type  Wimmera in Search String
+2017-04-05 15:06:56-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Search')] is present
+2017-04-05 15:06:56-main--INFO -com.ctaf.accelerators.TestEngine:Assert value of Query Textbox. Equal
+2017-04-05 15:06:56-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:07:35-main--INFO -com.ctaf.accelerators.TestEngine:in verifyFooterLinks
+2017-04-05 15:07:49-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Copyright')] is present
+2017-04-05 15:07:49-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:08:41-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[@class='mod-lg' and contains(text(),'Privacy Policy')] is present
+2017-04-05 15:08:41-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:09:34-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Terms of Use')] is present
+2017-04-05 15:09:34-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:10:30-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Accessibility')] is present
+2017-04-05 15:10:30-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:13:37-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Moderation Policy')] is present
+2017-04-05 15:13:37-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:14:38-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Community Guidelines')] is present
+2017-04-05 15:14:38-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:15:31-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'About')] is present
+2017-04-05 15:15:31-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:16:23-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Contact us')] is present
+2017-04-05 15:16:23-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:17:16-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Site map')] is present
+2017-04-05 15:17:16-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:17:54-main--INFO -com.ctaf.accelerators.TestEngine:in switchWindowByTitle
+2017-04-05 15:18:09-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //a[text()='Vic.gov.au'] is present
+2017-04-05 15:18:09-main--INFO -com.ctaf.accelerators.TestEngine:in switchWindowByTitle
+2017-04-05 15:18:09-main--INFO -com.ctaf.accelerators.TestEngine:in switchWindowByTitle
+2017-04-05 15:19:52-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-05 15:20:43-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC07_loginviaFooter_CommonCheck_FooterLinks_SearchSite_GuestUSer
+2017-04-05 15:20:43-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 15:20:53-main--INFO -com.ctaf.accelerators.TestEngine:in searchConsultation
+2017-04-05 15:20:53-main--INFO -com.ctaf.accelerators.TestEngine:in scrollTo
+2017-04-05 15:21:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully scroll on By.xpath: //a[@aria-label='navigation menu']
+2017-04-05 15:21:08-main--INFO -com.ctaf.accelerators.TestEngine:in clickTo
+2017-04-05 15:21:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully Click on By.xpath: //a[@aria-label='navigation menu']
+2017-04-05 15:21:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu/Consultation
+2017-04-05 15:22:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Clicked on search button
+2017-04-05 15:22:13-main--INFO -com.ctaf.accelerators.TestEngine:in verifySearchResult
+2017-04-05 15:22:18-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Consultations')] is present
+2017-04-05 15:22:19-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:23:00-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 15:23:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 15:23:23-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 15:23:23-main--INFO -com.ctaf.accelerators.TestEngine:in verifySearchSite
+2017-04-05 15:23:23-main--INFO -com.ctaf.accelerators.TestEngine:Type  Wimmera in Search String
+2017-04-05 15:23:44-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Search')] is present
+2017-04-05 15:23:44-main--INFO -com.ctaf.accelerators.TestEngine:Assert value of Query Textbox. Equal
+2017-04-05 15:23:44-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:24:21-main--INFO -com.ctaf.accelerators.TestEngine:in verifyFooterLinks
+2017-04-05 15:24:36-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Copyright')] is present
+2017-04-05 15:24:36-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:25:32-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[@class='mod-lg' and contains(text(),'Privacy Policy')] is present
+2017-04-05 15:25:32-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:26:28-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Terms of Use')] is present
+2017-04-05 15:26:28-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:27:21-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Accessibility')] is present
+2017-04-05 15:27:21-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:28:14-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Moderation Policy')] is present
+2017-04-05 15:28:14-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:29:08-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Community Guidelines')] is present
+2017-04-05 15:29:08-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:30:01-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'About')] is present
+2017-04-05 15:30:01-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:30:58-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Contact us')] is present
+2017-04-05 15:30:58-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:31:51-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //h1[contains(text(),'Site map')] is present
+2017-04-05 15:31:51-main--INFO -com.ctaf.accelerators.TestEngine:in clickOnBreadcrumbs
+2017-04-05 15:32:29-main--INFO -com.ctaf.accelerators.TestEngine:in switchWindowByTitle
+2017-04-05 15:32:43-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //a[text()='Vic.gov.au'] is present
+2017-04-05 15:32:43-main--INFO -com.ctaf.accelerators.TestEngine:in switchWindowByTitle
+2017-04-05 15:32:43-main--INFO -com.ctaf.accelerators.TestEngine:in switchWindowByTitle
+2017-04-05 15:32:55-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //img[@id='the-hive-logo'] is present
+2017-04-05 15:33:34-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-05 15:35:49-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC106_Verify_Dashboard_Moderation_Refer_Reject
+2017-04-05 15:35:49-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 15:35:49-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 15:35:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 15:35:50-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 15:35:50-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 15:35:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 15:36:00-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 15:43:55-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-05 15:44:36-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC106_Verify_Dashboard_Moderation_Refer_Reject
+2017-04-05 15:44:36-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 15:44:36-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 15:44:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 15:44:36-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 15:44:37-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 15:44:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 15:45:49-main--INFO -com.ctaf.accelerators.TestEngine:in navigateConsultation
+2017-04-05 15:46:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Selected Project
+2017-04-05 15:46:55-main--INFO -com.ctaf.accelerators.TestEngine:Element By.xpath: //li[contains(text(),'Testing on Chrome Browser - do not delete')] is present
+2017-04-05 15:47:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-05 15:48:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Moderation
+2017-04-05 15:48:22-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='awaiting']/div[1]/div[3]/p .Expected text Automation TestingowszBv is present
+2017-04-05 15:48:30-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 15:48:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Refer
+2017-04-05 15:48:30-main--INFO -com.ctaf.accelerators.TestEngine:Select Inappropriate from Reason for refer
+2017-04-05 15:48:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Sumbit
+2017-04-05 15:48:40-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='review']/div[1]/div/span/b .Expected text REFERRED is present
+2017-04-05 15:48:40-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='review']/div[1]/div[3]/p .Expected text Automation TestingowszBv is present
+2017-04-05 15:48:47-main--INFO -com.ctaf.accelerators.TestEngine:Assert data-feedbackid of Comment ID. Equal
+2017-04-05 15:48:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Reject
+2017-04-05 15:48:47-main--INFO -com.ctaf.accelerators.TestEngine:Select Inappropriate from Reason for rejection
+2017-04-05 15:48:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Sumbit
+2017-04-05 15:48:57-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div/span/b .Expected text REJECTED is present
+2017-04-05 15:48:57-main--INFO -com.ctaf.accelerators.TestEngine:Assert text of By.xpath: //div[@id='recent']/div[1]/div[3]/p .Expected text Automation TestingowszBv is present
+2017-04-05 15:54:02-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-05 15:54:42-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC189_ProjectUser_Unavailable_Pa
+2017-04-05 15:54:42-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 15:54:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 15:54:43-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-05 15:54:43-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 15:54:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 15:55:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-05 15:56:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard/Project
+2017-04-05 15:56:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Launch New Project
+2017-04-05 15:56:50-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-04-05 15:56:50-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation Project - nnqP in Project Name
+2017-04-05 15:56:50-main--INFO -com.ctaf.accelerators.TestEngine:Type  New Automation Project in Project Description
+2017-04-05 15:57:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Next Button
+2017-04-05 15:57:45-main--INFO -com.ctaf.accelerators.TestEngine:in scrollandClick
+2017-04-05 15:57:46-main--INFO -com.ctaf.accelerators.TestEngine:Select Department of Economic Development, Jobs, Transport and Resources from Project Department
+2017-04-05 15:57:46-main--INFO -com.ctaf.accelerators.TestEngine:Select Public from Project Type
+2017-04-05 15:57:46-main--INFO -com.ctaf.accelerators.TestEngine:Select Active from Project Status
+2017-04-05 15:57:46-main--INFO -com.ctaf.accelerators.TestEngine:in clickTo
+2017-04-05 15:57:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully Click on By.xpath: //div[@class='ccm-file-selector-choose-new']
+2017-04-05 15:57:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Select project image
+2017-04-05 15:58:02-main--INFO -com.ctaf.accelerators.TestEngine:in clickTo
+2017-04-05 15:58:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully Click on By.xpath: //div[6]/div/fieldset/div[1]/ul/li[1]/span/span[2]
+2017-04-05 15:58:07-main--INFO -com.ctaf.accelerators.TestEngine:in clickTo
+2017-04-05 15:58:12-main--INFO -com.ctaf.accelerators.TestEngine:Successfully Click on By.xpath: //div[7]/div/fieldset/div[1]/ul/li[1]/span/span[2]
+2017-04-05 15:58:12-main--INFO -com.ctaf.accelerators.TestEngine:in clickTo
+2017-04-05 15:58:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully Click on By.xpath: //label/input[@value='1']
+2017-04-05 15:58:18-main--INFO -com.ctaf.accelerators.TestEngine:in clickTo
+2017-04-05 15:58:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully Click on By.xpath: //div[contains(@data-file-selector, 'ccm-file-akID-35')]/div[@class='ccm-file-selector-choose-new']
+2017-04-05 15:58:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Select Project logo
+2017-04-05 15:58:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Anothter Partnership
+2017-04-05 15:58:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Next Button
+2017-04-05 15:58:29-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoconmanager in Project user name
+2017-04-05 15:58:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on User
+2017-04-05 15:58:35-main--INFO -com.ctaf.accelerators.TestEngine:Select Consultation Manager from User Role
+2017-04-05 15:58:35-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoprauthor in Project user name
+2017-04-05 15:58:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on User
+2017-04-05 15:58:41-main--INFO -com.ctaf.accelerators.TestEngine:Select Project Author from User Role
+2017-04-05 15:59:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Launch Project
+2017-04-05 15:59:07-main--INFO -com.ctaf.accelerators.TestEngine:Page Draft popup is displaying
+2017-04-05 15:59:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Submit for approval
+2017-04-05 15:59:31-main--INFO -com.ctaf.accelerators.TestEngine:in signOut
+2017-04-05 15:59:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Avatar
+2017-04-05 15:59:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Avatar/Sign Out
+2017-04-05 16:00:14-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-05 16:00:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-05 16:00:14-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoprauthor@harvestdp.com in Email address
+2017-04-05 16:00:14-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-05 16:00:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-05 16:00:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-05 16:01:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard/Project
+2017-04-05 16:01:42-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation Project - nnqP in Project
+2017-04-05 16:01:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search
+2017-04-05 16:02:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project
+2017-04-05 16:02:07-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToSetting
+2017-04-05 16:02:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Settings
+2017-04-05 16:04:27-main--INFO -com.ctaf.accelerators.TestEngine:Element is Not Present

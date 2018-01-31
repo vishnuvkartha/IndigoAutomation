@@ -1,0 +1,8 @@
+2017-04-19 15:06:24-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-19 15:06:59-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC123_Verify_Project_Sub_Page_Mobile_Preview_En
+2017-04-19 15:06:59-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-19 15:06:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-19 15:07:00-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoenmanager@harvestdp.com in Email address
+2017-04-19 15:07:00-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-19 15:07:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-19 15:07:10-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToProjectSubPage

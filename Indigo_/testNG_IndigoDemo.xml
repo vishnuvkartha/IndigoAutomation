@@ -1,0 +1,22 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="IndigoWebDemo" allow-return-values="true" verbose="10" preserve-order="true">
+
+	<test name="Grouping" >
+	<classes> 
+		
+			
+						<class name="com.Indigo.OCC.TC_019_VerifyAimsUploaderBySelectingIVRSMSOption"/>   			
+        				<class name="com.Indigo.OCC.TC_030_VerfyPaxSMSIVRManualWithSMSIVR"/>    					
+        				<class name="com.Indigo.OCC.TC_014_VerifyPasengerAdhocMessagBySelectingSMSOption"/>
+        				<class name="com.Indigo.OCC.TC_016_VerifyCrewAdhocMessageBySelectingCrewNotificationTypeAsImportantNotification"/>
+        			    <class name="com.Indigo.OCC.TC_020_VerifyManualFlightCancellationUsingIVRSMSOption"/>
+        				<class name="com.Indigo.OCC.TC_018_VerifySchedulePassengerMessageTable"/>
+        				
+        			  			    				
+						
+		</classes>
+		
+	</test>
+
+</suite>

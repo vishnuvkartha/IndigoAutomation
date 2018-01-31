@@ -1,0 +1,678 @@
+<html>
+<head>
+<title>TestNG:  Grouping</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Grouping</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>23/8/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed Mar 01 00:02:20 IST 2017</td>
+</tr>
+<tr><td>Total time:</td><td>20516 seconds (20516810 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-failed'>
+<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_24_Add_Image.TC24_Add_Image()'><b>TC24_Add_Image</b><br>Test class: com.desktopWeb.scripts.tools.TC_24_Add_Image<br>Parameters: autosm2017@gmail.com, Automation2017, thisisaltdescription, imagecaption1, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Image to page</td>
+<td><div><pre>java.lang.AssertionError: Step Select  Failed with description Automation Project is Not Select from the DropDown Project Department expected [true] but found [false]
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.selectByVisibleText(ActionEngine.java:901)
+	at com.desktopWeb.workflows.HelperClass.createProject(HelperClass.java:2114)
+	at com.desktopWeb.scripts.tools.TC_24_Add_Image.TC24_Add_Image(TC_24_Add_Image.java:26)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace453671855", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace453671855'><pre>java.lang.AssertionError: Step Select  Failed with description Automation Project is Not Select from the DropDown Project Department expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.selectByVisibleText(ActionEngine.java:901)
+	at com.desktopWeb.workflows.HelperClass.createProject(HelperClass.java:2114)
+	at com.desktopWeb.scripts.tools.TC_24_Add_Image.TC24_Add_Image(TC_24_Add_Image.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+</pre></div></td>
+<td>475</td>
+<td>com.desktopWeb.scripts.tools.TC_24_Add_Image@3c9754d8</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_26_Add_Tabs_Start.TC26_Add_Tabs_Start()'><b>TC26_Add_Tabs_Start</b><br>Test class: com.desktopWeb.scripts.tools.TC_26_Add_Tabs_Start<br>Parameters: autosm2017@gmail.com, Automation2017, Tabheading, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Tabs Start to page</td>
+<td><div><pre>java.lang.AssertionError: Step TC26_Add_Tabs_Start Failed with description Failed expected [true] but found [false]
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.tools.TC_26_Add_Tabs_Start.TC26_Add_Tabs_Start(TC_26_Add_Tabs_Start.java:29)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace920446957", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace920446957'><pre>java.lang.AssertionError: Step TC26_Add_Tabs_Start Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.tools.TC_26_Add_Tabs_Start.TC26_Add_Tabs_Start(TC_26_Add_Tabs_Start.java:29)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+</pre></div></td>
+<td>834</td>
+<td>com.desktopWeb.scripts.tools.TC_26_Add_Tabs_Start@15de0b3c</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_30_Add_Image_Slider.TC30_Add_Image_Slider()'><b>TC30_Add_Image_Slider</b><br>Test class: com.desktopWeb.scripts.tools.TC_30_Add_Image_Slider<br>Parameters: autosm2017@gmail.com, Automation2017, imagetitle, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Image Slider to page</td>
+<td><div><pre>java.lang.AssertionError: Step AssertText  Failed with description imagetitle is not present in the element  expected [true] but found [false]
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.assertText(ActionEngine.java:1386)
+	at com.desktopWeb.workflows.HelperClass.addImageSlider(HelperClass.java:1670)
+	at com.desktopWeb.scripts.tools.TC_30_Add_Image_Slider.TC30_Add_Image_Slider(TC_30_Add_Image_Slider.java:27)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1272744797", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1272744797'><pre>java.lang.AssertionError: Step AssertText  Failed with description imagetitle is not present in the element  expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.assertText(ActionEngine.java:1386)
+	at com.desktopWeb.workflows.HelperClass.addImageSlider(HelperClass.java:1670)
+	at com.desktopWeb.scripts.tools.TC_30_Add_Image_Slider.TC30_Add_Image_Slider(TC_30_Add_Image_Slider.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+</pre></div></td>
+<td>801</td>
+<td>com.desktopWeb.scripts.tools.TC_30_Add_Image_Slider@74e52ef6</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_32_Add_Swipe.TC32_Add_Swipe()'><b>TC32_Add_Swipe</b><br>Test class: com.desktopWeb.scripts.tools.TC_32_Add_Swipe<br>Parameters: autosm2017@gmail.com, Automation2017, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Swipe to page</td>
+<td><div><pre>java.lang.AssertionError: Step TC32_Add_Swipe Failed with description Failed expected [true] but found [false]
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.tools.TC_32_Add_Swipe.TC32_Add_Swipe(TC_32_Add_Swipe.java:30)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1916720513", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1916720513'><pre>java.lang.AssertionError: Step TC32_Add_Swipe Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.tools.TC_32_Add_Swipe.TC32_Add_Swipe(TC_32_Add_Swipe.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+</pre></div></td>
+<td>640</td>
+<td>com.desktopWeb.scripts.tools.TC_32_Add_Swipe@3b0090a4</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_34_Add_Quick_Poll.TC34_Add_Quick_Poll()'><b>TC34_Add_Quick_Poll</b><br>Test class: com.desktopWeb.scripts.tools.TC_34_Add_Quick_Poll<br>Parameters: autosm2017@gmail.com, Automation2017, Got any idea?, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Quick Poll to page</td>
+<td><div><pre>java.lang.AssertionError: Step TC34_Add_Quick_Poll Failed with description Failed expected [true] but found [false]
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.tools.TC_34_Add_Quick_Poll.TC34_Add_Quick_Poll(TC_34_Add_Quick_Poll.java:30)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1269826537", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1269826537'><pre>java.lang.AssertionError: Step TC34_Add_Quick_Poll Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.tools.TC_34_Add_Quick_Poll.TC34_Add_Quick_Poll(TC_34_Add_Quick_Poll.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+</pre></div></td>
+<td>639</td>
+<td>com.desktopWeb.scripts.tools.TC_34_Add_Quick_Poll@3857f613</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_43_Add_Links.TC43_Add_Links()'><b>TC43_Add_Links</b><br>Test class: com.desktopWeb.scripts.tools.TC_43_Add_Links<br>Parameters: autosm2017@gmail.com, Automation2017, Title for all, http://youtu.be/hu3IfIwSjgM, Automation Testing, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Links to page</td>
+<td><div><pre>java.lang.AssertionError: Step Click Failed with description Unable to click on Link expected [true] but found [false]
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.click(ActionEngine.java:94)
+	at com.desktopWeb.workflows.HelperClass.addLink(HelperClass.java:1942)
+	at com.desktopWeb.scripts.tools.TC_43_Add_Links.TC43_Add_Links(TC_43_Add_Links.java:27)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1258010306", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1258010306'><pre>java.lang.AssertionError: Step Click Failed with description Unable to click on Link expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.ctaf.accelerators.ActionEngine.click(ActionEngine.java:94)
+	at com.desktopWeb.workflows.HelperClass.addLink(HelperClass.java:1942)
+	at com.desktopWeb.scripts.tools.TC_43_Add_Links.TC43_Add_Links(TC_43_Add_Links.java:27)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+</pre></div></td>
+<td>543</td>
+<td>com.desktopWeb.scripts.tools.TC_43_Add_Links@7c6908d7</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_44_Add_Timelines.TC44_Add_Timelines()'><b>TC44_Add_Timelines</b><br>Test class: com.desktopWeb.scripts.tools.TC_44_Add_Timelines<br>Parameters: autosm2017@gmail.com, Automation2017, Title for all, Active, Automation Testing, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Timelines to page</td>
+<td><div><pre>java.lang.AssertionError: Step TC44_Add_Timelines Failed with description Failed expected [true] but found [false]
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.tools.TC_44_Add_Timelines.TC44_Add_Timelines(TC_44_Add_Timelines.java:30)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1496999718", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace1496999718'><pre>java.lang.AssertionError: Step TC44_Add_Timelines Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.tools.TC_44_Add_Timelines.TC44_Add_Timelines(TC_44_Add_Timelines.java:30)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+</pre></div></td>
+<td>480</td>
+<td>com.desktopWeb.scripts.tools.TC_44_Add_Timelines@489115ef</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_50_Verify_Authoring_Tools_Options.TC50_Verify_Authoring_Tools_Options()'><b>TC50_Verify_Authoring_Tools_Options</b><br>Test class: com.desktopWeb.scripts.tools.TC_50_Verify_Authoring_Tools_Options<br>Parameters: autosm2017@gmail.com, Automation2017, Verify Tools Options</td>
+<td><div><pre>java.lang.AssertionError: Step TC50_Verify_Authoring_Tools_Options Failed with description Failed expected [true] but found [false]
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.tools.TC_50_Verify_Authoring_Tools_Options.TC50_Verify_Authoring_Tools_Options(TC_50_Verify_Authoring_Tools_Options.java:26)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+... Removed 28 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace254358847", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace254358847'><pre>java.lang.AssertionError: Step TC50_Verify_Authoring_Tools_Options Failed with description Failed expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertTrue(Assert.java:42)
+	at com.ctaf.support.HtmlReportSupport.onFailure(HtmlReportSupport.java:778)
+	at com.ctaf.utilities.Reporter.failureReport(Reporter.java:91)
+	at com.desktopWeb.scripts.tools.TC_50_Verify_Authoring_Tools_Options.TC50_Verify_Authoring_Tools_Options(TC_50_Verify_Authoring_Tools_Options.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:80)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:178)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:92)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:96)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.apache.maven.surefire.util.ReflectionUtils.invokeMethodWithArray2(ReflectionUtils.java:208)
+	at org.apache.maven.surefire.booter.ProviderFactory$ProviderProxy.invoke(ProviderFactory.java:159)
+	at org.apache.maven.surefire.booter.ProviderFactory.invokeProvider(ProviderFactory.java:87)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:95)
+</pre></div></td>
+<td>276</td>
+<td>com.desktopWeb.scripts.tools.TC_50_Verify_Authoring_Tools_Options@7eac9008</td></tr>
+</table><p>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_19_Add_Content.TC19_Add_Content()'><b>TC19_Add_Content</b><br>Test class: com.desktopWeb.scripts.tools.TC_19_Add_Content<br>Parameters: autosm2017@gmail.com, Automation2017, Hello, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Content to page</td>
+<td></td>
+<td>636</td>
+<td>com.desktopWeb.scripts.tools.TC_19_Add_Content@4116aac9</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_20_Add_HTML.TC20_Add_HTML()'><b>TC20_Add_HTML</b><br>Test class: com.desktopWeb.scripts.tools.TC_20_Add_HTML<br>Parameters: autosm2017@gmail.com, Automation2017, <h2>Hello Victoria</h2>, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add HTML to page</td>
+<td></td>
+<td>649</td>
+<td>com.desktopWeb.scripts.tools.TC_20_Add_HTML@4d1c00d0</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_21_Add_Block_Quote.TC21_Add_Block_Quote()'><b>TC21_Add_Block_Quote</b><br>Test class: com.desktopWeb.scripts.tools.TC_21_Add_Block_Quote<br>Parameters: autosm2017@gmail.com, Automation2017, Be Good. Do Good, Misc, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Block Quote to page</td>
+<td></td>
+<td>567</td>
+<td>com.desktopWeb.scripts.tools.TC_21_Add_Block_Quote@1a677343</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_22_Add_Heading.TC22_Add_Heading()'><b>TC22_Add_Heading</b><br>Test class: com.desktopWeb.scripts.tools.TC_22_Add_Heading<br>Parameters: autosm2017@gmail.com, Automation2017, Automation Testing, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Heading to page</td>
+<td></td>
+<td>585</td>
+<td>com.desktopWeb.scripts.tools.TC_22_Add_Heading@3eb738bb</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_23_Add_Divider.TC23_Add_Divider()'><b>TC23_Add_Divider</b><br>Test class: com.desktopWeb.scripts.tools.TC_23_Add_Divider<br>Parameters: autosm2017@gmail.com, Automation2017, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Divider to page</td>
+<td></td>
+<td>596</td>
+<td>com.desktopWeb.scripts.tools.TC_23_Add_Divider@79079097</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_25_Add_Flexi.TC25_Add_Flexi()'><b>TC25_Add_Flexi</b><br>Test class: com.desktopWeb.scripts.tools.TC_25_Add_Flexi<br>Parameters: autosm2017@gmail.com, Automation2017, flexititle, flexicontent, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Flexi to page</td>
+<td></td>
+<td>701</td>
+<td>com.desktopWeb.scripts.tools.TC_25_Add_Flexi@5bda8e08</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_27_Add_Button.TC27_Add_Button()'><b>TC27_Add_Button</b><br>Test class: com.desktopWeb.scripts.tools.TC_27_Add_Button<br>Parameters: autosm2017@gmail.com, Automation2017, Button1, http://www.google.com, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Button to page</td>
+<td></td>
+<td>591</td>
+<td>com.desktopWeb.scripts.tools.TC_27_Add_Button@1e800aaa</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_28_Add_Web_Map.TC28_Add_Web_Map()'><b>TC28_Add_Web_Map</b><br>Test class: com.desktopWeb.scripts.tools.TC_28_Add_Web_Map<br>Parameters: autosm2017@gmail.com, Automation2017, Victoria, Australia, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add WebMAp to page</td>
+<td></td>
+<td>592</td>
+<td>com.desktopWeb.scripts.tools.TC_28_Add_Web_Map@4e08711f</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_29_Add_Image_Gallary.TC29_Add_Image_Gallary()'><b>TC29_Add_Image_Gallary</b><br>Test class: com.desktopWeb.scripts.tools.TC_29_Add_Image_Gallary<br>Parameters: autosm2017@gmail.com, Automation2017, imagecaption1, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Image Gallery to page</td>
+<td></td>
+<td>708</td>
+<td>com.desktopWeb.scripts.tools.TC_29_Add_Image_Gallary@9d5509a</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_31_Add_Video.TC31_Add_Video()'><b>TC31_Add_Video</b><br>Test class: com.desktopWeb.scripts.tools.TC_31_Add_Video<br>Parameters: autosm2017@gmail.com, Automation2017, Video1, YouTube, http://youtu.be/hu3IfIwSjgM, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Video to page</td>
+<td></td>
+<td>592</td>
+<td>com.desktopWeb.scripts.tools.TC_31_Add_Video@f5958c9</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_33_Add_Form.TC33_Add_Form()'><b>TC33_Add_Form</b><br>Test class: com.desktopWeb.scripts.tools.TC_33_Add_Form<br>Parameters: autosm2017@gmail.com, Automation2017, Short Text (Input Text Field), Got any idea?, Share your idea here.., Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Form to page</td>
+<td></td>
+<td>636</td>
+<td>com.desktopWeb.scripts.tools.TC_33_Add_Form@6ed3ccb2</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_35_Add_Conversation.TC35_Add_Conversation()'><b>TC35_Add_Conversation</b><br>Test class: com.desktopWeb.scripts.tools.TC_35_Add_Conversation<br>Parameters: autosm2017@gmail.com, Automation2017, Share your idea.., Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Conversation to page</td>
+<td></td>
+<td>591</td>
+<td>com.desktopWeb.scripts.tools.TC_35_Add_Conversation@198b6731</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_36_Add_Social_Map.TC36_Add_Social_Map()'><b>TC36_Add_Social_Map</b><br>Test class: com.desktopWeb.scripts.tools.TC_36_Add_Social_Map<br>Parameters: autosm2017@gmail.com, Automation2017, Victoria, Australia, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Social Map to page</td>
+<td></td>
+<td>604</td>
+<td>com.desktopWeb.scripts.tools.TC_36_Add_Social_Map@3cd3e762</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_37_Add_Visioner_Input.TC37_Add_Visioner_Input()'><b>TC37_Add_Visioner_Input</b><br>Test class: com.desktopWeb.scripts.tools.TC_37_Add_Visioner_Input<br>Parameters: autosm2017@gmail.com, Automation2017, Got any idea?, Share your idea here.., Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add input Visioner to page</td>
+<td></td>
+<td>620</td>
+<td>com.desktopWeb.scripts.tools.TC_37_Add_Visioner_Input@77c2494c</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_38_Add_Visioner_Result.TC38_Add_Visioner_Result()'><b>TC38_Add_Visioner_Result</b><br>Test class: com.desktopWeb.scripts.tools.TC_38_Add_Visioner_Result<br>Parameters: autosm2017@gmail.com, Automation2017, Got any idea?, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Input Result to page</td>
+<td></td>
+<td>642</td>
+<td>com.desktopWeb.scripts.tools.TC_38_Add_Visioner_Result@179ece50</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_39_Add_Forum.TC39_Add_Forum()'><b>TC39_Add_Forum</b><br>Test class: com.desktopWeb.scripts.tools.TC_39_Add_Forum<br>Parameters: autosm2017@gmail.com, Automation2017, Got any idea?, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Forum to page</td>
+<td></td>
+<td>622</td>
+<td>com.desktopWeb.scripts.tools.TC_39_Add_Forum@4b2bac3f</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_40_Add_Document_Library.TC40_Add_Document_Library()'><b>TC40_Add_Document_Library</b><br>Test class: com.desktopWeb.scripts.tools.TC_40_Add_Document_Library<br>Parameters: autosm2017@gmail.com, Automation2017, Public Document Library, Automation Testing, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Document to page</td>
+<td></td>
+<td>685</td>
+<td>com.desktopWeb.scripts.tools.TC_40_Add_Document_Library@233795b6</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_41_Add_FAQ.TC41_Add_FAQ()'><b>TC41_Add_FAQ</b><br>Test class: com.desktopWeb.scripts.tools.TC_41_Add_FAQ<br>Parameters: autosm2017@gmail.com, Automation2017, Got any idea?, I will share my idea very soon, Automation Testing, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add FAQ to page</td>
+<td></td>
+<td>632</td>
+<td>com.desktopWeb.scripts.tools.TC_41_Add_FAQ@3bf7ca37</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_42_Add_Key_Dates.TC42_Add_Key_Dates()'><b>TC42_Add_Key_Dates</b><br>Test class: com.desktopWeb.scripts.tools.TC_42_Add_Key_Dates<br>Parameters: autosm2017@gmail.com, Automation2017, Title for all, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Key Dates to page</td>
+<td></td>
+<td>634</td>
+<td>com.desktopWeb.scripts.tools.TC_42_Add_Key_Dates@1fa121e2</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_45_Add_Contact_us.TC45_Add_Contact_us()'><b>TC45_Add_Contact_us</b><br>Test class: com.desktopWeb.scripts.tools.TC_45_Add_Contact_us<br>Parameters: autosm2017@gmail.com, Automation2017, FirstName, 8.899776655E9, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Contact Us to page</td>
+<td></td>
+<td>630</td>
+<td>com.desktopWeb.scripts.tools.TC_45_Add_Contact_us@bcec361</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_46_Add_News_Feed.TC46_Add_News_Feed()'><b>TC46_Add_News_Feed</b><br>Test class: com.desktopWeb.scripts.tools.TC_46_Add_News_Feed<br>Parameters: autosm2017@gmail.com, Automation2017, Title for all, Description for all, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add News Feed to page</td>
+<td></td>
+<td>632</td>
+<td>com.desktopWeb.scripts.tools.TC_46_Add_News_Feed@185a6e9</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_47_Add_Feature.TC47_Add_Feature()'><b>TC47_Add_Feature</b><br>Test class: com.desktopWeb.scripts.tools.TC_47_Add_Feature<br>Parameters: autosm2017@gmail.com, Automation2017, Title for all, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Feature Feed to page</td>
+<td></td>
+<td>702</td>
+<td>com.desktopWeb.scripts.tools.TC_47_Add_Feature@6f03482</td></tr>
+<tr>
+<td title='com.desktopWeb.scripts.tools.TC_48_Add_Accodion.TC48_Add_Accodion()'><b>TC48_Add_Accodion</b><br>Test class: com.desktopWeb.scripts.tools.TC_48_Add_Accodion<br>Parameters: autosm2017@gmail.com, Automation2017, Got any idea?, I will share my idea very soon, Automation Project, This is Automation Project, Department of Education & Training, Public, Active, autoconmanager,autoprauthor, Consultation Manager,Project Author, Yes, Verify Add Accodion to page</td>
+<td></td>
+<td>656</td>
+<td>com.desktopWeb.scripts.tools.TC_48_Add_Accodion@62ddbd7e</td></tr>
+</table><p>
+</body>
+</html>

@@ -1,0 +1,195 @@
+2017-03-07 10:11:19-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-03-07 10:11:53-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC130_Design_Project_Sub_Page_Template_Cm
+2017-03-07 10:11:53-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-03-07 10:11:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu
+2017-03-07 10:11:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Menu/Login
+2017-03-07 10:11:54-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoconmanager@harvestdp.com in Email address
+2017-03-07 10:11:54-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-03-07 10:11:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-03-07 10:12:04-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToProjectSubPage
+2017-03-07 10:12:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page
+2017-03-07 10:13:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project Sub Page
+2017-03-07 10:13:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page Name
+2017-03-07 10:13:16-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing Design in Project Name
+2017-03-07 10:13:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Design
+2017-03-07 10:14:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Expand
+2017-03-07 10:14:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on RightSlider
+2017-03-07 10:14:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on SaveChanges
+2017-03-07 10:14:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Save Page
+2017-03-07 10:14:34-main--INFO -com.ctaf.accelerators.TestEngine:in workflow
+2017-03-07 10:14:34-main--INFO -com.ctaf.accelerators.TestEngine:in sumbitWorkflow
+2017-03-07 10:14:40-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing in Version Comment
+2017-03-07 10:14:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Submit to Change
+2017-03-07 10:17:14-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-03-07 10:17:48-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC135_Verify_Project_Sub_Page_Version_NewPage_Pa
+2017-03-07 10:17:48-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-03-07 10:17:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu
+2017-03-07 10:17:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Menu/Login
+2017-03-07 10:17:49-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoprauthor@harvestdp.com in Email address
+2017-03-07 10:17:49-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-03-07 10:17:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-03-07 10:17:59-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToProjectSubPage
+2017-03-07 10:18:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page
+2017-03-07 10:18:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project Sub Page
+2017-03-07 10:19:04-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-03-07 10:19:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Details
+2017-03-07 10:19:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project Name
+2017-03-07 10:19:10-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing Version New Page - LNpF in Project Name
+2017-03-07 10:19:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Submit
+2017-03-07 10:19:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Save Page
+2017-03-07 10:19:35-main--INFO -com.ctaf.accelerators.TestEngine:in workflow
+2017-03-07 10:19:35-main--INFO -com.ctaf.accelerators.TestEngine:in sumbitWorkflow
+2017-03-07 10:19:40-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing in Version Comment
+2017-03-07 10:19:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Submit to Change
+2017-03-07 10:20:20-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToSetting
+2017-03-07 10:20:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Settings
+2017-03-07 10:20:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Version
+2017-03-07 10:21:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on New Page
+2017-03-07 10:21:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-03-07 10:22:30-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC137_Verify_Project_Sub_Page_Version_Duplicate_Pa
+2017-03-07 10:22:30-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-03-07 10:22:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu
+2017-03-07 10:22:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Menu/Login
+2017-03-07 10:22:31-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoprauthor@harvestdp.com in Email address
+2017-03-07 10:22:31-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-03-07 10:22:31-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-03-07 10:22:41-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToProjectSubPage
+2017-03-07 10:22:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page
+2017-03-07 10:23:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project Sub Page
+2017-03-07 10:23:48-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-03-07 10:23:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Details
+2017-03-07 10:23:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project Name
+2017-03-07 10:23:53-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing Version Duplicate - gYge in Project Name
+2017-03-07 10:24:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Submit
+2017-03-07 10:24:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Save Page
+2017-03-07 10:24:19-main--INFO -com.ctaf.accelerators.TestEngine:in workflow
+2017-03-07 10:24:19-main--INFO -com.ctaf.accelerators.TestEngine:in sumbitWorkflow
+2017-03-07 10:24:24-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing in Version Comment
+2017-03-07 10:24:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Submit to Change
+2017-03-07 10:25:04-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToSetting
+2017-03-07 10:25:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Settings
+2017-03-07 10:25:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Version
+2017-03-07 10:25:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Duplicate Version
+2017-03-07 10:56:07-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-03-07 10:56:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC139_Design_Project_Sub_Page_Template_Pa
+2017-03-07 10:56:40-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-03-07 10:56:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu
+2017-03-07 10:56:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Menu/Login
+2017-03-07 10:56:40-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoprauthor@harvestdp.com in Email address
+2017-03-07 10:56:40-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-03-07 10:56:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-03-07 10:56:50-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToProjectSubPage
+2017-03-07 10:57:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page
+2017-03-07 10:57:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project Sub Page
+2017-03-07 10:57:57-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing Design in Project Name
+2017-03-07 10:58:22-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Design
+2017-03-07 10:58:28-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-03-07 10:59:00-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC140_SEO_Project_Sub_Page_Name_Pa
+2017-03-07 10:59:00-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-03-07 10:59:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu
+2017-03-07 10:59:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Menu/Login
+2017-03-07 10:59:01-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoprauthor@harvestdp.com in Email address
+2017-03-07 10:59:01-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-03-07 10:59:01-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-03-07 10:59:11-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToProjectSubPage
+2017-03-07 10:59:12-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-03-07 10:59:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page
+2017-03-07 10:59:46-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC139_Design_Project_Sub_Page_Template_Pa
+2017-03-07 10:59:46-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-03-07 10:59:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu
+2017-03-07 10:59:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Menu/Login
+2017-03-07 10:59:47-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoprauthor@harvestdp.com in Email address
+2017-03-07 10:59:47-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-03-07 10:59:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-03-07 10:59:57-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToProjectSubPage
+2017-03-07 11:00:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project Sub Page
+2017-03-07 11:00:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page
+2017-03-07 11:00:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page Name
+2017-03-07 11:00:22-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing SEO in Project Name
+2017-03-07 11:00:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project Sub Page
+2017-03-07 11:01:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on SEO
+2017-03-07 11:01:02-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-03-07 11:01:03-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing Design in Project Name
+2017-03-07 11:01:04-main--INFO -com.ctaf.accelerators.TestEngine:Type  New DescJFng in SEO Name
+2017-03-07 11:01:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Save Changes
+2017-03-07 11:01:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Save Page
+2017-03-07 11:01:25-main--INFO -com.ctaf.accelerators.TestEngine:in workflow
+2017-03-07 11:01:25-main--INFO -com.ctaf.accelerators.TestEngine:in sumbitWorkflow
+2017-03-07 11:01:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Design
+2017-03-07 11:01:30-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing in Version Comment
+2017-03-07 11:01:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Submit to Change
+2017-03-07 11:01:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Expand
+2017-03-07 11:01:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Narrow
+2017-03-07 11:01:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on SaveChanges
+2017-03-07 11:05:57-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot
+2017-03-07 11:07:17-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-03-07 11:13:06-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-03-07 11:13:40-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC143_Verify_Project_Sub_Page_Version_Approve_Pa
+2017-03-07 11:13:40-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-03-07 11:13:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu
+2017-03-07 11:13:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Menu/Login
+2017-03-07 11:13:41-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoprauthor@harvestdp.com in Email address
+2017-03-07 11:13:41-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-03-07 11:13:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-03-07 11:13:51-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToProjectSubPage
+2017-03-07 11:14:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page
+2017-03-07 11:14:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project Sub Page
+2017-03-07 11:14:59-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-03-07 11:15:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Details
+2017-03-07 11:15:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project Name
+2017-03-07 11:15:05-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing Version Approve - FBex in Project Name
+2017-03-07 11:15:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Submit
+2017-03-07 11:15:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Save Page
+2017-03-07 11:15:31-main--INFO -com.ctaf.accelerators.TestEngine:in workflow
+2017-03-07 11:15:31-main--INFO -com.ctaf.accelerators.TestEngine:in sumbitWorkflow
+2017-03-07 11:15:36-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing in Version Comment
+2017-03-07 11:15:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Submit to Change
+2017-03-07 11:16:16-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToSetting
+2017-03-07 11:16:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Settings
+2017-03-07 11:16:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Version
+2017-03-07 11:17:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Approve
+2017-03-07 11:17:47-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-03-07 11:18:23-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC144_Detail_Project_Sub_Page_Project_Pa
+2017-03-07 11:18:23-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-03-07 11:18:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu
+2017-03-07 11:18:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Menu/Login
+2017-03-07 11:18:23-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoprauthor@harvestdp.com in Email address
+2017-03-07 11:18:23-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-03-07 11:18:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-03-07 11:18:33-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToProjectSubPage
+2017-03-07 11:18:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page
+2017-03-07 11:19:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project Sub Page
+2017-03-07 11:19:38-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-03-07 11:19:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Details
+2017-03-07 11:19:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project Name
+2017-03-07 11:19:44-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing on Chrome Browser - do not delete - SBSR in Project Name
+2017-03-07 11:19:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Submit
+2017-03-07 11:20:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Save Page
+2017-03-07 11:20:09-main--INFO -com.ctaf.accelerators.TestEngine:in workflow
+2017-03-07 11:20:09-main--INFO -com.ctaf.accelerators.TestEngine:in sumbitWorkflow
+2017-03-07 11:20:15-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing in Version Comment
+2017-03-07 11:20:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Submit to Change
+2017-03-07 11:21:19-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-03-07 11:21:53-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC146_Verify_Page_News_Page_Delete_En
+2017-03-07 11:21:53-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-03-07 11:21:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Menu
+2017-03-07 11:21:53-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Menu/Login
+2017-03-07 11:21:53-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoenmanager@harvestdp.com in Email address
+2017-03-07 11:21:54-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-03-07 11:21:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-03-07 11:22:09-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToNewsPage
+2017-03-07 11:22:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page
+2017-03-07 11:22:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on More
+2017-03-07 11:23:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on News Page
+2017-03-07 11:23:18-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-03-07 11:23:18-main--INFO -com.ctaf.accelerators.TestEngine:in getRandomString
+2017-03-07 11:23:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Details
+2017-03-07 11:23:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project Name
+2017-03-07 11:23:23-main--INFO -com.ctaf.accelerators.TestEngine:Type  NewsPage - YJRaDZ - xxYU in Project Name
+2017-03-07 11:23:23-main--INFO -com.ctaf.accelerators.TestEngine:in PageLocation
+2017-03-07 11:24:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Expand Home
+2017-03-07 11:24:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project
+2017-03-07 11:24:59-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Submit
+2017-03-07 11:25:04-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToSetting
+2017-03-07 11:25:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Settings
+2017-03-07 11:29:25-main--INFO -com.ctaf.accelerators.TestEngine: Able to get TscreenShot

@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" > 
+<suite name="OLAF" allow-return-values="true" verbose="2">
+	<test name="OLAF">
+		<classes>
+			<class name="com.desktopWeb.scripts.TestSuitForDBSSlider"/>
+		</classes>
+	</test>
+</suite>

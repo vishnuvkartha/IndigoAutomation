@@ -1,0 +1,200 @@
+2017-04-13 09:41:53-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-13 09:43:17-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC116_WCCP_446_Verify_PM_Dept_Agency_Permission_To_En_Manager
+2017-04-13 09:43:17-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-13 09:43:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-13 09:43:19-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-13 09:43:19-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-13 09:43:19-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-13 09:44:12-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-13 09:44:57-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard/Memebers
+2017-04-13 09:45:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Site User
+2017-04-13 09:45:50-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoenmanager@harvestdp.com in Email Id
+2017-04-13 09:45:52-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search
+2017-04-13 09:46:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on User
+2017-04-13 09:46:19-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Select Group
+2017-04-13 09:46:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Department
+2017-04-13 09:46:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Okay
+2017-04-13 09:48:37-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-13 09:49:28-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC116_WCCP_446_Verify_PM_Dept_Agency_Permission_To_En_Manager
+2017-04-13 09:49:28-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-13 09:49:28-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-13 09:49:29-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-13 09:49:29-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-13 09:49:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-13 09:50:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-13 09:51:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard/Memebers
+2017-04-13 10:24:33-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-13 10:25:48-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC116_WCCP_446_Verify_PM_Dept_Agency_Permission_To_En_Manager
+2017-04-13 10:25:48-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-13 10:25:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-13 10:25:49-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-13 10:25:50-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-13 10:25:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-13 10:26:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-13 10:27:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard/Memebers
+2017-04-13 10:30:30-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Site User
+2017-04-13 10:30:34-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoenmanager@harvestdp.com in Email Id
+2017-04-13 10:30:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search
+2017-04-13 10:39:49-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on User
+2017-04-13 10:39:55-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Select Group
+2017-04-13 10:40:03-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Department
+2017-04-13 10:40:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Okay
+2017-04-13 11:12:52-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-13 11:13:50-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC116_WCCP_446_Verify_PM_Dept_Agency_Permission_To_En_Manager
+2017-04-13 11:13:50-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-13 11:13:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-13 11:13:57-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-13 11:13:58-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-13 11:14:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-13 11:14:51-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-13 11:15:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard/Memebers
+2017-04-13 11:15:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Site User
+2017-04-13 11:15:48-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoenmanager@harvestdp.com in Email Id
+2017-04-13 11:15:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search
+2017-04-13 11:16:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on User
+2017-04-13 11:16:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Select Group
+2017-04-13 11:16:35-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Department
+2017-04-13 11:16:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Okay
+2017-04-13 11:17:41-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-13 11:18:37-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC116_WCCP_446_Verify_PM_Dept_Agency_Permission_To_En_Manager
+2017-04-13 11:18:37-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-13 11:18:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-13 11:18:37-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-13 11:18:37-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-13 11:18:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-13 11:19:29-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-13 11:20:14-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard/Memebers
+2017-04-13 11:20:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Site User
+2017-04-13 11:20:26-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoenmanager@harvestdp.com in Email Id
+2017-04-13 11:20:26-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search
+2017-04-13 11:20:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on User
+2017-04-13 11:21:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Select Group
+2017-04-13 11:21:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Department
+2017-04-13 11:21:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Okay
+2017-04-13 11:23:31-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-13 11:24:23-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC116_WCCP_446_Verify_PM_Dept_Agency_Permission_To_En_Manager
+2017-04-13 11:24:23-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-13 11:24:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-13 11:24:23-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-13 11:24:23-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-13 11:24:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-13 11:25:12-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-13 11:25:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard/Memebers
+2017-04-13 11:26:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Site User
+2017-04-13 11:26:08-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoenmanager@harvestdp.com in Email Id
+2017-04-13 11:26:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search
+2017-04-13 11:26:25-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on User
+2017-04-13 11:26:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Select Group
+2017-04-13 11:26:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Department
+2017-04-13 11:26:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Okay
+2017-04-13 11:30:56-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-13 11:34:22-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-13 11:35:46-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC116_WCCP_446_Verify_PM_Dept_Agency_Permission_To_En_Manager
+2017-04-13 11:35:46-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-13 11:35:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-13 11:35:46-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-13 11:35:46-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-13 11:35:46-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-13 11:36:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-13 11:37:27-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard/Memebers
+2017-04-13 11:37:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Site User
+2017-04-13 11:37:38-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoenmanager@harvestdp.com in Email Id
+2017-04-13 11:37:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search
+2017-04-13 11:37:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on User
+2017-04-13 11:38:40-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Select Group
+2017-04-13 11:38:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Department
+2017-04-13 11:38:54-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Okay
+2017-04-13 11:39:36-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Select Group
+2017-04-13 11:39:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Department
+2017-04-13 11:40:08-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Okay
+2017-04-13 11:45:13-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-13 11:46:06-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC116_WCCP_446_Verify_PM_Dept_Agency_Permission_To_En_Manager
+2017-04-13 11:46:06-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-13 11:46:06-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-13 11:46:07-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-13 11:46:07-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-13 11:46:07-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-13 11:47:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-13 11:47:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard/Memebers
+2017-04-13 11:47:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Site User
+2017-04-13 11:47:56-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoenmanager@harvestdp.com in Email Id
+2017-04-13 11:47:56-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search
+2017-04-13 11:48:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on User
+2017-04-13 11:48:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Select Group
+2017-04-13 11:48:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Department
+2017-04-13 11:48:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Okay
+2017-04-13 11:48:38-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Select Group
+2017-04-13 11:48:43-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Department
+2017-04-13 11:48:48-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Okay
+2017-04-13 12:13:23-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-13 12:14:32-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC116_WCCP_446_Verify_PM_Dept_Agency_Permission_To_En_Manager
+2017-04-13 12:14:32-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-13 12:14:32-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-13 12:14:32-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-13 12:14:33-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-13 12:14:33-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-13 12:15:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-13 12:16:09-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard/Memebers
+2017-04-13 12:16:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Site User
+2017-04-13 12:16:20-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoenmanager@harvestdp.com in Email Id
+2017-04-13 12:16:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search
+2017-04-13 12:16:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on User
+2017-04-13 12:16:37-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Select Group
+2017-04-13 12:16:42-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Department
+2017-04-13 12:16:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Okay
+2017-04-13 12:24:30-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-13 12:25:23-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC116_WCCP_446_Verify_PM_Dept_Agency_Permission_To_En_Manager
+2017-04-13 12:25:23-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-13 12:25:23-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-13 12:25:23-main--INFO -com.ctaf.accelerators.TestEngine:Type  autosm2017@gmail.com in Email address
+2017-04-13 12:25:24-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-13 12:25:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-13 12:26:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard
+2017-04-13 12:27:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Dashboard/Memebers
+2017-04-13 12:27:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Site User
+2017-04-13 12:27:17-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoenmanager@harvestdp.com in Email Id
+2017-04-13 12:27:17-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Search
+2017-04-13 12:27:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on User
+2017-04-13 12:27:34-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Select Group
+2017-04-13 12:27:39-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Department
+2017-04-13 12:27:44-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Okay
+2017-04-13 12:28:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Select Group
+2017-04-13 12:28:05-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Department
+2017-04-13 12:28:10-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Okay
+2017-04-13 12:38:26-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-13 12:39:18-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC118_Design_Project_Sub_Page_Template_en
+2017-04-13 12:39:18-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-13 12:39:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-13 12:39:18-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoenmanager@harvestdp.com in Email address
+2017-04-13 12:39:19-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-13 12:39:19-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-13 12:39:29-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToProjectSubPage
+2017-04-13 12:40:11-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page
+2017-04-13 12:41:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project Sub Page
+2017-04-13 12:42:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page Name
+2017-04-13 12:42:09-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing Design in Project Name
+2017-04-13 12:42:50-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Design
+2017-04-13 12:43:00-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Expand
+2017-04-13 12:43:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Full
+2017-04-13 12:43:24-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on SaveChanges
+2017-04-13 12:52:20-main--INFO -com.ctaf.accelerators.TestEngine:Starting browser : chrome
+2017-04-13 12:53:15-main--INFO -com.ctaf.accelerators.TestEngine:Current Test : TC118_Design_Project_Sub_Page_Template_en
+2017-04-13 12:53:15-main--INFO -com.ctaf.accelerators.TestEngine:in login
+2017-04-13 12:53:15-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Click on Home Page Login
+2017-04-13 12:53:16-main--INFO -com.ctaf.accelerators.TestEngine:Type  autoenmanager@harvestdp.com in Email address
+2017-04-13 12:53:16-main--INFO -com.ctaf.accelerators.TestEngine:Type  Automation2017 in Password
+2017-04-13 12:53:16-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Login button
+2017-04-13 12:53:26-main--INFO -com.ctaf.accelerators.TestEngine:in navigateToProjectSubPage
+2017-04-13 12:54:13-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page
+2017-04-13 12:55:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Project Sub Page
+2017-04-13 12:56:04-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Page Name
+2017-04-13 12:56:13-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing Design in Project Name
+2017-04-13 12:58:02-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Design
+2017-04-13 12:58:18-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Expand
+2017-04-13 12:58:45-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Full
+2017-04-13 12:58:47-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on SaveChanges
+2017-04-13 12:59:20-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Save Page
+2017-04-13 12:59:28-main--INFO -com.ctaf.accelerators.TestEngine:in workflow
+2017-04-13 12:59:30-main--INFO -com.ctaf.accelerators.TestEngine:in sumbitWorkflow
+2017-04-13 12:59:35-main--INFO -com.ctaf.accelerators.TestEngine:Type  Testing in Version Comment
+2017-04-13 12:59:41-main--INFO -com.ctaf.accelerators.TestEngine:Successfully click on Submit to Change
